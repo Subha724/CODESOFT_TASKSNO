@@ -1,0 +1,2001 @@
+OrderID,OrderDate,Region,Category,Product,UnitPrice,Quantity,DiscountPct,Sales,Cost,Profit,CustomerAge,Rating,PaymentMethod
+ORD10064,2024-01-01,East,Home & Kitchen,Blender,190.97,6,0,1145.82,796.7,349.12,18,5.0,Credit Card
+ORD11117,2024-01-01,West,Beauty,Skincare Kit,96.65,7,0,676.55,513.62,162.93,26,4.1,Debit Card
+ORD10729,2024-01-01,North,Electronics,Tablet,296.52,6,0,1779.12,1286.24,492.88,47,4.3,Debit Card
+ORD10806,2024-01-01,Central,Clothing,Dress,89.05,4,10,356.2,253.9,102.3,41,4.2,Credit Card
+ORD11505,2024-01-02,West,Beauty,Perfume,84.3,5,0,421.5,288.7,132.8,18,4.8,Cash
+ORD11219,2024-01-02,North,Electronics,Tablet,247.09,5,0,1235.45,822.09,413.36,27,3.6,UPI
+ORD10953,2024-01-02,West,Electronics,Laptop,865.74,3,5,2597.22,1822.75,774.47,18,3.3,Debit Card
+ORD10139,2024-01-03,West,Home & Kitchen,Cookware Set,171.86,2,0,343.72,230.22,113.5,18,3.5,Debit Card
+ORD11173,2024-01-03,West,Sports,Bicycle,196.24,4,0,784.96,456.56,328.4,43,5.0,Wallet
+ORD11339,2024-01-03,South,Sports,Yoga Mat,132.07,3,5,396.21,298.03,98.18,35,4.3,Credit Card
+ORD10361,2024-01-04,North,Home & Kitchen,Cookware Set,235.08,6,10,1410.48,864.33,546.15,18,5.0,Credit Card
+ORD10376,2024-01-04,East,Electronics,Headphones,747.64,7,0,5233.48,3949.16,1284.32,26,3.6,UPI
+ORD11165,2024-01-04,Central,Clothing,Jeans,107.97,5,5,539.85,410.58,129.27,34,4.1,Debit Card
+ORD10866,2024-01-04,West,Sports,Bicycle,330.81,2,10,661.62,467.51,194.11,40,4.2,Debit Card
+ORD10643,2024-01-04,West,Electronics,Headphones,1098.35,6,15,6590.1,4303.25,2286.85,48,5.0,Credit Card
+ORD10968,2024-01-05,Central,Sports,Tennis Racket,206.4,5,5,1032.0,734.37,297.63,35,5.0,Debit Card
+ORD10048,2024-01-05,East,Beauty,Skincare Kit,11.74,1,5,11.74,8.74,3.0,52,3.8,Cash
+ORD11134,2024-01-05,North,Beauty,Perfume,116.3,1,15,116.3,64.33,51.97,47,3.1,Credit Card
+ORD11597,2024-01-06,North,Clothing,Jacket,10.45,5,5,52.25,39.31,12.94,52,3.6,Debit Card
+ORD11709,2024-01-06,East,Electronics,Tablet,796.41,5,0,3982.05,2691.76,1290.29,50,3.3,Credit Card
+ORD10583,2024-01-06,East,Electronics,Smartwatch,282.23,5,10,1411.15,974.63,436.52,43,3.6,Debit Card
+ORD11615,2024-01-06,West,Sports,Running Shoes,301.44,1,0,301.44,234.98,66.46,42,3.5,Credit Card
+ORD10107,2024-01-07,West,Sports,Running Shoes,354.43,5,0,1772.15,1360.94,411.21,36,4.1,Credit Card
+ORD11225,2024-01-07,West,Electronics,Smartwatch,294.39,1,0,294.39,185.38,109.01,30,3.5,Debit Card
+ORD11115,2024-01-07,North,Clothing,Jacket,12.1,7,0,84.7,48.71,35.99,43,4.0,Wallet
+ORD10578,2024-01-07,North,Home & Kitchen,Cookware Set,218.02,4,0,872.08,656.1,215.98,18,4.2,Debit Card
+ORD11328,2024-01-07,North,Sports,Running Shoes,38.4,3,0,115.2,76.46,38.74,28,5.0,Cash
+ORD10590,2024-01-07,North,Electronics,Headphones,102.78,7,5,719.46,535.26,184.2,34,4.6,Wallet
+ORD10081,2024-01-08,Central,Beauty,Skincare Kit,11.85,7,0,82.95,50.89,32.06,36,5.0,Credit Card
+ORD10896,2024-01-08,North,Electronics,Smartwatch,857.67,5,0,4288.35,3327.12,961.23,37,4.4,UPI
+ORD11350,2024-01-08,East,Beauty,Perfume,136.75,7,15,957.25,613.02,344.23,37,4.6,UPI
+ORD11463,2024-01-09,North,Home & Kitchen,Lamp,36.97,2,0,73.94,44.76,29.18,19,5.0,UPI
+ORD11699,2024-01-09,North,Electronics,Headphones,1150.07,7,5,8050.49,5778.9,2271.59,25,3.9,UPI
+ORD11662,2024-01-10,East,Home & Kitchen,Air Fryer,278.39,6,5,1670.34,985.05,685.29,39,4.8,Wallet
+ORD11303,2024-01-10,East,Electronics,Laptop,387.18,6,0,2323.08,1569.71,753.37,40,3.4,Credit Card
+ORD11614,2024-01-10,West,Clothing,Jacket,95.91,4,5,383.64,262.86,120.78,18,3.1,Cash
+ORD11381,2024-01-10,North,Electronics,Tablet,894.44,4,10,3577.76,2793.87,783.89,25,4.9,Credit Card
+ORD11156,2024-01-10,East,Clothing,Jacket,60.46,1,15,60.46,41.08,19.38,41,3.5,Credit Card
+ORD10328,2024-01-11,West,Beauty,Skincare Kit,88.0,6,5,528.0,308.5,219.5,35,3.5,UPI
+ORD11020,2024-01-11,Central,Clothing,Jeans,16.39,3,20,49.17,38.18,10.99,25,3.4,Debit Card
+ORD11814,2024-01-11,Central,Clothing,Jacket,57.84,2,15,115.68,73.22,42.46,47,4.2,Debit Card
+ORD10860,2024-01-11,East,Beauty,Hair Dryer,134.42,4,0,537.68,330.15,207.53,30,4.3,Credit Card
+ORD10408,2024-01-12,North,Home & Kitchen,Blender,295.53,4,5,1182.12,686.6,495.52,19,3.8,Wallet
+ORD10750,2024-01-12,Central,Electronics,Smartphone,803.83,4,0,3215.32,2088.06,1127.26,18,4.1,Debit Card
+ORD11853,2024-01-12,South,Beauty,Skincare Kit,131.57,6,0,789.42,538.9,250.52,51,3.7,Credit Card
+ORD10252,2024-01-12,North,Clothing,Jeans,10.15,3,5,30.45,21.79,8.66,44,4.4,Debit Card
+ORD10178,2024-01-12,West,Electronics,Laptop,910.14,6,10,5460.84,4026.75,1434.09,44,4.9,Cash
+ORD10903,2024-01-13,Central,Electronics,Smartphone,1157.08,2,0,2314.16,1437.98,876.18,30,4.9,Wallet
+ORD11870,2024-01-13,Central,Electronics,Headphones,85.45,6,0,512.7,288.84,223.86,18,4.7,Credit Card
+ORD10233,2024-01-13,East,Electronics,Headphones,1167.55,5,0,5837.75,4562.76,1274.99,32,5.0,UPI
+ORD11909,2024-01-13,East,Electronics,Tablet,1193.65,2,10,2387.3,1834.58,552.72,37,4.1,UPI
+ORD11236,2024-01-14,East,Clothing,Sneakers,89.16,5,0,445.8,290.27,155.53,18,4.3,Credit Card
+ORD10122,2024-01-14,North,Clothing,Jacket,18.98,6,10,113.88,79.52,34.36,29,5.0,Credit Card
+ORD10435,2024-01-14,South,Clothing,Dress,118.1,6,5,708.6,473.7,234.9,48,4.3,Debit Card
+ORD10932,2024-01-14,West,Sports,Bicycle,360.54,2,0,721.08,475.1,245.98,45,4.9,Credit Card
+ORD10925,2024-01-15,North,Electronics,Smartwatch,554.69,5,5,2773.45,2128.56,644.89,62,4.6,Credit Card
+ORD10071,2024-01-15,East,Home & Kitchen,Air Fryer,243.24,5,5,1216.2,816.79,399.41,58,5.0,UPI
+ORD10529,2024-01-16,Central,Beauty,Makeup Kit,115.03,3,0,345.09,209.89,135.2,55,4.7,UPI
+ORD10828,2024-01-16,South,Beauty,Perfume,58.58,6,5,351.48,198.67,152.81,30,3.5,Debit Card
+ORD11638,2024-01-16,North,Sports,Bicycle,329.04,4,0,1316.16,979.42,336.74,39,3.7,Debit Card
+ORD11641,2024-01-16,East,Home & Kitchen,Air Fryer,228.97,6,0,1373.82,964.0,409.82,35,3.5,Debit Card
+ORD10094,2024-01-16,North,Electronics,Laptop,1114.78,7,5,7803.46,5376.21,2427.25,30,3.8,UPI
+ORD11832,2024-01-16,West,Electronics,Smartphone,1112.49,6,5,6674.94,4510.64,2164.3,31,4.9,Debit Card
+ORD10447,2024-01-16,West,Clothing,Sneakers,27.59,3,0,82.77,60.03,22.74,32,5.0,UPI
+ORD11282,2024-01-17,Central,Electronics,Smartphone,182.38,4,10,729.52,545.44,184.08,24,3.4,Credit Card
+ORD11705,2024-01-17,South,Sports,Dumbbell Set,139.97,2,15,279.94,168.91,111.03,27,3.9,UPI
+ORD10997,2024-01-17,North,Electronics,Laptop,1179.53,6,5,7077.18,4934.94,2142.24,40,5.0,Credit Card
+ORD10564,2024-01-17,East,Electronics,Laptop,1106.26,6,5,6637.56,4968.14,1669.42,31,3.8,Credit Card
+ORD11621,2024-01-18,North,Home & Kitchen,Cookware Set,264.03,1,5,264.03,166.17,97.86,26,4.4,Credit Card
+ORD11568,2024-01-18,South,Clothing,Dress,51.66,1,10,51.66,35.0,16.66,27,4.2,Credit Card
+ORD11014,2024-01-18,North,Electronics,Smartwatch,152.09,4,0,608.36,396.22,212.14,41,5.0,UPI
+ORD10989,2024-01-19,Central,Home & Kitchen,Lamp,59.22,5,10,296.1,206.83,89.27,29,3.4,Wallet
+ORD11828,2024-01-19,East,Electronics,Laptop,712.78,3,10,2138.34,1236.07,902.27,38,3.5,Credit Card
+ORD11168,2024-01-20,East,Home & Kitchen,Blender,225.4,4,0,901.6,526.19,375.41,53,4.9,Debit Card
+ORD11741,2024-01-21,West,Sports,Running Shoes,327.28,1,5,327.28,238.36,88.92,32,4.1,Debit Card
+ORD11005,2024-01-21,North,Home & Kitchen,Blender,261.58,5,0,1307.9,976.56,331.34,37,4.1,Credit Card
+ORD10293,2024-01-21,North,Electronics,Tablet,911.33,3,10,2733.99,2060.15,673.84,27,4.0,Credit Card
+ORD10902,2024-01-21,North,Sports,Running Shoes,178.62,2,0,357.24,281.15,76.09,36,3.0,Debit Card
+ORD10573,2024-01-21,West,Sports,Bicycle,302.07,7,10,2114.49,1234.89,879.6,25,3.9,Credit Card
+ORD10700,2024-01-21,South,Home & Kitchen,Lamp,53.4,7,5,373.8,219.48,154.32,34,3.9,Credit Card
+ORD10420,2024-01-21,East,Clothing,T-Shirt,56.91,1,0,56.91,32.46,24.45,19,4.2,Credit Card
+ORD10517,2024-01-21,West,Beauty,Hair Dryer,65.92,6,0,395.52,314.0,81.52,47,4.5,UPI
+ORD11878,2024-01-22,East,Electronics,Headphones,823.21,7,0,5762.47,4448.86,1313.61,44,3.9,Debit Card
+ORD10710,2024-01-23,West,Clothing,Jacket,111.43,2,0,222.86,157.3,65.56,30,4.2,Credit Card
+ORD11920,2024-01-23,Central,Beauty,Perfume,137.86,4,10,551.44,433.39,118.05,40,4.7,UPI
+ORD10068,2024-01-23,East,Sports,Running Shoes,183.92,1,15,183.92,111.83,72.09,18,4.7,Wallet
+ORD11204,2024-01-23,Central,Sports,Tennis Racket,251.1,6,5,1506.6,994.56,512.04,41,4.9,Debit Card
+ORD10592,2024-01-23,West,Electronics,Laptop,1126.5,6,0,6759.0,4071.2,2687.8,41,4.6,Wallet
+ORD11060,2024-01-23,East,Home & Kitchen,Lamp,91.09,7,0,637.63,467.55,170.08,33,4.8,Wallet
+ORD11073,2024-01-24,East,Beauty,Skincare Kit,108.56,2,0,217.12,143.95,73.17,25,4.2,Credit Card
+ORD10940,2024-01-24,North,Beauty,Skincare Kit,78.58,6,0,471.48,308.36,163.12,36,3.8,Credit Card
+ORD10419,2024-01-25,East,Home & Kitchen,Cookware Set,229.96,3,0,689.88,423.54,266.34,30,4.0,UPI
+ORD11812,2024-01-25,Central,Electronics,Laptop,201.01,2,0,402.02,321.42,80.6,30,4.0,Debit Card
+ORD10302,2024-01-25,South,Home & Kitchen,Cookware Set,224.77,1,10,224.77,153.72,71.05,39,4.4,Debit Card
+ORD10039,2024-01-25,South,Electronics,Tablet,691.22,5,10,3456.1,2550.93,905.17,34,3.8,Debit Card
+ORD10873,2024-01-25,East,Electronics,Laptop,537.94,4,10,2151.76,1220.8,930.96,43,3.8,UPI
+ORD10493,2024-01-25,East,Beauty,Makeup Kit,144.16,5,0,720.8,500.93,219.87,18,3.8,Wallet
+ORD10542,2024-01-26,Central,Sports,Running Shoes,259.45,5,0,1297.25,825.3,471.95,45,3.6,Wallet
+ORD11345,2024-01-27,West,Beauty,Shampoo,145.92,7,5,1021.44,697.65,323.79,50,5.0,Credit Card
+ORD11696,2024-01-28,South,Electronics,Headphones,497.45,4,0,1989.8,1518.53,471.27,33,5.0,UPI
+ORD10957,2024-01-28,Central,Home & Kitchen,Vacuum Cleaner,154.47,4,5,617.88,347.34,270.54,50,4.4,Wallet
+ORD10946,2024-01-28,East,Clothing,Sneakers,55.88,4,5,223.52,143.4,80.12,22,4.1,Cash
+ORD10980,2024-01-28,East,Clothing,T-Shirt,68.76,6,0,412.56,329.24,83.32,33,4.3,Cash
+ORD11481,2024-01-28,West,Electronics,Smartphone,557.1,5,0,2785.5,1942.43,843.07,18,4.4,Credit Card
+ORD11777,2024-01-28,North,Clothing,Sneakers,65.08,5,10,325.4,212.21,113.19,40,3.1,UPI
+ORD11826,2024-01-28,East,Clothing,Jacket,41.87,5,10,209.35,150.43,58.92,56,3.6,Credit Card
+ORD10803,2024-01-29,West,Beauty,Makeup Kit,10.13,5,10,50.65,29.15,21.5,35,4.3,UPI
+ORD10041,2024-01-29,North,Sports,Dumbbell Set,47.66,3,15,142.98,99.42,43.56,40,4.0,Wallet
+ORD11286,2024-01-29,South,Home & Kitchen,Air Fryer,284.03,5,0,1420.15,993.75,426.4,34,3.7,Credit Card
+ORD11307,2024-01-29,North,Electronics,Laptop,689.17,6,0,4135.02,2350.36,1784.66,32,3.8,Credit Card
+ORD11939,2024-01-30,South,Clothing,T-Shirt,47.84,6,10,287.04,196.18,90.86,52,4.9,Wallet
+ORD10378,2024-01-30,East,Home & Kitchen,Cookware Set,125.87,4,0,503.48,373.66,129.82,44,3.6,UPI
+ORD11360,2024-01-31,East,Clothing,Dress,25.49,3,5,76.47,50.94,25.53,24,3.5,UPI
+ORD11487,2024-01-31,North,Electronics,Laptop,313.15,2,10,626.3,357.16,269.14,29,4.7,UPI
+ORD11906,2024-02-01,Central,Sports,Bicycle,161.89,6,0,971.34,611.46,359.88,43,4.7,Credit Card
+ORD10961,2024-02-02,North,Clothing,Sneakers,30.99,6,0,185.94,139.48,46.46,30,5.0,Wallet
+ORD10649,2024-02-02,East,Electronics,Laptop,1125.7,6,5,6754.2,4264.77,2489.43,49,3.9,Cash
+ORD11217,2024-02-03,East,Electronics,Tablet,368.28,3,15,1104.84,839.5,265.34,28,3.7,Debit Card
+ORD10760,2024-02-03,North,Beauty,Hair Dryer,62.66,3,5,187.98,135.25,52.73,18,3.4,UPI
+ORD10087,2024-02-03,East,Home & Kitchen,Cookware Set,175.17,1,10,175.17,118.13,57.04,24,3.7,UPI
+ORD10004,2024-02-04,East,Clothing,Sneakers,110.03,4,10,440.12,262.12,178.0,30,3.4,Debit Card
+ORD10124,2024-02-04,North,Clothing,Sneakers,34.26,6,0,205.56,114.63,90.93,33,4.9,UPI
+ORD11220,2024-02-04,West,Sports,Dumbbell Set,323.84,5,0,1619.2,960.85,658.35,35,3.7,Debit Card
+ORD11258,2024-02-05,North,Clothing,Sneakers,114.03,5,0,570.15,336.62,233.53,35,3.6,Wallet
+ORD11734,2024-02-05,South,Sports,Dumbbell Set,200.24,6,5,1201.44,858.31,343.13,27,5.0,Wallet
+ORD11401,2024-02-05,East,Clothing,Jeans,29.83,2,0,59.66,33.96,25.7,59,4.0,Debit Card
+ORD11064,2024-02-06,South,Sports,Dumbbell Set,53.07,6,0,318.42,218.52,99.9,18,3.7,Cash
+ORD10981,2024-02-07,Central,Clothing,Jacket,92.32,6,0,553.92,422.85,131.07,27,4.8,Credit Card
+ORD10098,2024-02-08,Central,Electronics,Laptop,70.81,5,5,354.05,262.63,91.42,30,5.0,Cash
+ORD10471,2024-02-08,South,Beauty,Shampoo,76.66,3,10,229.98,171.51,58.47,33,4.9,Credit Card
+ORD11324,2024-02-08,West,Sports,Running Shoes,222.68,3,10,668.04,482.62,185.42,49,3.6,Debit Card
+ORD10025,2024-02-08,West,Sports,Running Shoes,128.03,7,0,896.21,586.97,309.24,37,3.8,Credit Card
+ORD11297,2024-02-09,East,Electronics,Smartphone,834.14,1,15,834.14,518.4,315.74,44,3.8,Wallet
+ORD10197,2024-02-09,Central,Beauty,Hair Dryer,80.0,4,0,320.0,192.16,127.84,44,4.4,Credit Card
+ORD11810,2024-02-09,North,Beauty,Hair Dryer,117.76,3,5,353.28,248.82,104.46,44,4.5,Cash
+ORD10287,2024-02-12,Central,Sports,Dumbbell Set,260.51,2,0,521.02,377.85,143.17,41,4.8,Credit Card
+ORD11656,2024-02-12,South,Home & Kitchen,Air Fryer,87.87,5,15,439.35,295.18,144.17,33,4.1,Credit Card
+ORD11549,2024-02-12,North,Beauty,Skincare Kit,38.6,3,10,115.8,64.57,51.23,48,4.4,UPI
+ORD11511,2024-02-12,North,Electronics,Tablet,913.67,3,10,2741.01,1808.51,932.5,43,4.3,Credit Card
+ORD10034,2024-02-12,West,Clothing,T-Shirt,31.54,5,0,157.7,95.2,62.5,29,4.3,Credit Card
+ORD10140,2024-02-12,East,Home & Kitchen,Air Fryer,234.17,6,10,1405.02,1035.1,369.92,36,5.0,Debit Card
+ORD11183,2024-02-12,North,Sports,Dumbbell Set,84.67,3,0,254.01,168.72,85.29,31,4.0,UPI
+ORD10814,2024-02-12,East,Clothing,Sneakers,19.88,5,0,99.4,61.82,37.58,25,3.6,UPI
+ORD11124,2024-02-14,South,Home & Kitchen,Cookware Set,96.45,6,0,578.7,430.05,148.65,39,4.6,Credit Card
+ORD11510,2024-02-14,Central,Clothing,T-Shirt,15.05,4,5,60.2,38.98,21.22,51,3.7,UPI
+ORD10253,2024-02-14,South,Sports,Yoga Mat,168.23,4,10,672.92,521.42,151.5,42,4.3,Debit Card
+ORD10528,2024-02-15,North,Electronics,Smartphone,943.01,6,0,5658.06,3990.67,1667.39,34,4.0,Wallet
+ORD11521,2024-02-15,South,Sports,Bicycle,379.36,5,0,1896.8,1353.61,543.19,33,3.8,Debit Card
+ORD11652,2024-02-15,North,Electronics,Smartphone,360.62,4,10,1442.48,926.7,515.78,18,4.6,Debit Card
+ORD11232,2024-02-15,North,Beauty,Shampoo,56.06,2,10,112.12,82.01,30.11,29,3.6,Debit Card
+ORD11047,2024-02-15,Central,Electronics,Headphones,1031.52,1,20,1031.52,817.73,213.79,45,4.3,Debit Card
+ORD10826,2024-02-15,East,Home & Kitchen,Blender,192.37,6,10,1154.22,843.62,310.6,18,4.1,UPI
+ORD11373,2024-02-15,West,Beauty,Makeup Kit,125.85,2,5,251.7,139.5,112.2,60,3.3,UPI
+ORD11910,2024-02-16,South,Beauty,Hair Dryer,83.02,7,0,581.14,438.61,142.53,43,4.2,Credit Card
+ORD10671,2024-02-16,North,Sports,Bicycle,379.24,6,5,2275.44,1501.04,774.4,48,4.3,Debit Card
+ORD10890,2024-02-16,Central,Clothing,Sneakers,87.43,3,5,262.29,192.35,69.94,40,4.8,Credit Card
+ORD11697,2024-02-17,North,Sports,Tennis Racket,242.15,6,10,1452.9,808.35,644.55,33,4.1,Credit Card
+ORD10327,2024-02-18,South,Electronics,Laptop,463.21,5,0,2316.05,1310.05,1006.0,38,4.0,Credit Card
+ORD10213,2024-02-18,North,Clothing,Sneakers,10.84,6,10,65.04,49.32,15.72,18,4.0,Debit Card
+ORD10145,2024-02-18,Central,Clothing,Jeans,36.06,5,10,180.3,112.78,67.52,45,4.5,Cash
+ORD10433,2024-02-19,South,Clothing,T-Shirt,43.69,2,20,87.38,49.09,38.29,52,4.8,Credit Card
+ORD11695,2024-02-19,North,Home & Kitchen,Lamp,207.12,2,10,414.24,287.2,127.04,18,4.8,Credit Card
+ORD11050,2024-02-19,North,Home & Kitchen,Cookware Set,143.3,6,15,859.8,521.38,338.42,33,3.3,Cash
+ORD10141,2024-02-20,Central,Beauty,Shampoo,16.56,5,0,82.8,55.46,27.34,21,4.4,Debit Card
+ORD11206,2024-02-20,South,Electronics,Smartwatch,661.82,4,0,2647.28,1836.59,810.69,36,4.0,Credit Card
+ORD10785,2024-02-20,West,Electronics,Headphones,855.69,5,0,4278.45,2683.26,1595.19,19,4.4,Credit Card
+ORD11742,2024-02-21,East,Sports,Bicycle,294.41,4,5,1177.64,909.44,268.2,32,4.5,Debit Card
+ORD11704,2024-02-21,West,Home & Kitchen,Blender,67.8,6,0,406.8,248.43,158.37,36,4.8,Debit Card
+ORD11291,2024-02-21,North,Home & Kitchen,Vacuum Cleaner,164.49,2,0,328.98,202.65,126.33,31,3.6,Debit Card
+ORD11440,2024-02-21,North,Home & Kitchen,Lamp,134.08,7,0,938.56,624.09,314.47,18,4.8,Debit Card
+ORD11845,2024-02-22,Central,Electronics,Smartwatch,592.85,4,15,2371.4,1695.8,675.6,18,4.3,Credit Card
+ORD11053,2024-02-22,West,Sports,Yoga Mat,261.37,2,0,522.74,399.97,122.77,51,4.8,Credit Card
+ORD11475,2024-02-23,North,Electronics,Smartwatch,583.65,2,0,1167.3,691.01,476.29,28,4.2,Credit Card
+ORD11388,2024-02-23,Central,Beauty,Hair Dryer,126.35,5,10,631.75,405.4,226.35,34,3.3,Credit Card
+ORD11948,2024-02-23,East,Beauty,Skincare Kit,126.7,3,0,380.1,224.05,156.05,35,4.3,UPI
+ORD10286,2024-02-23,East,Electronics,Smartphone,432.83,4,15,1731.32,1276.15,455.17,29,3.2,Debit Card
+ORD11547,2024-02-23,North,Home & Kitchen,Cookware Set,251.53,2,15,503.06,378.85,124.21,38,4.5,Credit Card
+ORD10660,2024-02-23,Central,Clothing,Sneakers,38.78,7,10,271.46,182.29,89.17,35,4.5,UPI
+ORD11166,2024-02-24,East,Electronics,Tablet,437.19,5,0,2185.95,1559.28,626.67,29,3.7,Debit Card
+ORD11497,2024-02-24,South,Sports,Running Shoes,38.53,4,15,154.12,116.57,37.55,41,4.1,Credit Card
+ORD10879,2024-02-26,North,Electronics,Smartwatch,814.28,6,0,4885.68,3050.49,1835.19,44,3.7,Credit Card
+ORD11758,2024-02-26,North,Clothing,T-Shirt,100.27,4,0,401.08,302.41,98.67,24,5.0,Credit Card
+ORD11759,2024-02-27,East,Sports,Tennis Racket,327.99,6,5,1967.94,1571.74,396.2,29,4.3,Credit Card
+ORD11804,2024-02-27,East,Clothing,Jacket,72.76,4,5,291.04,193.6,97.44,33,4.3,Debit Card
+ORD11317,2024-02-27,Central,Clothing,Jacket,28.65,4,10,114.6,72.2,42.4,46,4.5,UPI
+ORD10688,2024-02-28,East,Clothing,Dress,83.66,2,0,167.32,105.94,61.38,24,4.1,Debit Card
+ORD10279,2024-02-28,North,Sports,Tennis Racket,152.0,2,10,304.0,200.09,103.91,33,3.9,Debit Card
+ORD10430,2024-02-28,South,Sports,Bicycle,324.25,5,10,1621.25,1177.45,443.8,44,3.5,Cash
+ORD11888,2024-02-29,West,Electronics,Tablet,1078.88,1,15,1078.88,620.11,458.77,45,4.5,UPI
+ORD10355,2024-02-29,North,Sports,Tennis Racket,60.68,6,5,364.08,207.21,156.87,36,4.6,Credit Card
+ORD10852,2024-02-29,East,Sports,Running Shoes,220.56,2,5,441.12,348.67,92.45,53,3.8,Debit Card
+ORD11663,2024-03-01,North,Electronics,Headphones,789.25,2,0,1578.5,1028.5,550.0,23,4.8,Debit Card
+ORD11366,2024-03-02,West,Clothing,Sneakers,98.79,3,5,296.37,222.79,73.58,23,3.6,Credit Card
+ORD11852,2024-03-02,North,Sports,Bicycle,368.2,4,5,1472.8,1033.28,439.52,27,4.5,Cash
+ORD11927,2024-03-02,West,Home & Kitchen,Blender,57.98,5,5,289.9,215.6,74.3,35,4.8,Debit Card
+ORD10855,2024-03-02,North,Electronics,Tablet,146.75,5,5,733.75,513.87,219.88,36,4.6,Credit Card
+ORD10979,2024-03-03,Central,Clothing,T-Shirt,40.09,7,0,280.63,211.03,69.6,43,4.8,Credit Card
+ORD10325,2024-03-04,West,Clothing,Sneakers,108.11,5,0,540.55,308.8,231.75,18,4.1,Credit Card
+ORD10648,2024-03-04,North,Beauty,Makeup Kit,16.62,1,5,16.62,11.41,5.21,41,4.6,UPI
+ORD10320,2024-03-04,East,Beauty,Skincare Kit,123.06,1,10,123.06,73.2,49.86,28,5.0,Cash
+ORD11894,2024-03-04,North,Electronics,Laptop,459.25,6,0,2755.5,1928.42,827.08,30,4.6,Credit Card
+ORD10587,2024-03-05,East,Electronics,Headphones,147.46,7,0,1032.22,588.75,443.47,41,4.1,Debit Card
+ORD11760,2024-03-07,West,Electronics,Headphones,763.21,5,5,3816.05,2102.91,1713.14,25,3.3,UPI
+ORD11255,2024-03-07,East,Electronics,Smartwatch,964.52,7,5,6751.64,3727.08,3024.56,32,4.3,Wallet
+ORD10738,2024-03-07,South,Electronics,Headphones,1032.82,3,0,3098.46,2191.03,907.43,29,4.4,Credit Card
+ORD10691,2024-03-07,North,Electronics,Headphones,300.21,5,0,1501.05,827.62,673.43,36,4.3,Debit Card
+ORD11441,2024-03-07,North,Beauty,Perfume,141.28,2,5,282.56,181.17,101.39,18,4.4,UPI
+ORD11352,2024-03-07,South,Clothing,Dress,49.69,6,10,298.14,216.27,81.87,32,3.5,UPI
+ORD11285,2024-03-07,South,Clothing,Jeans,61.1,3,5,183.3,108.81,74.49,24,3.7,Debit Card
+ORD10575,2024-03-07,Central,Sports,Dumbbell Set,354.73,4,0,1418.92,850.53,568.39,40,3.4,Credit Card
+ORD11649,2024-03-07,South,Home & Kitchen,Air Fryer,236.67,7,5,1656.69,1011.79,644.9,42,4.0,Credit Card
+ORD11112,2024-03-08,West,Electronics,Tablet,435.34,2,5,870.68,686.53,184.15,45,3.9,Credit Card
+ORD10851,2024-03-08,South,Sports,Bicycle,302.26,7,0,2115.82,1522.99,592.83,39,5.0,Debit Card
+ORD10031,2024-03-09,North,Electronics,Tablet,167.34,6,10,1004.04,766.95,237.09,34,3.6,Debit Card
+ORD10288,2024-03-09,North,Beauty,Perfume,18.95,2,5,37.9,21.44,16.46,52,4.6,UPI
+ORD11599,2024-03-09,South,Electronics,Smartphone,229.43,5,0,1147.15,747.02,400.13,38,4.1,Credit Card
+ORD11498,2024-03-10,West,Electronics,Smartwatch,1092.96,4,5,4371.84,2958.33,1413.51,45,4.0,Wallet
+ORD11947,2024-03-11,West,Beauty,Makeup Kit,138.91,2,5,277.82,180.13,97.69,20,4.8,Wallet
+ORD10952,2024-03-12,South,Home & Kitchen,Blender,271.23,6,10,1627.38,1263.8,363.58,46,3.3,Debit Card
+ORD11075,2024-03-12,South,Home & Kitchen,Cookware Set,108.73,5,0,543.65,355.28,188.37,47,4.1,Cash
+ORD10000,2024-03-12,North,Clothing,Dress,75.85,7,0,530.95,351.2,179.75,29,3.0,Credit Card
+ORD10290,2024-03-13,West,Home & Kitchen,Vacuum Cleaner,77.74,3,0,233.22,159.66,73.56,31,4.7,UPI
+ORD11998,2024-03-13,South,Beauty,Makeup Kit,143.41,6,10,860.46,617.33,243.13,48,4.7,Credit Card
+ORD10754,2024-03-14,South,Beauty,Hair Dryer,35.13,6,0,210.78,121.91,88.87,43,4.6,Debit Card
+ORD10453,2024-03-14,South,Electronics,Laptop,886.83,3,0,2660.49,1521.18,1139.31,37,3.3,Debit Card
+ORD10657,2024-03-14,South,Clothing,Jeans,30.12,1,0,30.12,16.67,13.45,35,4.1,Credit Card
+ORD11646,2024-03-15,Central,Home & Kitchen,Lamp,90.79,2,5,181.58,105.27,76.31,44,4.5,UPI
+ORD11573,2024-03-15,East,Beauty,Hair Dryer,18.11,7,0,126.77,93.99,32.78,41,4.9,Cash
+ORD10728,2024-03-16,East,Clothing,Jeans,113.85,5,0,569.25,375.26,193.99,32,3.6,Cash
+ORD11393,2024-03-16,West,Home & Kitchen,Air Fryer,67.63,3,10,202.89,150.6,52.29,40,3.3,Debit Card
+ORD10895,2024-03-16,South,Clothing,Jeans,12.11,7,0,84.77,63.32,21.45,33,2.9,Cash
+ORD10790,2024-03-17,North,Sports,Tennis Racket,57.51,7,0,402.57,253.27,149.3,28,4.4,Credit Card
+ORD10958,2024-03-17,West,Clothing,Jeans,119.06,5,20,595.3,351.83,243.47,37,3.9,UPI
+ORD11066,2024-03-17,South,Clothing,Sneakers,105.63,4,0,422.52,291.19,131.33,26,3.3,Wallet
+ORD10937,2024-03-17,West,Electronics,Smartwatch,584.64,5,5,2923.2,1948.14,975.06,24,4.0,Credit Card
+ORD10886,2024-03-17,North,Electronics,Laptop,221.8,2,5,443.6,321.41,122.19,18,4.1,UPI
+ORD10830,2024-03-18,East,Electronics,Laptop,787.32,4,20,3149.28,2168.07,981.21,43,4.7,Cash
+ORD11271,2024-03-18,East,Clothing,Jacket,116.51,5,5,582.55,320.61,261.94,35,4.4,Debit Card
+ORD10058,2024-03-18,West,Clothing,Jeans,60.88,5,0,304.4,172.16,132.24,25,4.4,Cash
+ORD11774,2024-03-19,North,Beauty,Perfume,101.03,3,10,303.09,183.02,120.07,42,4.3,Credit Card
+ORD11016,2024-03-19,Central,Electronics,Headphones,731.19,7,5,5118.33,3828.73,1289.6,29,3.7,UPI
+ORD11419,2024-03-19,East,Clothing,Sneakers,110.83,2,5,221.66,142.7,78.96,22,5.0,Debit Card
+ORD11065,2024-03-19,West,Beauty,Perfume,130.37,5,0,651.85,402.08,249.77,45,2.6,UPI
+ORD10159,2024-03-19,East,Electronics,Laptop,1157.95,4,0,4631.8,3446.9,1184.9,36,4.6,Cash
+ORD10422,2024-03-19,East,Home & Kitchen,Lamp,205.65,2,0,411.3,310.13,101.17,43,3.7,Credit Card
+ORD10456,2024-03-19,North,Home & Kitchen,Air Fryer,159.78,4,10,639.12,387.78,251.34,44,4.1,Credit Card
+ORD10765,2024-03-20,West,Clothing,Jeans,11.74,4,0,46.96,34.42,12.54,27,4.4,Wallet
+ORD11067,2024-03-20,West,Sports,Tennis Racket,341.7,3,0,1025.1,578.82,446.28,41,3.7,UPI
+ORD11287,2024-03-21,East,Clothing,T-Shirt,83.89,1,20,83.89,59.24,24.65,50,4.1,UPI
+ORD10093,2024-03-21,West,Electronics,Headphones,811.01,6,20,4866.06,3451.53,1414.53,43,4.4,UPI
+ORD10500,2024-03-22,West,Beauty,Hair Dryer,131.25,6,10,787.5,615.4,172.1,31,3.6,Credit Card
+ORD11813,2024-03-22,West,Electronics,Headphones,1178.93,1,5,1178.93,741.19,437.74,31,4.5,Wallet
+ORD11018,2024-03-22,East,Electronics,Laptop,71.48,5,0,357.4,233.6,123.8,24,3.7,Credit Card
+ORD10667,2024-03-22,West,Clothing,Sneakers,33.16,2,20,66.32,41.86,24.46,25,4.0,Debit Card
+ORD11364,2024-03-23,North,Electronics,Laptop,504.82,2,0,1009.64,776.33,233.31,37,3.8,Cash
+ORD11963,2024-03-23,North,Clothing,Dress,17.27,5,5,86.35,57.24,29.11,40,3.3,UPI
+ORD10326,2024-03-24,South,Electronics,Smartwatch,1169.31,6,0,7015.86,4149.92,2865.94,20,4.5,Credit Card
+ORD11764,2024-03-24,East,Electronics,Smartwatch,1186.95,7,10,8308.65,4737.0,3571.65,25,3.7,Credit Card
+ORD10986,2024-03-24,North,Home & Kitchen,Air Fryer,71.44,4,5,285.76,227.95,57.81,65,5.0,Credit Card
+ORD11114,2024-03-24,South,Electronics,Smartwatch,593.37,1,0,593.37,424.79,168.58,24,4.3,Debit Card
+ORD10619,2024-03-24,North,Clothing,T-Shirt,55.98,2,0,111.96,65.77,46.19,55,4.5,Debit Card
+ORD11456,2024-03-24,East,Clothing,Jeans,66.87,2,5,133.74,94.36,39.38,42,4.1,Debit Card
+ORD10639,2024-03-25,East,Electronics,Tablet,443.39,2,5,886.78,677.48,209.3,28,3.9,UPI
+ORD11565,2024-03-25,North,Sports,Yoga Mat,318.65,6,5,1911.9,1505.68,406.22,40,4.0,Cash
+ORD10050,2024-03-25,South,Beauty,Skincare Kit,71.98,6,0,431.88,264.68,167.2,31,4.4,UPI
+ORD11025,2024-03-27,Central,Electronics,Headphones,1059.69,3,0,3179.07,2538.2,640.87,30,4.5,Debit Card
+ORD10168,2024-03-27,North,Sports,Tennis Racket,290.78,5,0,1453.9,1091.2,362.7,28,4.2,Debit Card
+ORD10347,2024-03-27,Central,Clothing,Sneakers,42.87,1,10,42.87,28.29,14.58,42,4.3,Cash
+ORD10788,2024-03-28,North,Beauty,Perfume,143.87,5,15,719.35,568.68,150.67,27,4.7,Wallet
+ORD11700,2024-03-29,South,Clothing,Dress,29.35,5,10,146.75,100.84,45.91,60,4.3,Credit Card
+ORD10668,2024-03-29,East,Clothing,Jacket,65.21,2,0,130.42,101.55,28.87,44,4.7,Cash
+ORD10207,2024-03-29,East,Electronics,Smartphone,999.97,5,0,4999.85,3121.45,1878.4,55,4.8,Cash
+ORD11827,2024-03-29,South,Beauty,Hair Dryer,91.61,7,20,641.27,396.91,244.36,44,4.0,Credit Card
+ORD11711,2024-03-30,Central,Clothing,Jacket,90.66,3,0,271.98,193.71,78.27,42,2.8,UPI
+ORD11622,2024-03-30,South,Sports,Dumbbell Set,27.78,3,10,83.34,51.14,32.2,45,4.7,Wallet
+ORD11321,2024-03-30,North,Home & Kitchen,Vacuum Cleaner,157.01,3,0,471.03,342.48,128.55,53,4.9,Credit Card
+ORD10369,2024-03-30,West,Clothing,Sneakers,20.49,4,5,81.96,46.11,35.85,23,3.6,Credit Card
+ORD11506,2024-03-30,Central,Electronics,Smartwatch,755.81,2,10,1511.62,940.78,570.84,34,4.3,Credit Card
+ORD11207,2024-03-30,South,Clothing,T-Shirt,23.19,1,0,23.19,17.93,5.26,18,3.9,UPI
+ORD10743,2024-03-31,North,Electronics,Tablet,569.82,4,0,2279.28,1528.72,750.56,45,3.9,UPI
+ORD11847,2024-04-01,West,Clothing,Dress,34.79,7,0,243.53,136.63,106.9,18,3.7,Credit Card
+ORD11953,2024-04-01,East,Sports,Yoga Mat,27.84,5,10,139.2,81.81,57.39,18,3.9,Debit Card
+ORD10163,2024-04-01,South,Home & Kitchen,Vacuum Cleaner,154.86,7,10,1084.02,795.02,289.0,32,4.2,Debit Card
+ORD10781,2024-04-01,North,Electronics,Headphones,824.74,4,5,3298.96,2089.27,1209.69,25,4.3,Credit Card
+ORD11650,2024-04-01,Central,Sports,Tennis Racket,343.04,1,5,343.04,235.1,107.94,29,5.0,Credit Card
+ORD10055,2024-04-02,Central,Clothing,Jacket,117.04,5,0,585.2,349.99,235.21,25,3.9,Credit Card
+ORD11019,2024-04-02,South,Clothing,Jacket,31.12,5,15,155.6,108.59,47.01,34,4.1,Credit Card
+ORD11588,2024-04-02,West,Electronics,Smartphone,329.79,5,5,1648.95,1245.47,403.48,18,3.9,Credit Card
+ORD10300,2024-04-02,South,Electronics,Laptop,667.05,5,5,3335.25,2415.24,920.01,43,4.1,Wallet
+ORD10771,2024-04-02,North,Clothing,Jacket,67.27,2,5,134.54,91.14,43.4,34,4.0,Credit Card
+ORD11988,2024-04-03,West,Clothing,T-Shirt,27.16,2,10,54.32,32.17,22.15,25,4.3,Debit Card
+ORD10948,2024-04-03,East,Electronics,Smartphone,270.14,5,10,1350.7,925.95,424.75,19,2.7,Debit Card
+ORD11604,2024-04-03,West,Electronics,Laptop,71.14,5,15,355.7,239.34,116.36,18,4.0,Credit Card
+ORD10792,2024-04-04,East,Clothing,Sneakers,40.87,2,10,81.74,58.55,23.19,37,4.0,Debit Card
+ORD11770,2024-04-04,West,Beauty,Hair Dryer,54.55,7,10,381.85,214.77,167.08,27,3.5,Wallet
+ORD11141,2024-04-04,North,Home & Kitchen,Cookware Set,218.0,3,15,654.0,372.46,281.54,49,4.5,Wallet
+ORD10712,2024-04-04,West,Sports,Bicycle,198.64,3,10,595.92,454.38,141.54,44,3.9,Credit Card
+ORD10664,2024-04-05,West,Electronics,Smartphone,309.73,5,0,1548.65,881.62,667.03,43,3.5,Credit Card
+ORD11192,2024-04-06,South,Clothing,Sneakers,16.39,5,10,81.95,60.32,21.63,21,4.4,Cash
+ORD11639,2024-04-06,West,Electronics,Smartwatch,601.67,4,5,2406.68,1672.58,734.1,25,5.0,Debit Card
+ORD10438,2024-04-06,West,Electronics,Laptop,864.34,4,0,3457.36,2344.43,1112.93,18,5.0,UPI
+ORD11975,2024-04-07,South,Home & Kitchen,Cookware Set,253.87,7,5,1777.09,1322.76,454.33,26,3.5,Debit Card
+ORD11359,2024-04-07,West,Sports,Dumbbell Set,337.5,4,15,1350.0,923.38,426.62,18,3.8,UPI
+ORD10096,2024-04-07,North,Clothing,Sneakers,107.35,3,10,322.05,204.49,117.56,29,4.1,Debit Card
+ORD10282,2024-04-07,East,Home & Kitchen,Vacuum Cleaner,155.25,2,10,310.5,193.09,117.41,39,4.3,Credit Card
+ORD10161,2024-04-08,South,Sports,Yoga Mat,43.73,4,0,174.92,109.47,65.45,37,4.0,Debit Card
+ORD10266,2024-04-08,East,Clothing,Jacket,45.9,3,0,137.7,85.46,52.24,46,4.1,UPI
+ORD10780,2024-04-08,West,Sports,Yoga Mat,195.5,2,0,391.0,231.74,159.26,55,3.1,Debit Card
+ORD11234,2024-04-08,East,Electronics,Smartwatch,84.44,5,20,422.2,289.54,132.66,23,5.0,Wallet
+ORD10049,2024-04-08,East,Home & Kitchen,Blender,57.48,5,15,287.4,162.12,125.28,35,4.2,UPI
+ORD11838,2024-04-10,Central,Electronics,Laptop,1026.56,3,20,3079.68,2183.29,896.39,35,4.4,Debit Card
+ORD10389,2024-04-11,South,Electronics,Smartwatch,165.45,3,0,496.35,296.15,200.2,18,3.9,UPI
+ORD11785,2024-04-11,East,Sports,Tennis Racket,188.46,3,20,565.38,411.7,153.68,38,3.2,UPI
+ORD10118,2024-04-11,West,Beauty,Hair Dryer,136.91,3,0,410.73,275.24,135.49,21,4.2,UPI
+ORD10650,2024-04-11,North,Sports,Yoga Mat,76.46,4,10,305.84,212.54,93.3,43,4.0,UPI
+ORD11606,2024-04-12,North,Clothing,Dress,70.65,4,0,282.6,225.33,57.27,38,4.9,Debit Card
+ORD11223,2024-04-12,North,Sports,Running Shoes,196.92,6,0,1181.52,762.68,418.84,28,4.4,Wallet
+ORD11473,2024-04-12,West,Clothing,T-Shirt,37.75,7,0,264.25,160.57,103.68,49,4.1,Credit Card
+ORD11881,2024-04-12,North,Beauty,Hair Dryer,68.6,2,0,137.2,104.04,33.16,53,4.0,UPI
+ORD10216,2024-04-12,West,Home & Kitchen,Blender,287.13,5,5,1435.65,790.17,645.48,27,4.3,UPI
+ORD10630,2024-04-13,South,Beauty,Makeup Kit,30.28,5,20,151.4,100.43,50.97,29,4.1,Debit Card
+ORD11551,2024-04-13,West,Home & Kitchen,Cookware Set,130.62,1,20,130.62,89.85,40.77,37,3.9,Debit Card
+ORD11901,2024-04-13,East,Beauty,Makeup Kit,86.35,3,15,259.05,183.51,75.54,33,4.9,Credit Card
+ORD11934,2024-04-14,West,Beauty,Skincare Kit,120.89,1,10,120.89,81.66,39.23,31,4.5,Credit Card
+ORD10120,2024-04-15,West,Electronics,Laptop,250.93,1,0,250.93,197.7,53.23,45,4.3,UPI
+ORD11145,2024-04-15,East,Home & Kitchen,Cookware Set,266.34,6,10,1598.04,1004.32,593.72,18,4.0,Credit Card
+ORD10623,2024-04-15,South,Sports,Yoga Mat,128.46,6,0,770.76,428.71,342.05,18,3.9,Cash
+ORD10362,2024-04-15,East,Home & Kitchen,Vacuum Cleaner,21.79,1,0,21.79,15.78,6.01,27,3.8,Cash
+ORD10842,2024-04-15,North,Clothing,T-Shirt,89.15,6,10,534.9,407.34,127.56,30,3.9,Credit Card
+ORD11796,2024-04-15,Central,Sports,Running Shoes,392.48,2,5,784.96,598.6,186.36,23,4.0,Credit Card
+ORD10467,2024-04-15,North,Home & Kitchen,Air Fryer,219.3,1,10,219.3,173.79,45.51,36,4.2,Debit Card
+ORD11197,2024-04-16,North,Sports,Bicycle,143.67,7,0,1005.69,695.34,310.35,25,4.4,Cash
+ORD10811,2024-04-17,West,Clothing,T-Shirt,65.49,3,10,196.47,150.47,46.0,20,4.6,Debit Card
+ORD11062,2024-04-18,West,Electronics,Smartphone,408.13,7,5,2856.91,1985.92,870.99,24,3.6,UPI
+ORD11737,2024-04-19,West,Beauty,Hair Dryer,57.47,2,10,114.94,71.95,42.99,25,4.8,Credit Card
+ORD10158,2024-04-19,East,Beauty,Makeup Kit,135.55,6,5,813.3,482.86,330.44,31,3.6,Debit Card
+ORD11071,2024-04-19,Central,Electronics,Laptop,775.58,7,10,5429.06,4077.15,1351.91,42,4.1,UPI
+ORD10733,2024-04-19,East,Clothing,T-Shirt,11.7,4,0,46.8,28.36,18.44,28,5.0,Credit Card
+ORD11390,2024-04-20,Central,Clothing,Dress,107.79,3,10,323.37,243.46,79.91,18,4.3,Debit Card
+ORD11323,2024-04-20,Central,Electronics,Laptop,195.77,6,5,1174.62,812.0,362.62,48,4.3,Debit Card
+ORD10975,2024-04-20,South,Beauty,Hair Dryer,33.43,7,5,234.01,131.75,102.26,39,4.8,UPI
+ORD11054,2024-04-21,South,Sports,Running Shoes,356.33,5,5,1781.65,1131.27,650.38,33,3.5,Debit Card
+ORD11292,2024-04-21,West,Home & Kitchen,Lamp,207.58,6,0,1245.48,697.03,548.45,30,3.2,UPI
+ORD11040,2024-04-21,North,Home & Kitchen,Blender,195.26,2,10,390.52,297.12,93.4,38,4.3,Wallet
+ORD10782,2024-04-21,North,Beauty,Makeup Kit,107.98,6,0,647.88,414.29,233.59,48,3.9,Credit Card
+ORD10349,2024-04-21,South,Electronics,Tablet,308.42,7,15,2158.94,1542.92,616.02,50,4.4,UPI
+ORD10697,2024-04-22,North,Beauty,Shampoo,38.22,7,10,267.54,183.46,84.08,35,4.6,Debit Card
+ORD10595,2024-04-23,West,Clothing,Jacket,106.07,1,5,106.07,75.85,30.22,30,4.2,Credit Card
+ORD11580,2024-04-23,East,Electronics,Smartphone,96.9,1,0,96.9,62.44,34.46,40,5.0,UPI
+ORD10892,2024-04-23,West,Beauty,Perfume,131.8,7,0,922.6,521.62,400.98,21,3.3,UPI
+ORD10827,2024-04-23,North,Home & Kitchen,Lamp,21.22,3,0,63.66,43.93,19.73,29,4.4,Wallet
+ORD10789,2024-04-24,East,Electronics,Headphones,77.4,1,0,77.4,43.01,34.39,49,4.8,Debit Card
+ORD10897,2024-04-24,South,Electronics,Tablet,504.21,5,5,2521.05,1630.53,890.52,51,4.0,Credit Card
+ORD10967,2024-04-24,East,Clothing,Jeans,95.45,1,10,95.45,72.9,22.55,25,3.0,Credit Card
+ORD10870,2024-04-24,Central,Electronics,Smartphone,297.15,6,0,1782.9,1383.8,399.1,32,4.7,Debit Card
+ORD10429,2024-04-24,East,Home & Kitchen,Vacuum Cleaner,105.69,4,15,422.76,317.32,105.44,19,4.9,UPI
+ORD10755,2024-04-24,East,Beauty,Makeup Kit,68.76,4,10,275.04,202.31,72.73,34,3.0,Wallet
+ORD10699,2024-04-24,West,Home & Kitchen,Blender,221.92,2,10,443.84,306.29,137.55,18,4.9,Debit Card
+ORD10298,2024-04-24,South,Sports,Running Shoes,100.61,1,0,100.61,60.67,39.94,27,3.9,Credit Card
+ORD11357,2024-04-26,West,Electronics,Headphones,948.44,1,5,948.44,532.45,415.99,48,4.4,Wallet
+ORD10182,2024-04-26,West,Sports,Bicycle,318.62,3,0,955.86,630.92,324.94,18,3.8,Credit Card
+ORD10510,2024-04-26,West,Clothing,Jacket,72.62,2,5,145.24,105.82,39.42,29,4.2,Credit Card
+ORD10029,2024-04-26,North,Sports,Dumbbell Set,46.14,7,5,322.98,233.84,89.14,31,4.0,Credit Card
+ORD10885,2024-04-27,North,Clothing,Jeans,33.62,5,20,168.1,96.45,71.65,39,4.2,Wallet
+ORD10856,2024-04-27,South,Electronics,Smartphone,266.56,2,20,533.12,354.46,178.66,22,3.8,Wallet
+ORD11083,2024-04-27,Central,Sports,Yoga Mat,209.29,7,0,1465.03,1072.14,392.89,26,4.0,Debit Card
+ORD11376,2024-04-27,South,Sports,Tennis Racket,202.03,3,20,606.09,342.69,263.4,32,4.7,Credit Card
+ORD11034,2024-04-28,North,Beauty,Makeup Kit,59.43,6,5,356.58,224.53,132.05,35,4.1,Cash
+ORD10084,2024-04-28,South,Clothing,Jeans,39.49,5,10,197.45,125.64,71.81,30,4.8,Credit Card
+ORD11290,2024-04-29,South,Clothing,Dress,37.93,5,0,189.65,128.03,61.62,18,4.6,Debit Card
+ORD10103,2024-04-29,North,Electronics,Headphones,912.57,1,5,912.57,637.19,275.38,30,3.8,Cash
+ORD11375,2024-04-30,West,Electronics,Laptop,275.7,3,0,827.1,649.35,177.75,25,4.3,Credit Card
+ORD10839,2024-04-30,West,Electronics,Smartwatch,1031.45,6,0,6188.7,3930.72,2257.98,67,4.2,Debit Card
+ORD10813,2024-04-30,West,Clothing,Sneakers,83.23,2,0,166.46,103.38,63.08,45,3.7,Debit Card
+ORD11377,2024-04-30,East,Sports,Bicycle,15.51,5,0,77.55,48.05,29.5,21,4.2,UPI
+ORD11243,2024-04-30,North,Beauty,Makeup Kit,104.03,5,15,520.15,415.78,104.37,24,3.6,Debit Card
+ORD10306,2024-05-01,East,Sports,Bicycle,149.73,3,10,449.19,289.64,159.55,47,4.0,UPI
+ORD10406,2024-05-01,South,Beauty,Hair Dryer,28.64,4,0,114.56,63.22,51.34,68,4.8,Wallet
+ORD10173,2024-05-01,West,Clothing,T-Shirt,99.75,7,0,698.25,537.52,160.73,43,5.0,Credit Card
+ORD11993,2024-05-02,Central,Beauty,Hair Dryer,85.33,4,15,341.32,223.23,118.09,39,4.0,Debit Card
+ORD10405,2024-05-02,North,Electronics,Laptop,246.24,3,0,738.72,543.38,195.34,52,3.2,Cash
+ORD10672,2024-05-03,North,Clothing,Jacket,41.32,3,5,123.96,78.67,45.29,38,4.8,UPI
+ORD10278,2024-05-03,South,Beauty,Skincare Kit,34.54,4,0,138.16,85.92,52.24,18,4.9,Credit Card
+ORD10847,2024-05-03,East,Sports,Running Shoes,42.34,6,15,254.04,177.92,76.12,22,4.1,Wallet
+ORD10360,2024-05-04,Central,Electronics,Smartwatch,778.0,3,0,2334.0,1337.02,996.98,18,3.5,Cash
+ORD10451,2024-05-05,East,Clothing,Jeans,36.6,1,0,36.6,21.93,14.67,18,4.8,UPI
+ORD10054,2024-05-05,South,Beauty,Shampoo,97.94,3,0,293.82,167.17,126.65,23,4.4,Credit Card
+ORD10739,2024-05-06,North,Beauty,Perfume,57.9,5,5,289.5,185.23,104.27,18,5.0,Wallet
+ORD11009,2024-05-06,Central,Electronics,Tablet,198.65,3,5,595.95,471.05,124.9,50,3.0,UPI
+ORD11189,2024-05-06,South,Home & Kitchen,Blender,120.57,7,5,843.99,587.96,256.03,47,3.9,Credit Card
+ORD11860,2024-05-07,West,Home & Kitchen,Cookware Set,207.24,6,10,1243.44,816.26,427.18,40,5.0,Credit Card
+ORD10746,2024-05-07,North,Sports,Bicycle,312.31,2,0,624.62,468.97,155.65,43,3.7,Credit Card
+ORD11180,2024-05-07,North,Clothing,T-Shirt,71.44,1,0,71.44,40.21,31.23,47,3.7,UPI
+ORD10176,2024-05-07,West,Electronics,Smartwatch,554.53,2,10,1109.06,764.71,344.35,39,4.5,Credit Card
+ORD11610,2024-05-07,North,Sports,Running Shoes,150.72,6,5,904.32,561.22,343.1,40,5.0,Debit Card
+ORD11600,2024-05-08,North,Home & Kitchen,Air Fryer,164.06,5,5,820.3,631.26,189.04,24,4.0,Credit Card
+ORD11214,2024-05-08,Central,Beauty,Shampoo,33.14,2,10,66.28,38.94,27.34,43,3.1,Credit Card
+ORD10872,2024-05-08,East,Clothing,Jacket,45.71,6,0,274.26,209.55,64.71,30,4.7,Credit Card
+ORD11714,2024-05-09,East,Clothing,Jacket,116.39,4,5,465.56,349.7,115.86,26,4.6,UPI
+ORD11550,2024-05-09,East,Home & Kitchen,Cookware Set,241.72,7,5,1692.04,1078.06,613.98,51,4.6,Debit Card
+ORD10449,2024-05-09,West,Clothing,T-Shirt,93.99,1,5,93.99,63.63,30.36,18,2.8,UPI
+ORD10160,2024-05-09,North,Electronics,Tablet,801.23,3,5,2403.69,1554.26,849.43,27,3.9,Debit Card
+ORD10571,2024-05-09,North,Beauty,Hair Dryer,96.12,4,15,384.48,250.92,133.56,41,4.9,Debit Card
+ORD11274,2024-05-09,Central,Beauty,Perfume,141.65,2,5,283.3,215.57,67.73,41,3.9,Debit Card
+ORD10199,2024-05-10,West,Clothing,Jacket,68.01,1,0,68.01,51.4,16.61,34,4.4,Credit Card
+ORD10457,2024-05-10,West,Beauty,Skincare Kit,57.93,2,0,115.86,79.76,36.1,27,3.1,UPI
+ORD10190,2024-05-10,South,Clothing,Dress,89.77,5,5,448.85,310.3,138.55,39,4.2,Credit Card
+ORD11218,2024-05-10,North,Sports,Tennis Racket,53.12,4,5,212.48,153.78,58.7,21,3.9,Credit Card
+ORD10179,2024-05-11,Central,Clothing,Jacket,52.39,4,15,209.56,153.09,56.47,52,3.2,Debit Card
+ORD10758,2024-05-12,West,Clothing,Sneakers,44.16,5,5,220.8,174.64,46.16,30,3.8,UPI
+ORD11131,2024-05-12,East,Sports,Bicycle,186.94,6,0,1121.64,718.49,403.15,35,4.1,UPI
+ORD11509,2024-05-12,West,Electronics,Laptop,1156.59,2,0,2313.18,1621.75,691.43,18,4.3,Debit Card
+ORD11465,2024-05-12,West,Electronics,Headphones,687.87,4,10,2751.48,1570.72,1180.76,43,4.0,Credit Card
+ORD10821,2024-05-12,South,Sports,Bicycle,215.94,2,0,431.88,250.8,181.08,31,4.9,Credit Card
+ORD10651,2024-05-12,South,Electronics,Headphones,934.12,1,0,934.12,604.18,329.94,44,3.5,Credit Card
+ORD11788,2024-05-13,South,Electronics,Laptop,1156.65,4,5,4626.6,2800.15,1826.45,41,5.0,UPI
+ORD11216,2024-05-13,West,Clothing,Jeans,71.65,4,0,286.6,193.93,92.67,35,4.8,Wallet
+ORD11809,2024-05-13,South,Beauty,Makeup Kit,96.5,1,0,96.5,54.06,42.44,56,4.6,Wallet
+ORD11118,2024-05-13,South,Beauty,Shampoo,16.58,4,0,66.32,36.91,29.41,45,3.6,Wallet
+ORD10949,2024-05-14,South,Clothing,Jeans,108.02,7,10,756.14,509.41,246.73,35,4.2,Credit Card
+ORD11637,2024-05-14,Central,Clothing,Dress,49.87,6,0,299.22,229.8,69.42,48,4.2,Debit Card
+ORD11862,2024-05-15,West,Home & Kitchen,Blender,84.5,2,0,169.0,120.9,48.1,36,4.3,Credit Card
+ORD10243,2024-05-16,North,Electronics,Smartphone,1020.69,4,15,4082.76,2829.16,1253.6,42,4.1,Debit Card
+ORD10584,2024-05-16,North,Beauty,Perfume,28.28,3,10,84.84,67.12,17.72,20,4.8,UPI
+ORD11895,2024-05-16,North,Home & Kitchen,Lamp,297.11,4,15,1188.44,906.02,282.42,20,3.7,Credit Card
+ORD10184,2024-05-16,South,Sports,Bicycle,380.87,5,0,1904.35,1135.22,769.13,18,4.3,Credit Card
+ORD10719,2024-05-16,Central,Home & Kitchen,Air Fryer,246.84,7,15,1727.88,1224.14,503.74,21,4.6,Credit Card
+ORD11942,2024-05-16,South,Clothing,T-Shirt,66.21,7,0,463.47,280.75,182.72,32,3.6,Wallet
+ORD10631,2024-05-17,South,Home & Kitchen,Air Fryer,237.93,2,15,475.86,357.5,118.36,37,5.0,Credit Card
+ORD10375,2024-05-17,South,Beauty,Skincare Kit,68.7,4,5,274.8,196.85,77.95,35,4.1,Debit Card
+ORD10572,2024-05-18,West,Clothing,Jacket,96.15,7,0,673.05,386.2,286.85,23,4.5,Credit Card
+ORD11270,2024-05-18,North,Clothing,Jeans,66.4,7,5,464.8,308.4,156.4,29,3.5,Debit Card
+ORD11886,2024-05-18,Central,Clothing,Jeans,112.0,6,5,672.0,517.2,154.8,18,4.4,Credit Card
+ORD10679,2024-05-18,East,Electronics,Laptop,473.34,6,20,2840.04,2036.67,803.37,38,3.6,Credit Card
+ORD10475,2024-05-19,South,Clothing,Jacket,111.71,5,0,558.55,323.02,235.53,37,3.5,Credit Card
+ORD11222,2024-05-19,South,Electronics,Laptop,290.83,6,5,1744.98,1124.05,620.93,49,4.8,Debit Card
+ORD11035,2024-05-19,North,Home & Kitchen,Vacuum Cleaner,179.46,5,5,897.3,676.5,220.8,19,5.0,Credit Card
+ORD10773,2024-05-19,East,Sports,Tennis Racket,334.62,5,0,1673.1,1189.75,483.35,41,4.5,Credit Card
+ORD11630,2024-05-20,West,Home & Kitchen,Cookware Set,36.98,1,5,36.98,24.76,12.22,55,3.3,Cash
+ORD10144,2024-05-20,West,Home & Kitchen,Lamp,188.45,6,5,1130.7,767.51,363.19,48,4.5,Credit Card
+ORD10787,2024-05-21,East,Clothing,Dress,104.45,6,0,626.7,382.59,244.11,44,4.4,UPI
+ORD11221,2024-05-21,East,Home & Kitchen,Lamp,171.88,7,10,1203.16,723.71,479.45,36,3.6,Credit Card
+ORD11033,2024-05-21,West,Beauty,Perfume,55.19,3,20,165.57,113.28,52.29,35,4.1,Credit Card
+ORD11408,2024-05-21,East,Electronics,Smartwatch,342.11,1,20,342.11,225.03,117.08,48,3.5,UPI
+ORD10203,2024-05-22,West,Electronics,Headphones,302.41,3,5,907.23,672.07,235.16,37,4.4,Credit Card
+ORD10138,2024-05-22,South,Electronics,Smartphone,852.83,4,5,3411.32,2344.0,1067.32,56,2.9,Credit Card
+ORD11252,2024-05-22,West,Beauty,Shampoo,126.06,5,0,630.3,448.71,181.59,18,4.2,UPI
+ORD10045,2024-05-22,North,Electronics,Smartphone,578.18,5,0,2890.9,2093.68,797.22,37,4.4,Wallet
+ORD11079,2024-05-22,North,Electronics,Laptop,353.73,5,10,1768.65,1143.01,625.64,28,5.0,Debit Card
+ORD11159,2024-05-22,North,Home & Kitchen,Air Fryer,224.38,6,0,1346.28,837.68,508.6,46,3.8,Credit Card
+ORD11061,2024-05-22,South,Clothing,T-Shirt,74.93,5,15,374.65,251.83,122.82,44,3.9,UPI
+ORD10992,2024-05-23,East,Clothing,T-Shirt,68.14,6,15,408.84,232.44,176.4,37,4.5,Cash
+ORD11730,2024-05-23,North,Sports,Tennis Racket,298.42,7,15,2088.94,1534.29,554.65,46,3.6,Credit Card
+ORD10459,2024-05-23,North,Electronics,Laptop,573.4,5,5,2867.0,1909.57,957.43,31,5.0,Credit Card
+ORD10047,2024-05-24,West,Electronics,Headphones,378.93,5,10,1894.65,1427.52,467.13,52,4.6,Debit Card
+ORD10488,2024-05-24,South,Home & Kitchen,Air Fryer,151.43,5,5,757.15,539.63,217.52,19,4.2,UPI
+ORD11318,2024-05-24,North,Sports,Bicycle,360.5,2,0,721.0,481.76,239.24,36,4.1,Debit Card
+ORD10356,2024-05-25,West,Electronics,Headphones,438.61,1,0,438.61,319.61,119.0,32,3.6,UPI
+ORD11880,2024-05-26,Central,Sports,Running Shoes,165.67,6,5,994.02,770.68,223.34,37,5.0,Credit Card
+ORD11694,2024-05-26,North,Sports,Tennis Racket,64.89,4,20,259.56,183.16,76.4,18,4.6,UPI
+ORD11493,2024-05-26,North,Electronics,Smartwatch,156.81,2,0,313.62,241.65,71.97,44,5.0,Debit Card
+ORD10383,2024-05-27,West,Sports,Yoga Mat,379.18,3,10,1137.54,697.78,439.76,30,3.7,Debit Card
+ORD10942,2024-05-27,South,Home & Kitchen,Lamp,82.33,4,10,329.32,225.72,103.6,61,3.8,Debit Card
+ORD10283,2024-05-27,South,Electronics,Smartwatch,742.91,4,5,2971.64,1702.82,1268.82,46,5.0,Debit Card
+ORD11310,2024-05-28,Central,Home & Kitchen,Air Fryer,20.07,1,5,20.07,14.21,5.86,25,4.0,Debit Card
+ORD10767,2024-05-28,North,Clothing,Sneakers,67.94,5,0,339.7,236.98,102.72,40,5.0,UPI
+ORD10548,2024-05-29,South,Electronics,Tablet,588.05,2,5,1176.1,803.59,372.51,36,3.6,Debit Card
+ORD10363,2024-05-29,Central,Sports,Running Shoes,316.57,3,10,949.71,630.23,319.48,18,2.8,Credit Card
+ORD11665,2024-05-30,West,Clothing,Sneakers,94.58,4,0,378.32,266.37,111.95,35,4.6,Debit Card
+ORD10083,2024-05-30,North,Electronics,Laptop,1026.87,5,5,5134.35,3948.89,1185.46,38,4.5,UPI
+ORD11754,2024-05-31,West,Beauty,Perfume,89.69,4,0,358.76,268.44,90.32,34,4.0,Credit Card
+ORD11104,2024-05-31,East,Sports,Tennis Racket,246.77,7,10,1727.39,1263.85,463.54,56,4.0,Debit Card
+ORD11457,2024-06-01,Central,Home & Kitchen,Blender,97.71,2,10,224.73,141.62,83.11,44,4.7,UPI
+ORD10242,2024-06-02,North,Sports,Yoga Mat,290.29,6,0,2003.0,1455.67,547.33,24,4.7,Credit Card
+ORD11058,2024-06-02,West,Electronics,Laptop,214.16,4,10,985.14,652.69,332.45,32,3.3,Credit Card
+ORD11227,2024-06-02,North,Electronics,Smartphone,1119.46,5,0,6436.9,4906.75,1530.15,32,3.8,Debit Card
+ORD11673,2024-06-03,North,Beauty,Makeup Kit,13.09,7,10,105.37,59.65,45.72,37,3.4,Debit Card
+ORD10319,2024-06-03,West,Electronics,Headphones,832.39,2,15,1914.5,1105.65,808.85,36,3.9,UPI
+ORD10464,2024-06-03,South,Clothing,Jacket,103.65,5,10,595.99,443.54,152.45,19,4.0,Credit Card
+ORD11119,2024-06-03,East,Electronics,Smartwatch,115.66,3,15,399.03,243.23,155.8,38,3.4,UPI
+ORD11045,2024-06-04,West,Clothing,Jeans,55.48,6,10,382.81,238.94,143.87,25,3.3,UPI
+ORD10810,2024-06-04,South,Electronics,Smartphone,651.59,1,0,749.33,482.61,266.72,44,4.1,Debit Card
+ORD11275,2024-06-04,Central,Beauty,Skincare Kit,59.62,7,5,479.94,284.19,195.75,26,3.6,Credit Card
+ORD10201,2024-06-04,South,Beauty,Skincare Kit,125.29,6,5,864.5,630.89,233.61,40,4.3,Credit Card
+ORD11431,2024-06-05,East,Beauty,Perfume,49.36,2,0,113.53,78.14,35.39,18,3.9,UPI
+ORD11069,2024-06-05,West,Sports,Tennis Racket,128.07,2,0,294.56,220.84,73.72,33,4.4,Debit Card
+ORD11956,2024-06-05,Central,Electronics,Smartwatch,511.52,5,0,2941.24,2231.96,709.28,21,4.7,Wallet
+ORD10740,2024-06-06,Central,Electronics,Smartphone,1190.76,2,0,2738.75,2144.38,594.37,36,3.8,Cash
+ORD11412,2024-06-06,South,Sports,Yoga Mat,231.73,5,5,1332.45,800.21,532.24,61,4.4,Debit Card
+ORD10085,2024-06-06,North,Beauty,Makeup Kit,77.22,6,0,532.82,355.8,177.02,18,5.0,UPI
+ORD10955,2024-06-07,South,Clothing,Jacket,24.27,2,20,55.82,41.69,14.13,33,4.6,Credit Card
+ORD11815,2024-06-07,West,Sports,Dumbbell Set,182.2,6,10,1257.18,876.81,380.37,40,4.7,Credit Card
+ORD10933,2024-06-07,East,Beauty,Hair Dryer,53.02,6,10,365.84,260.1,105.74,38,4.5,UPI
+ORD11495,2024-06-07,South,Home & Kitchen,Air Fryer,263.31,6,15,1816.84,1177.74,639.1,39,4.2,Debit Card
+ORD10143,2024-06-07,North,Electronics,Smartwatch,868.31,1,0,998.56,690.83,307.73,41,4.2,Cash
+ORD10010,2024-06-08,North,Home & Kitchen,Lamp,187.68,3,15,647.5,382.22,265.28,48,4.5,Cash
+ORD10150,2024-06-08,North,Electronics,Tablet,675.61,6,10,4661.71,3254.82,1406.89,18,4.1,Credit Card
+ORD10033,2024-06-08,North,Sports,Dumbbell Set,376.99,4,5,1734.15,1122.07,612.08,18,5.0,Wallet
+ORD11106,2024-06-09,West,Clothing,Jacket,36.82,4,5,169.37,111.87,57.5,48,3.2,Debit Card
+ORD10097,2024-06-09,West,Sports,Yoga Mat,356.1,2,5,819.03,629.97,189.06,34,4.4,Credit Card
+ORD11090,2024-06-10,North,Electronics,Headphones,526.08,1,10,604.99,373.39,231.6,21,4.2,UPI
+ORD10005,2024-06-10,West,Electronics,Laptop,510.47,4,15,2348.16,1642.48,705.68,31,4.1,Debit Card
+ORD11729,2024-06-10,West,Electronics,Smartphone,396.84,4,10,1825.46,1382.36,443.1,24,4.6,UPI
+ORD11972,2024-06-10,Central,Electronics,Smartphone,591.18,3,10,2039.57,1167.92,871.65,41,3.7,Credit Card
+ORD11991,2024-06-11,South,Beauty,Shampoo,42.51,1,10,48.89,35.85,13.04,22,4.3,UPI
+ORD10597,2024-06-11,East,Electronics,Smartwatch,443.43,6,10,3059.67,1761.53,1298.14,28,5.0,Debit Card
+ORD11181,2024-06-11,North,Sports,Dumbbell Set,302.89,7,0,2438.26,1882.16,556.1,30,4.8,UPI
+ORD11333,2024-06-12,North,Beauty,Shampoo,127.45,6,5,879.4,678.66,200.74,24,3.3,Credit Card
+ORD10889,2024-06-12,North,Electronics,Headphones,454.38,7,0,3657.76,2731.01,926.75,28,4.1,Debit Card
+ORD11464,2024-06-12,West,Beauty,Perfume,72.5,6,0,500.25,277.15,223.1,18,4.5,Credit Card
+ORD10358,2024-06-12,North,Beauty,Skincare Kit,66.67,2,0,153.34,104.95,48.39,23,3.8,Debit Card
+ORD11831,2024-06-13,West,Beauty,Skincare Kit,92.87,6,0,640.8,405.52,235.28,32,4.1,Credit Card
+ORD11664,2024-06-13,North,Electronics,Smartphone,950.85,6,5,6560.86,4932.97,1627.89,41,3.6,Debit Card
+ORD11930,2024-06-13,North,Electronics,Laptop,742.71,7,15,5978.82,4600.63,1378.19,41,5.0,Credit Card
+ORD10673,2024-06-13,East,Clothing,Sneakers,15.18,3,5,52.37,35.09,17.28,23,3.9,Debit Card
+ORD11028,2024-06-14,Central,Beauty,Makeup Kit,89.57,4,0,412.02,253.31,158.71,43,4.2,Credit Card
+ORD11802,2024-06-14,West,Sports,Tennis Racket,241.82,6,0,1668.56,1264.78,403.78,37,4.3,Credit Card
+ORD10053,2024-06-14,South,Clothing,Jeans,59.6,7,5,479.78,311.44,168.34,34,3.2,Debit Card
+ORD10756,2024-06-15,South,Home & Kitchen,Air Fryer,107.57,3,5,371.12,220.05,151.07,18,4.7,Credit Card
+ORD10990,2024-06-15,South,Beauty,Hair Dryer,23.59,4,10,108.51,85.79,22.72,49,4.3,Credit Card
+ORD10003,2024-06-15,West,Electronics,Headphones,75.12,1,10,86.39,68.37,18.02,31,3.8,UPI
+ORD10148,2024-06-15,South,Home & Kitchen,Cookware Set,222.86,3,0,768.87,613.42,155.45,28,4.4,Debit Card
+ORD10276,2024-06-16,East,Sports,Yoga Mat,34.89,1,5,40.12,25.16,14.96,31,4.5,Cash
+ORD11426,2024-06-16,North,Clothing,Dress,47.08,3,0,162.43,100.41,62.02,41,4.7,Debit Card
+ORD10629,2024-06-17,South,Home & Kitchen,Lamp,172.33,2,0,396.36,314.62,81.74,44,4.0,Credit Card
+ORD11807,2024-06-17,East,Clothing,Jeans,19.44,7,0,156.49,109.48,47.01,18,3.7,Cash
+ORD11848,2024-06-17,South,Electronics,Headphones,69.18,2,5,159.11,111.47,47.64,23,4.3,Debit Card
+ORD11872,2024-06-17,East,Sports,Running Shoes,381.99,4,15,1757.15,1025.03,732.12,18,4.9,Debit Card
+ORD10450,2024-06-17,North,Home & Kitchen,Lamp,168.71,7,5,1358.12,1048.29,309.83,21,3.5,UPI
+ORD11659,2024-06-17,West,Home & Kitchen,Air Fryer,248.86,5,5,1430.95,1023.85,407.1,27,4.7,Credit Card
+ORD10776,2024-06-18,West,Beauty,Shampoo,119.58,7,0,962.62,597.93,364.69,18,4.8,Debit Card
+ORD11172,2024-06-19,Central,Electronics,Headphones,326.41,3,0,1126.11,799.17,326.94,33,3.7,Credit Card
+ORD10537,2024-06-20,North,Clothing,Jeans,108.8,3,5,375.36,267.66,107.7,37,3.7,Credit Card
+ORD10402,2024-06-20,North,Clothing,Sneakers,16.0,3,5,55.2,32.97,22.23,37,4.4,Cash
+ORD11038,2024-06-20,East,Home & Kitchen,Blender,23.98,7,0,193.04,147.4,45.64,50,3.2,Debit Card
+ORD10065,2024-06-20,East,Clothing,Jeans,32.19,2,0,74.04,42.35,31.69,27,5.0,UPI
+ORD10044,2024-06-21,North,Electronics,Laptop,109.2,5,15,627.9,352.16,275.74,38,4.1,UPI
+ORD10428,2024-06-21,East,Sports,Dumbbell Set,345.6,3,0,1192.32,889.79,302.53,45,3.9,Credit Card
+ORD10580,2024-06-21,North,Sports,Dumbbell Set,322.01,4,5,1481.25,848.54,632.71,42,4.0,Credit Card
+ORD11984,2024-06-22,West,Beauty,Shampoo,30.53,2,5,70.22,39.57,30.65,21,4.5,Debit Card
+ORD10556,2024-06-22,South,Electronics,Smartphone,79.34,4,5,364.96,249.68,115.28,22,4.7,Credit Card
+ORD11789,2024-06-23,East,Beauty,Makeup Kit,62.38,5,15,358.68,279.29,79.39,42,5.0,Wallet
+ORD10751,2024-06-23,South,Home & Kitchen,Air Fryer,67.53,5,0,388.3,228.43,159.87,28,4.6,Credit Card
+ORD10364,2024-06-23,East,Electronics,Laptop,538.63,4,5,2477.7,1701.23,776.47,30,4.0,Debit Card
+ORD11657,2024-06-23,South,Home & Kitchen,Vacuum Cleaner,69.22,2,0,159.21,98.15,61.06,41,4.2,Credit Card
+ORD10726,2024-06-23,Central,Electronics,Tablet,191.44,5,0,1100.78,878.07,222.71,35,4.9,Credit Card
+ORD11238,2024-06-23,West,Home & Kitchen,Blender,93.46,4,15,429.92,294.61,135.31,44,4.2,Credit Card
+ORD11096,2024-06-24,North,Beauty,Skincare Kit,30.73,6,0,212.04,152.57,59.47,40,5.0,UPI
+ORD11097,2024-06-24,Central,Home & Kitchen,Air Fryer,140.36,4,10,645.66,423.4,222.26,45,4.9,Debit Card
+ORD10627,2024-06-24,North,Sports,Tennis Racket,80.87,3,5,279.0,208.55,70.45,42,4.5,Cash
+ORD10876,2024-06-24,East,Home & Kitchen,Air Fryer,130.81,3,5,451.29,281.38,169.91,28,3.7,Debit Card
+ORD11402,2024-06-24,North,Electronics,Smartwatch,203.46,3,0,701.94,490.55,211.39,20,4.6,Debit Card
+ORD10770,2024-06-24,West,Clothing,Jacket,13.82,3,10,47.68,26.39,21.29,18,5.0,UPI
+ORD10534,2024-06-24,North,Electronics,Smartphone,828.69,3,0,2858.98,2062.51,796.47,26,3.7,Cash
+ORD11572,2024-06-25,Central,Clothing,Jeans,116.31,5,0,668.78,514.52,154.26,50,4.4,Credit Card
+ORD10077,2024-06-25,Central,Electronics,Tablet,949.77,3,0,3276.71,2320.13,956.58,41,3.6,Wallet
+ORD11370,2024-06-25,North,Electronics,Laptop,444.65,5,0,2556.74,1997.61,559.13,48,4.4,Debit Card
+ORD10793,2024-06-26,North,Beauty,Perfume,72.2,7,0,581.21,419.64,161.57,44,4.2,Cash
+ORD10906,2024-06-26,West,Electronics,Smartphone,628.69,5,0,3614.97,2651.49,963.48,41,4.9,Credit Card
+ORD10636,2024-06-26,Central,Home & Kitchen,Vacuum Cleaner,53.92,2,0,124.02,84.16,39.86,45,3.9,Debit Card
+ORD11601,2024-06-26,North,Electronics,Headphones,211.05,4,0,970.83,641.67,329.16,25,3.7,Credit Card
+ORD11966,2024-06-27,West,Beauty,Makeup Kit,34.31,2,5,78.91,46.18,32.73,45,5.0,Debit Card
+ORD11196,2024-06-27,Central,Home & Kitchen,Blender,145.92,1,0,167.81,132.44,35.37,18,5.0,Debit Card
+ORD10589,2024-06-28,South,Beauty,Makeup Kit,100.44,3,10,346.52,260.39,86.13,47,4.1,UPI
+ORD11666,2024-06-28,Central,Beauty,Shampoo,134.93,3,0,465.51,262.66,202.85,34,4.7,Debit Card
+ORD10350,2024-06-28,East,Beauty,Skincare Kit,9.54,7,10,76.8,47.12,29.68,32,3.8,Debit Card
+ORD10155,2024-06-28,East,Beauty,Perfume,47.72,2,5,109.76,76.85,32.91,45,4.2,Wallet
+ORD10681,2024-06-29,North,Home & Kitchen,Blender,42.6,5,0,244.95,149.06,95.89,19,4.7,Debit Card
+ORD10533,2024-06-29,Central,Home & Kitchen,Air Fryer,66.18,1,0,76.11,48.82,27.29,20,4.0,Debit Card
+ORD11092,2024-06-29,East,Electronics,Laptop,856.73,2,10,1970.48,1305.12,665.36,50,5.0,UPI
+ORD10516,2024-06-30,Central,Electronics,Smartphone,788.58,3,5,2720.6,1793.39,927.21,50,4.5,UPI
+ORD10314,2024-06-30,West,Sports,Dumbbell Set,287.13,6,20,1981.2,1136.67,844.53,25,4.9,Cash
+ORD11269,2024-06-30,Central,Electronics,Smartwatch,698.16,6,10,4817.3,2822.43,1994.87,40,4.8,UPI
+ORD11149,2024-06-30,Central,Electronics,Headphones,683.65,2,0,1572.39,1075.96,496.43,42,4.5,Credit Card
+ORD10938,2024-07-01,South,Sports,Running Shoes,239.53,3,10,718.59,421.84,296.75,44,4.9,Debit Card
+ORD10165,2024-07-01,West,Home & Kitchen,Lamp,61.79,6,0,370.74,217.81,152.93,55,4.1,Debit Card
+ORD11136,2024-07-02,North,Electronics,Laptop,954.64,7,5,6682.48,4453.24,2229.24,29,4.6,Debit Card
+ORD10768,2024-07-02,North,Home & Kitchen,Cookware Set,26.84,5,10,134.2,89.02,45.18,21,5.0,Credit Card
+ORD11267,2024-07-02,South,Electronics,Headphones,1073.0,3,20,3219.0,2567.29,651.71,36,5.0,Wallet
+ORD10795,2024-07-03,West,Clothing,Jacket,26.74,4,15,106.96,62.47,44.49,34,4.8,Debit Card
+ORD11128,2024-07-03,West,Home & Kitchen,Cookware Set,96.77,1,0,96.77,55.98,40.79,51,4.5,Credit Card
+ORD11548,2024-07-03,East,Clothing,T-Shirt,104.71,4,0,418.84,267.9,150.94,31,4.2,Wallet
+ORD11579,2024-07-04,North,Electronics,Laptop,303.02,6,0,1818.12,1368.56,449.56,28,3.9,UPI
+ORD11624,2024-07-04,East,Electronics,Smartwatch,423.09,2,0,846.18,663.55,182.63,61,4.2,Debit Card
+ORD11992,2024-07-04,North,Electronics,Smartphone,242.63,6,0,1455.78,1146.91,308.87,46,4.4,Cash
+ORD10474,2024-07-04,Central,Clothing,T-Shirt,72.11,1,10,72.11,50.49,21.62,18,4.7,Debit Card
+ORD11842,2024-07-04,East,Electronics,Headphones,238.06,6,5,1428.36,807.17,621.19,44,4.6,Credit Card
+ORD10563,2024-07-04,South,Beauty,Perfume,84.07,4,10,336.28,234.08,102.2,28,4.8,Credit Card
+ORD10977,2024-07-04,West,Electronics,Smartphone,1012.94,4,0,4051.76,2864.21,1187.55,30,3.9,UPI
+ORD11533,2024-07-05,Central,Clothing,Jacket,118.56,3,5,355.68,202.26,153.42,38,4.1,Debit Card
+ORD10367,2024-07-05,Central,Home & Kitchen,Cookware Set,183.31,6,0,1099.86,819.84,280.02,22,4.7,Debit Card
+ORD10722,2024-07-06,South,Electronics,Tablet,1048.03,7,0,7336.21,5180.65,2155.56,31,3.7,UPI
+ORD10180,2024-07-06,North,Sports,Tennis Racket,320.77,4,15,1283.08,834.75,448.33,35,5.0,Credit Card
+ORD11529,2024-07-06,Central,Clothing,Sneakers,104.33,4,10,417.32,265.64,151.68,18,5.0,Debit Card
+ORD11107,2024-07-06,South,Electronics,Smartphone,585.0,4,10,2340.0,1811.0,529.0,26,5.0,UPI
+ORD10936,2024-07-07,North,Clothing,Dress,119.25,1,5,119.25,72.29,46.96,51,4.6,Credit Card
+ORD11015,2024-07-07,North,Electronics,Tablet,259.73,2,0,519.46,394.07,125.39,39,3.6,Credit Card
+ORD11314,2024-07-07,West,Clothing,Jacket,61.4,6,10,368.4,205.52,162.88,19,5.0,Debit Card
+ORD10999,2024-07-07,North,Beauty,Skincare Kit,149.55,2,0,299.1,216.38,82.72,18,3.7,Credit Card
+ORD10409,2024-07-08,North,Sports,Running Shoes,162.12,6,10,972.72,604.52,368.2,26,4.9,Debit Card
+ORD11680,2024-07-08,North,Clothing,Jacket,110.76,3,0,332.28,253.3,78.98,30,4.4,Cash
+ORD10027,2024-07-08,North,Electronics,Smartphone,386.66,2,0,773.32,591.67,181.65,40,3.0,Cash
+ORD11052,2024-07-09,North,Clothing,T-Shirt,62.08,7,5,434.56,250.76,183.8,34,4.6,Wallet
+ORD11996,2024-07-10,Central,Beauty,Skincare Kit,128.62,2,5,257.24,188.36,68.88,36,4.4,Debit Card
+ORD11027,2024-07-11,East,Sports,Tennis Racket,194.39,1,0,194.39,147.31,47.08,27,5.0,UPI
+ORD11427,2024-07-11,East,Home & Kitchen,Vacuum Cleaner,42.05,6,15,252.3,179.4,72.9,27,5.0,Debit Card
+ORD10970,2024-07-11,Central,Electronics,Smartwatch,389.08,4,10,1556.32,1177.23,379.09,25,4.1,Debit Card
+ORD11130,2024-07-12,North,Clothing,Jacket,18.54,2,5,37.08,28.17,8.91,33,4.6,Credit Card
+ORD10899,2024-07-12,North,Electronics,Laptop,826.38,3,5,2479.14,1692.48,786.66,24,3.8,Credit Card
+ORD10063,2024-07-12,West,Beauty,Hair Dryer,87.06,2,10,174.12,107.95,66.17,22,3.9,Debit Card
+ORD11995,2024-07-13,North,Electronics,Smartwatch,784.62,5,15,3923.1,2224.64,1698.46,30,4.6,Debit Card
+ORD11242,2024-07-13,East,Sports,Bicycle,228.67,2,5,457.34,274.13,183.21,35,4.8,Credit Card
+ORD11882,2024-07-13,North,Beauty,Makeup Kit,96.3,6,0,577.8,447.49,130.31,41,3.6,Cash
+ORD10403,2024-07-14,West,Electronics,Headphones,462.54,5,0,2312.7,1311.36,1001.34,43,4.2,Debit Card
+ORD11177,2024-07-14,South,Sports,Yoga Mat,309.14,5,0,1545.7,870.24,675.46,38,3.9,Credit Card
+ORD11351,2024-07-14,South,Electronics,Laptop,253.92,1,15,253.92,149.43,104.49,48,3.6,Debit Card
+ORD11098,2024-07-14,East,Clothing,Jacket,95.82,4,0,383.28,245.65,137.63,28,4.4,Credit Card
+ORD10606,2024-07-14,North,Electronics,Smartphone,301.45,2,10,602.9,476.26,126.64,40,4.4,UPI
+ORD10028,2024-07-14,East,Electronics,Smartwatch,1019.91,4,10,4079.64,2663.35,1416.29,29,4.1,Debit Card
+ORD10015,2024-07-16,West,Sports,Tennis Racket,168.55,7,10,1179.85,675.55,504.3,28,3.6,Credit Card
+ORD10442,2024-07-16,Central,Beauty,Makeup Kit,55.9,3,0,167.7,92.26,75.44,25,3.7,Credit Card
+ORD11558,2024-07-16,Central,Electronics,Smartphone,757.68,3,5,2273.04,1673.48,599.56,27,3.9,Wallet
+ORD10255,2024-07-17,West,Clothing,Jacket,25.49,2,0,50.98,38.84,12.14,35,4.7,Credit Card
+ORD11834,2024-07-17,South,Sports,Running Shoes,253.37,5,0,1266.85,821.11,445.74,39,4.9,UPI
+ORD10930,2024-07-17,Central,Beauty,Skincare Kit,34.45,3,0,103.35,66.91,36.44,38,3.6,Debit Card
+ORD11326,2024-07-18,South,Beauty,Makeup Kit,21.86,2,0,43.72,31.44,12.28,40,2.6,Cash
+ORD10698,2024-07-18,East,Clothing,Jeans,102.06,5,20,510.3,343.67,166.63,53,4.2,Credit Card
+ORD10390,2024-07-18,North,Sports,Running Shoes,385.94,3,5,1157.82,775.3,382.52,36,3.7,Credit Card
+ORD10167,2024-07-18,West,Sports,Bicycle,102.38,1,5,102.38,58.01,44.37,26,4.5,Debit Card
+ORD10910,2024-07-19,North,Electronics,Smartphone,62.2,1,15,62.2,49.31,12.89,38,4.1,UPI
+ORD10226,2024-07-19,East,Beauty,Shampoo,147.73,5,0,738.65,518.32,220.33,18,5.0,Credit Card
+ORD11041,2024-07-19,Central,Home & Kitchen,Vacuum Cleaner,28.62,3,5,85.86,51.5,34.36,48,3.0,Credit Card
+ORD11338,2024-07-19,South,Sports,Running Shoes,86.75,3,0,260.25,181.27,78.98,31,4.4,Cash
+ORD10307,2024-07-19,East,Electronics,Smartphone,725.43,5,0,3627.15,2467.44,1159.71,44,4.9,Credit Card
+ORD10209,2024-07-19,North,Electronics,Smartwatch,1096.97,4,0,4387.88,3366.11,1021.77,37,3.9,Wallet
+ORD10914,2024-07-19,Central,Clothing,Jacket,32.0,4,0,128.0,85.32,42.68,27,3.1,Credit Card
+ORD10612,2024-07-20,West,Home & Kitchen,Cookware Set,207.36,6,10,1244.16,789.95,454.21,24,3.6,Debit Card
+ORD11587,2024-07-20,North,Home & Kitchen,Blender,247.49,7,20,1732.43,1203.12,529.31,24,3.7,Credit Card
+ORD11433,2024-07-20,South,Clothing,Jacket,107.12,6,0,642.72,356.83,285.89,33,4.0,Debit Card
+ORD11387,2024-07-20,South,Home & Kitchen,Air Fryer,148.22,6,5,889.32,544.68,344.64,37,4.7,Debit Card
+ORD11636,2024-07-20,North,Electronics,Laptop,889.81,1,5,889.81,652.02,237.79,31,3.7,UPI
+ORD11723,2024-07-21,West,Clothing,Sneakers,119.93,5,0,599.65,389.07,210.58,32,3.9,Credit Card
+ORD10618,2024-07-21,North,Sports,Running Shoes,173.08,4,0,692.32,506.15,186.17,46,4.1,Credit Card
+ORD10189,2024-07-21,West,Electronics,Laptop,1158.27,7,0,8107.89,6247.4,1860.49,41,4.5,UPI
+ORD11012,2024-07-22,East,Home & Kitchen,Cookware Set,50.28,1,10,50.28,33.09,17.19,27,3.9,UPI
+ORD10477,2024-07-22,Central,Sports,Dumbbell Set,63.55,6,5,381.3,282.77,98.53,45,4.4,Cash
+ORD11108,2024-07-22,North,Sports,Tennis Racket,344.78,3,15,1034.34,621.42,412.92,29,4.6,Cash
+ORD10602,2024-07-22,East,Beauty,Shampoo,26.02,3,0,78.06,55.22,22.84,34,4.4,Credit Card
+ORD10874,2024-07-22,North,Clothing,Jeans,18.31,2,10,36.62,25.31,11.31,36,3.9,Cash
+ORD10527,2024-07-22,West,Electronics,Laptop,827.03,4,0,3308.12,2523.15,784.97,47,3.4,Wallet
+ORD11858,2024-07-23,East,Sports,Running Shoes,281.17,7,15,1968.19,1421.77,546.42,46,3.7,UPI
+ORD10292,2024-07-23,East,Clothing,Jacket,43.12,7,5,301.84,170.25,131.59,52,3.9,UPI
+ORD11086,2024-07-23,North,Sports,Running Shoes,70.62,1,0,70.62,56.36,14.26,31,3.5,Credit Card
+ORD11343,2024-07-24,South,Clothing,Sneakers,111.14,2,5,222.28,131.75,90.53,18,3.5,Cash
+ORD11974,2024-07-24,West,Home & Kitchen,Blender,50.74,1,0,50.74,31.87,18.87,35,4.2,Debit Card
+ORD10577,2024-07-24,South,Sports,Dumbbell Set,169.87,2,10,339.74,262.34,77.4,28,4.0,Debit Card
+ORD10854,2024-07-24,Central,Beauty,Skincare Kit,60.34,4,0,241.36,162.71,78.65,40,2.9,Credit Card
+ORD10132,2024-07-24,East,Electronics,Smartphone,844.56,4,20,3378.24,2691.3,686.94,39,4.7,Debit Card
+ORD10385,2024-07-24,South,Clothing,Jacket,23.0,1,0,23.0,12.73,10.27,37,3.5,Credit Card
+ORD11668,2024-07-25,North,Home & Kitchen,Vacuum Cleaner,283.47,1,0,283.47,210.82,72.65,21,3.5,UPI
+ORD11960,2024-07-26,North,Sports,Tennis Racket,355.81,5,0,1779.05,1010.77,768.28,37,3.9,Debit Card
+ORD11013,2024-07-26,North,Sports,Dumbbell Set,399.74,7,15,2798.18,1735.49,1062.69,18,3.9,Debit Card
+ORD10151,2024-07-27,West,Electronics,Smartwatch,1194.85,7,0,8363.95,5572.91,2791.04,35,4.5,Credit Card
+ORD10425,2024-07-27,South,Electronics,Smartwatch,268.0,1,5,268.0,196.26,71.74,18,4.2,Credit Card
+ORD10912,2024-07-27,South,Electronics,Smartwatch,1092.83,1,15,1092.83,791.11,301.72,37,5.0,Credit Card
+ORD10498,2024-07-27,North,Beauty,Hair Dryer,135.19,4,0,540.76,329.82,210.94,18,4.3,UPI
+ORD10344,2024-07-28,North,Clothing,Jacket,119.09,1,0,119.09,93.35,25.74,32,4.6,Credit Card
+ORD10204,2024-07-28,West,Sports,Bicycle,265.55,6,5,1593.3,1143.48,449.82,23,4.1,Debit Card
+ORD10550,2024-07-28,West,Clothing,T-Shirt,116.24,4,20,464.96,367.58,97.38,18,4.1,Wallet
+ORD10820,2024-07-28,East,Clothing,Jeans,23.92,5,5,119.6,88.63,30.97,29,3.7,Debit Card
+ORD11508,2024-07-29,Central,Electronics,Tablet,597.53,3,0,1792.59,1354.58,438.01,23,4.8,Debit Card
+ORD11148,2024-07-29,South,Electronics,Smartphone,1137.72,7,10,7964.04,5310.02,2654.02,29,4.5,Credit Card
+ORD11959,2024-07-30,South,Beauty,Makeup Kit,128.16,7,0,897.12,552.34,344.78,33,4.5,Credit Card
+ORD11898,2024-07-30,North,Electronics,Headphones,321.27,4,0,1285.08,846.91,438.17,31,4.9,UPI
+ORD11983,2024-07-30,East,Clothing,Dress,82.35,7,0,576.45,373.86,202.59,40,3.5,Credit Card
+ORD10600,2024-07-30,West,Electronics,Smartphone,455.91,4,15,1823.64,1318.08,505.56,42,4.2,UPI
+ORD11289,2024-07-31,Central,Electronics,Headphones,744.96,1,0,744.96,571.66,173.3,47,4.2,Debit Card
+ORD11738,2024-07-31,West,Sports,Running Shoes,159.96,3,0,479.88,338.08,141.8,40,3.8,Debit Card
+ORD11893,2024-07-31,North,Home & Kitchen,Vacuum Cleaner,232.28,3,5,696.84,450.89,245.95,37,4.0,Debit Card
+ORD10875,2024-07-31,East,Sports,Tennis Racket,380.41,5,0,1902.05,1388.35,513.7,45,3.4,UPI
+ORD11362,2024-08-01,South,Sports,Dumbbell Set,317.99,5,5,1589.95,1224.76,365.19,50,4.3,Credit Card
+ORD10972,2024-08-01,Central,Home & Kitchen,Vacuum Cleaner,121.69,3,5,365.07,246.49,118.58,22,5.0,UPI
+ORD11395,2024-08-01,South,Clothing,Jacket,65.44,5,5,327.2,242.92,84.28,41,4.7,UPI
+ORD10394,2024-08-02,Central,Clothing,Sneakers,96.9,2,20,193.8,134.91,58.89,33,3.8,Credit Card
+ORD11209,2024-08-02,North,Clothing,Jeans,20.26,6,15,121.56,77.31,44.25,34,3.9,Wallet
+ORD11516,2024-08-02,South,Sports,Dumbbell Set,346.66,6,5,2079.96,1306.74,773.22,48,3.4,Credit Card
+ORD11233,2024-08-02,South,Clothing,Sneakers,47.25,7,15,330.75,253.83,76.92,29,4.1,Credit Card
+ORD11174,2024-08-03,South,Sports,Running Shoes,53.69,6,15,322.14,199.62,122.52,37,3.8,Credit Card
+ORD11918,2024-08-03,South,Beauty,Skincare Kit,10.35,3,0,31.05,20.12,10.93,48,3.9,Wallet
+ORD11635,2024-08-03,West,Beauty,Hair Dryer,101.93,1,10,101.93,76.63,25.3,28,4.3,Credit Card
+ORD10106,2024-08-03,West,Home & Kitchen,Lamp,243.28,4,15,973.12,742.15,230.97,41,4.7,UPI
+ORD10006,2024-08-04,East,Electronics,Tablet,380.27,4,0,1521.08,941.55,579.53,18,3.1,Credit Card
+ORD10102,2024-08-05,North,Electronics,Headphones,101.87,2,0,203.74,151.77,51.97,28,5.0,UPI
+ORD11031,2024-08-05,Central,Electronics,Smartwatch,565.84,7,5,3960.88,2704.4,1256.48,30,3.8,Cash
+ORD11250,2024-08-05,North,Sports,Tennis Racket,116.05,1,0,116.05,80.08,35.97,40,4.0,Debit Card
+ORD11855,2024-08-06,Central,Beauty,Shampoo,32.72,7,10,229.04,139.64,89.4,44,3.8,UPI
+ORD11747,2024-08-06,North,Electronics,Smartphone,1070.34,3,15,3211.02,1881.79,1329.23,37,4.2,Debit Card
+ORD11383,2024-08-07,Central,Clothing,Jeans,105.55,4,15,422.2,332.13,90.07,58,4.0,Credit Card
+ORD10525,2024-08-07,South,Electronics,Headphones,875.81,5,0,4379.05,3147.69,1231.36,30,3.7,Credit Card
+ORD11068,2024-08-07,West,Sports,Tennis Racket,116.27,5,0,581.35,403.57,177.78,22,3.2,Debit Card
+ORD11957,2024-08-07,South,Sports,Bicycle,269.62,1,10,269.62,162.02,107.6,22,4.7,Debit Card
+ORD11844,2024-08-08,North,Electronics,Tablet,1082.76,7,10,7579.32,4641.04,2938.28,19,3.8,UPI
+ORD10372,2024-08-08,North,Clothing,Jeans,47.93,4,0,191.72,148.38,43.34,18,3.9,Credit Card
+ORD10267,2024-08-08,North,Clothing,Jeans,38.08,3,0,114.24,79.79,34.45,51,3.4,Credit Card
+ORD10582,2024-08-08,North,Clothing,Jeans,113.5,2,0,227.0,177.54,49.46,49,5.0,UPI
+ORD11922,2024-08-08,East,Electronics,Headphones,934.05,2,10,1868.1,1363.86,504.24,21,4.2,Credit Card
+ORD10311,2024-08-09,South,Clothing,T-Shirt,34.75,6,0,208.5,128.72,79.78,43,3.6,Debit Card
+ORD11109,2024-08-09,North,Electronics,Smartphone,397.47,2,0,794.94,526.74,268.2,47,4.4,Debit Card
+ORD11125,2024-08-10,West,Clothing,T-Shirt,48.52,2,20,97.04,59.73,37.31,46,3.8,Cash
+ORD11337,2024-08-10,South,Beauty,Perfume,144.61,7,15,1012.27,797.41,214.86,47,3.9,Credit Card
+ORD10720,2024-08-10,North,Home & Kitchen,Lamp,104.34,2,0,208.68,146.05,62.63,47,3.7,UPI
+ORD10984,2024-08-10,North,Electronics,Laptop,1167.28,4,0,4669.12,2578.33,2090.79,43,4.2,Wallet
+ORD11259,2024-08-10,South,Beauty,Makeup Kit,142.36,2,15,284.72,165.79,118.93,37,4.9,Cash
+ORD10727,2024-08-12,North,Clothing,Jacket,60.55,7,0,423.85,287.79,136.06,45,3.0,Debit Card
+ORD11397,2024-08-12,Central,Home & Kitchen,Vacuum Cleaner,246.05,1,15,246.05,164.35,81.7,18,4.8,Credit Card
+ORD10014,2024-08-12,South,Home & Kitchen,Cookware Set,197.62,6,5,1185.72,695.1,490.62,44,4.9,Credit Card
+ORD11423,2024-08-12,South,Beauty,Skincare Kit,107.22,7,0,750.54,513.63,236.91,24,4.8,Credit Card
+ORD10101,2024-08-13,Central,Beauty,Hair Dryer,31.72,4,5,126.88,71.85,55.03,42,3.9,Cash
+ORD10481,2024-08-13,North,Home & Kitchen,Vacuum Cleaner,230.4,2,10,460.8,309.67,151.13,24,4.1,UPI
+ORD11140,2024-08-14,South,Beauty,Shampoo,22.17,4,0,88.68,58.67,30.01,28,4.5,UPI
+ORD10188,2024-08-15,North,Sports,Bicycle,27.94,4,5,111.76,78.78,32.98,21,3.4,UPI
+ORD11240,2024-08-15,Central,Clothing,T-Shirt,46.2,6,0,277.2,186.65,90.55,33,4.3,Credit Card
+ORD10566,2024-08-15,Central,Clothing,Dress,40.59,1,0,40.59,27.37,13.22,37,4.0,UPI
+ORD11471,2024-08-15,South,Home & Kitchen,Lamp,224.61,2,0,449.22,303.02,146.2,38,4.6,UPI
+ORD10332,2024-08-16,Central,Sports,Tennis Racket,211.41,5,5,1057.05,734.47,322.58,42,3.5,Debit Card
+ORD11158,2024-08-16,West,Electronics,Smartphone,852.26,2,10,1704.52,1133.95,570.57,20,5.0,UPI
+ORD10519,2024-08-17,East,Electronics,Laptop,1118.55,2,0,2237.1,1384.3,852.8,41,4.1,Wallet
+ORD10877,2024-08-17,North,Electronics,Tablet,159.02,6,10,954.12,684.81,269.31,23,4.2,Credit Card
+ORD11320,2024-08-17,South,Beauty,Makeup Kit,59.84,2,5,119.68,82.64,37.04,34,4.5,Credit Card
+ORD10555,2024-08-18,North,Electronics,Smartwatch,962.09,6,15,5772.54,4336.79,1435.75,34,4.2,Credit Card
+ORD10707,2024-08-18,West,Clothing,Jeans,30.67,7,0,214.69,136.14,78.55,28,3.6,Wallet
+ORD11864,2024-08-18,North,Electronics,Headphones,641.26,6,0,3847.56,2812.79,1034.77,40,3.3,Cash
+ORD10804,2024-08-18,South,Sports,Tennis Racket,180.74,6,0,1084.44,779.23,305.21,29,4.1,Credit Card
+ORD11559,2024-08-19,East,Electronics,Headphones,813.67,5,10,4068.35,2774.97,1293.38,18,4.3,Credit Card
+ORD10818,2024-08-19,North,Sports,Dumbbell Set,312.06,7,15,2184.42,1279.57,904.85,19,4.8,Debit Card
+ORD11594,2024-08-19,West,Sports,Tennis Racket,184.51,4,10,738.04,529.52,208.52,19,3.8,Credit Card
+ORD11268,2024-08-20,North,Clothing,Sneakers,25.5,2,5,51.0,38.83,12.17,21,2.9,Debit Card
+ORD10412,2024-08-20,North,Electronics,Tablet,779.02,3,0,2337.06,1856.92,480.14,47,3.8,UPI
+ORD10604,2024-08-21,North,Electronics,Smartphone,949.74,6,20,5698.44,3999.86,1698.58,46,3.4,Debit Card
+ORD10225,2024-08-21,South,Electronics,Headphones,510.8,6,5,3064.8,2265.05,799.75,31,4.5,Credit Card
+ORD10993,2024-08-21,South,Sports,Bicycle,120.74,5,5,603.7,417.28,186.42,19,5.0,Credit Card
+ORD10797,2024-08-21,East,Clothing,Sneakers,75.31,3,10,225.93,138.78,87.15,34,4.5,UPI
+ORD10539,2024-08-21,Central,Home & Kitchen,Lamp,65.84,6,0,395.04,268.8,126.24,42,3.8,Credit Card
+ORD10731,2024-08-21,North,Clothing,Jacket,55.16,5,15,275.8,197.3,78.5,26,3.2,Credit Card
+ORD11347,2024-08-21,Central,Sports,Running Shoes,224.43,4,5,897.72,581.39,316.33,26,3.7,Credit Card
+ORD11355,2024-08-21,East,Electronics,Smartphone,924.86,2,5,1849.72,1400.09,449.63,39,4.4,Debit Card
+ORD11571,2024-08-22,West,Home & Kitchen,Blender,183.65,2,15,367.3,235.26,132.04,43,3.9,Credit Card
+ORD11057,2024-08-22,North,Sports,Dumbbell Set,158.14,7,0,1106.98,868.17,238.81,39,3.2,Credit Card
+ORD10585,2024-08-22,West,Clothing,Jacket,79.43,6,5,476.58,307.68,168.9,18,3.3,Debit Card
+ORD11574,2024-08-23,South,Clothing,T-Shirt,85.71,2,0,171.42,105.74,65.68,49,4.5,Credit Card
+ORD10853,2024-08-23,West,Clothing,Dress,79.78,4,0,319.12,215.09,104.03,47,5.0,Debit Card
+ORD11769,2024-08-23,Central,Electronics,Tablet,281.14,4,5,1124.56,622.73,501.83,36,3.2,UPI
+ORD11085,2024-08-23,South,Clothing,T-Shirt,69.23,4,10,276.92,195.9,81.02,49,3.8,Debit Card
+ORD10066,2024-08-23,West,Electronics,Tablet,525.71,5,15,2628.55,1925.98,702.57,53,4.5,Cash
+ORD11442,2024-08-26,South,Beauty,Perfume,110.87,3,5,332.61,240.36,92.25,27,4.7,Credit Card
+ORD11576,2024-08-26,Central,Sports,Yoga Mat,317.07,4,20,1268.28,901.63,366.65,39,4.2,Credit Card
+ORD10625,2024-08-26,West,Clothing,Jacket,35.38,5,15,176.9,123.45,53.45,40,4.4,Credit Card
+ORD10641,2024-08-26,Central,Home & Kitchen,Lamp,231.65,1,10,231.65,179.31,52.34,29,3.3,Credit Card
+ORD11325,2024-08-26,Central,Home & Kitchen,Lamp,233.43,2,0,466.86,366.38,100.48,35,3.4,Cash
+ORD11466,2024-08-27,North,Electronics,Tablet,775.67,7,5,5429.69,3518.41,1911.28,30,3.3,Credit Card
+ORD11470,2024-08-27,North,Clothing,T-Shirt,17.54,2,15,35.08,25.0,10.08,31,4.3,Cash
+ORD10994,2024-08-27,South,Electronics,Smartphone,352.3,5,0,1761.5,1001.21,760.29,54,4.0,UPI
+ORD11113,2024-08-27,Central,Home & Kitchen,Air Fryer,193.23,5,0,966.15,712.97,253.18,18,3.6,UPI
+ORD11539,2024-08-27,South,Electronics,Tablet,190.06,3,20,570.18,335.77,234.41,40,4.1,UPI
+ORD11767,2024-08-28,South,Home & Kitchen,Vacuum Cleaner,77.3,3,15,231.9,132.46,99.44,20,3.5,Credit Card
+ORD11567,2024-08-28,South,Sports,Yoga Mat,189.91,1,5,189.91,143.95,45.96,50,3.6,Credit Card
+ORD11010,2024-08-28,West,Electronics,Smartphone,392.4,6,0,2354.4,1352.11,1002.29,49,4.9,Wallet
+ORD11283,2024-08-28,North,Electronics,Smartphone,345.92,4,20,1383.68,1085.52,298.16,23,4.4,Credit Card
+ORD10418,2024-08-28,East,Clothing,Jacket,49.78,5,5,248.9,152.68,96.22,18,4.2,Credit Card
+ORD11157,2024-08-29,South,Clothing,T-Shirt,43.43,5,5,217.15,164.65,52.5,37,4.1,Credit Card
+ORD10146,2024-08-29,East,Sports,Dumbbell Set,73.9,1,15,73.9,54.26,19.64,33,4.1,Credit Card
+ORD10119,2024-08-29,West,Sports,Dumbbell Set,140.69,2,15,281.38,192.34,89.04,21,3.4,Wallet
+ORD11618,2024-08-30,East,Beauty,Shampoo,65.94,6,5,395.64,231.58,164.06,31,4.1,Debit Card
+ORD11327,2024-08-30,West,Clothing,Dress,42.97,4,15,171.88,107.33,64.55,31,4.9,Debit Card
+ORD10193,2024-08-30,South,Electronics,Smartwatch,956.36,7,5,6694.52,5141.62,1552.9,44,4.7,Credit Card
+ORD10774,2024-08-30,North,Sports,Tennis Racket,145.03,7,5,1015.21,759.79,255.42,42,4.1,Credit Card
+ORD10736,2024-08-30,East,Sports,Tennis Racket,134.18,1,0,134.18,101.01,33.17,47,4.5,UPI
+ORD10769,2024-08-31,West,Clothing,Sneakers,37.19,2,0,74.38,42.83,31.55,25,4.0,Credit Card
+ORD11249,2024-09-01,East,Electronics,Tablet,642.6,5,10,3213.0,2473.2,739.8,45,4.5,Cash
+ORD11482,2024-09-01,Central,Home & Kitchen,Air Fryer,285.51,7,0,1998.57,1168.91,829.66,40,4.3,Debit Card
+ORD10824,2024-09-01,West,Home & Kitchen,Lamp,33.76,4,5,135.04,84.36,50.68,32,4.1,Debit Card
+ORD10416,2024-09-01,South,Electronics,Headphones,706.83,7,5,4947.81,2963.44,1984.37,22,4.1,Credit Card
+ORD10647,2024-09-02,East,Home & Kitchen,Vacuum Cleaner,131.92,3,15,395.76,309.99,85.77,26,5.0,Wallet
+ORD10379,2024-09-02,South,Sports,Dumbbell Set,65.42,6,10,392.52,227.86,164.66,20,4.4,Debit Card
+ORD11257,2024-09-03,North,Beauty,Hair Dryer,79.8,3,0,239.4,135.02,104.38,44,4.3,UPI
+ORD10849,2024-09-03,West,Clothing,T-Shirt,87.48,4,5,349.92,239.7,110.22,18,4.0,UPI
+ORD10777,2024-09-03,North,Electronics,Tablet,74.17,1,10,74.17,54.76,19.41,28,4.2,UPI
+ORD10865,2024-09-04,South,Sports,Bicycle,121.98,4,5,487.92,278.09,209.83,37,4.3,Credit Card
+ORD10257,2024-09-04,North,Electronics,Smartwatch,213.07,2,10,426.14,266.54,159.6,33,4.5,Wallet
+ORD11336,2024-09-04,North,Electronics,Headphones,548.07,5,5,2740.35,1905.89,834.46,48,4.4,Debit Card
+ORD11999,2024-09-04,South,Beauty,Shampoo,26.48,5,0,132.4,95.87,36.53,28,2.3,Credit Card
+ORD11684,2024-09-04,Central,Clothing,Dress,52.66,4,5,210.64,134.43,76.21,35,3.9,Wallet
+ORD10410,2024-09-05,South,Home & Kitchen,Air Fryer,47.56,3,5,142.68,113.0,29.68,34,3.4,Credit Card
+ORD11182,2024-09-05,West,Sports,Bicycle,282.82,4,0,1131.28,796.16,335.12,21,4.2,Credit Card
+ORD10476,2024-09-06,Central,Clothing,Jacket,92.69,2,20,185.38,102.7,82.68,18,5.0,Credit Card
+ORD10579,2024-09-06,North,Electronics,Smartwatch,1021.19,4,15,4084.76,2911.13,1173.63,24,4.3,UPI
+ORD10485,2024-09-07,North,Electronics,Laptop,125.43,3,10,376.29,261.26,115.03,18,4.6,Credit Card
+ORD11329,2024-09-07,North,Sports,Bicycle,222.26,3,5,666.78,499.74,167.04,44,4.4,UPI
+ORD11264,2024-09-07,West,Home & Kitchen,Air Fryer,47.91,2,10,95.82,75.91,19.91,26,4.6,Credit Card
+ORD11478,2024-09-09,East,Electronics,Laptop,208.91,1,0,208.91,147.58,61.33,34,3.9,Credit Card
+ORD10850,2024-09-09,South,Beauty,Makeup Kit,74.43,1,20,74.43,57.32,17.11,41,4.4,Debit Card
+ORD10881,2024-09-09,South,Clothing,Jacket,38.19,1,0,38.19,28.88,9.31,58,3.8,Debit Card
+ORD10462,2024-09-10,West,Clothing,Dress,25.22,2,10,50.44,29.67,20.77,42,5.0,UPI
+ORD10018,2024-09-10,Central,Home & Kitchen,Cookware Set,271.22,5,0,1356.1,1045.09,311.01,22,4.8,Cash
+ORD11784,2024-09-10,North,Clothing,Sneakers,69.76,3,0,209.28,161.94,47.34,18,5.0,UPI
+ORD10888,2024-09-10,North,Clothing,Jeans,27.12,5,5,135.6,103.22,32.38,24,5.0,UPI
+ORD10721,2024-09-11,West,Electronics,Smartphone,544.91,1,10,544.91,376.67,168.24,40,4.3,Debit Card
+ORD11628,2024-09-11,South,Electronics,Smartwatch,729.18,7,15,5104.26,3419.15,1685.11,23,3.7,Wallet
+ORD10501,2024-09-11,South,Home & Kitchen,Blender,187.89,2,0,375.78,229.94,145.84,27,3.1,Debit Card
+ORD11411,2024-09-11,North,Electronics,Laptop,642.37,7,0,4496.59,3281.14,1215.45,18,4.4,Credit Card
+ORD10174,2024-09-12,North,Beauty,Makeup Kit,85.39,3,5,256.17,158.14,98.03,38,3.9,UPI
+ORD10730,2024-09-12,West,Electronics,Laptop,1008.67,2,0,2017.34,1169.28,848.06,22,4.8,UPI
+ORD11210,2024-09-13,Central,Home & Kitchen,Vacuum Cleaner,283.27,2,0,566.54,434.48,132.06,19,4.4,UPI
+ORD11488,2024-09-13,East,Home & Kitchen,Lamp,172.54,5,5,862.7,654.04,208.66,24,4.1,Debit Card
+ORD11280,2024-09-13,South,Electronics,Laptop,422.76,2,0,845.52,586.53,258.99,40,3.9,Debit Card
+ORD11126,2024-09-13,South,Sports,Yoga Mat,382.35,6,0,2294.1,1676.28,617.82,25,4.2,Cash
+ORD11702,2024-09-13,Central,Sports,Dumbbell Set,211.75,6,15,1270.5,849.83,420.67,35,3.8,Wallet
+ORD11093,2024-09-13,West,Clothing,Jacket,14.21,5,0,71.05,39.18,31.87,31,3.9,Debit Card
+ORD11467,2024-09-14,Central,Clothing,T-Shirt,60.44,4,10,241.76,189.48,52.28,19,4.5,Cash
+ORD10991,2024-09-14,South,Home & Kitchen,Lamp,121.93,4,15,487.72,352.82,134.9,44,4.8,Credit Card
+ORD11627,2024-09-15,Central,Home & Kitchen,Cookware Set,119.58,6,0,717.48,539.75,177.73,32,3.7,Credit Card
+ORD10690,2024-09-16,North,Clothing,Dress,67.99,4,10,271.96,170.63,101.33,46,3.5,Debit Card
+ORD11905,2024-09-16,North,Sports,Yoga Mat,183.72,6,10,1102.32,766.3,336.02,26,4.8,Credit Card
+ORD10399,2024-09-16,South,Home & Kitchen,Vacuum Cleaner,192.03,7,10,1344.21,1055.06,289.15,38,4.9,Credit Card
+ORD10260,2024-09-16,Central,Home & Kitchen,Cookware Set,252.23,5,15,1261.15,979.88,281.27,41,4.2,Wallet
+ORD10944,2024-09-16,North,Electronics,Smartwatch,772.75,4,0,3091.0,2224.48,866.52,22,3.5,Wallet
+ORD10798,2024-09-16,East,Sports,Running Shoes,361.47,3,20,1084.41,651.21,433.2,32,3.4,Credit Card
+ORD11821,2024-09-16,East,Beauty,Shampoo,128.16,4,10,512.64,369.55,143.09,25,3.7,Credit Card
+ORD11043,2024-09-17,North,Clothing,Jeans,76.71,6,0,460.26,366.82,93.44,30,3.2,Credit Card
+ORD11703,2024-09-17,North,Sports,Bicycle,188.51,7,15,1319.57,894.07,425.5,27,4.3,Credit Card
+ORD11391,2024-09-18,North,Beauty,Perfume,69.29,5,10,346.45,248.71,97.74,31,4.5,UPI
+ORD11191,2024-09-18,East,Sports,Running Shoes,391.12,6,20,2346.72,1755.1,591.62,33,4.5,Cash
+ORD11074,2024-09-18,Central,Home & Kitchen,Lamp,262.25,7,10,1835.75,1092.4,743.35,46,4.5,UPI
+ORD11766,2024-09-19,Central,Beauty,Skincare Kit,21.81,1,0,21.81,12.46,9.35,39,4.7,Cash
+ORD11840,2024-09-19,West,Clothing,Jeans,106.78,2,20,213.56,118.76,94.8,57,4.3,Debit Card
+ORD10883,2024-09-19,West,Clothing,Jacket,106.83,1,10,106.83,68.74,38.09,40,3.6,Credit Card
+ORD11608,2024-09-19,South,Home & Kitchen,Vacuum Cleaner,221.23,6,5,1327.38,829.07,498.31,18,4.1,Credit Card
+ORD10121,2024-09-20,West,Home & Kitchen,Blender,285.26,4,0,1141.04,856.27,284.77,46,4.3,Cash
+ORD10080,2024-09-20,North,Clothing,Jacket,104.8,7,0,733.6,541.63,191.97,46,4.2,Cash
+ORD11399,2024-09-20,Central,Home & Kitchen,Vacuum Cleaner,228.28,3,15,684.84,453.91,230.93,25,4.0,Debit Card
+ORD10082,2024-09-20,West,Home & Kitchen,Vacuum Cleaner,47.84,6,10,287.04,201.16,85.88,22,4.0,Credit Card
+ORD11175,2024-09-21,West,Electronics,Smartphone,1132.33,3,0,3396.99,2224.73,1172.26,28,4.2,Debit Card
+ORD10843,2024-09-21,South,Beauty,Skincare Kit,12.26,2,5,24.52,16.66,7.86,30,3.8,Cash
+ORD10634,2024-09-21,Central,Electronics,Laptop,982.75,4,20,3931.0,2673.4,1257.6,41,3.9,Credit Card
+ORD11032,2024-09-21,East,Beauty,Shampoo,62.09,6,15,372.54,241.41,131.13,60,3.2,UPI
+ORD11515,2024-09-21,West,Electronics,Headphones,808.0,3,0,2424.0,1758.32,665.68,39,4.0,Credit Card
+ORD10753,2024-09-21,North,Beauty,Hair Dryer,112.91,1,10,112.91,81.38,31.53,48,4.1,Debit Card
+ORD11648,2024-09-22,North,Electronics,Laptop,514.23,5,20,2571.15,1682.39,888.76,27,4.5,Cash
+ORD10218,2024-09-22,Central,Home & Kitchen,Cookware Set,160.6,3,5,481.8,375.0,106.8,42,4.4,Credit Card
+ORD11414,2024-09-22,North,Sports,Dumbbell Set,171.52,5,5,857.6,608.69,248.91,40,4.2,Wallet
+ORD10713,2024-09-22,West,Home & Kitchen,Vacuum Cleaner,263.87,7,0,1847.09,1369.1,477.99,38,4.2,Wallet
+ORD11884,2024-09-22,South,Beauty,Makeup Kit,141.16,2,0,282.32,198.02,84.3,36,3.3,Cash
+ORD11634,2024-09-23,Central,Clothing,Dress,49.08,2,5,98.16,74.34,23.82,38,5.0,Cash
+ORD11046,2024-09-23,North,Sports,Tennis Racket,224.36,3,5,673.08,373.44,299.64,46,3.1,UPI
+ORD10423,2024-09-23,North,Home & Kitchen,Blender,81.78,5,0,408.9,227.41,181.49,22,3.1,Wallet
+ORD11944,2024-09-24,South,Beauty,Hair Dryer,10.13,6,15,60.78,36.1,24.68,25,3.7,Cash
+ORD11925,2024-09-24,East,Electronics,Smartphone,679.81,3,5,2039.43,1458.48,580.95,47,4.4,Credit Card
+ORD11556,2024-09-24,West,Sports,Yoga Mat,220.24,4,15,880.96,637.98,242.98,18,3.9,Credit Card
+ORD11721,2024-09-25,North,Home & Kitchen,Lamp,93.46,6,15,560.76,380.87,179.89,52,3.6,UPI
+ORD11717,2024-09-25,North,Home & Kitchen,Lamp,28.97,6,10,173.82,119.89,53.93,27,3.9,UPI
+ORD10393,2024-09-25,South,Home & Kitchen,Lamp,234.63,6,20,1407.78,880.92,526.86,37,4.6,UPI
+ORD11476,2024-09-25,South,Electronics,Tablet,843.87,3,0,2531.61,1476.56,1055.05,18,4.7,Debit Card
+ORD11994,2024-09-26,East,Beauty,Perfume,40.84,5,0,204.2,138.2,66.0,18,4.7,Credit Card
+ORD10669,2024-09-27,North,Beauty,Makeup Kit,140.41,2,5,280.82,206.0,74.82,40,4.1,Debit Card
+ORD10330,2024-09-27,Central,Beauty,Perfume,14.38,7,20,100.66,76.5,24.16,45,4.0,Credit Card
+ORD10523,2024-09-27,East,Home & Kitchen,Lamp,211.46,2,0,422.92,294.19,128.73,29,3.9,Credit Card
+ORD11531,2024-09-27,East,Electronics,Tablet,891.57,7,5,6240.99,4601.69,1639.3,33,4.3,Credit Card
+ORD11315,2024-09-27,East,Home & Kitchen,Cookware Set,203.93,4,5,815.72,602.82,212.9,24,3.6,UPI
+ORD11935,2024-09-28,East,Sports,Yoga Mat,276.69,6,0,1660.14,1300.68,359.46,54,4.7,Debit Card
+ORD10030,2024-09-28,West,Home & Kitchen,Blender,164.67,7,10,1152.69,759.53,393.16,27,4.3,Credit Card
+ORD11850,2024-09-28,South,Clothing,Jacket,10.7,4,5,42.8,27.46,15.34,45,4.7,Credit Card
+ORD10916,2024-09-28,West,Sports,Tennis Racket,397.86,5,5,1989.3,1487.82,501.48,37,5.0,UPI
+ORD10444,2024-09-29,South,Clothing,Jeans,44.61,7,10,312.27,184.57,127.7,24,4.4,Credit Card
+ORD10336,2024-09-29,East,Electronics,Smartwatch,395.1,2,15,790.2,621.99,168.21,37,4.6,UPI
+ORD10745,2024-09-29,South,Sports,Dumbbell Set,370.19,1,0,370.19,241.05,129.14,36,4.0,UPI
+ORD10395,2024-09-29,West,Home & Kitchen,Vacuum Cleaner,49.77,6,5,298.62,190.72,107.9,18,3.1,UPI
+ORD11379,2024-09-29,South,Sports,Dumbbell Set,264.22,7,10,1849.54,1285.16,564.38,49,3.9,Wallet
+ORD10705,2024-09-29,West,Clothing,T-Shirt,63.82,5,10,319.1,208.81,110.29,35,3.7,Credit Card
+ORD11823,2024-10-01,West,Home & Kitchen,Lamp,65.98,3,5,197.94,124.7,73.24,48,4.8,Credit Card
+ORD10289,2024-10-01,Central,Electronics,Laptop,622.59,7,0,4358.13,2989.95,1368.18,43,5.0,UPI
+ORD11171,2024-10-01,East,Clothing,Dress,20.53,3,15,61.59,46.22,15.37,41,4.6,Credit Card
+ORD11444,2024-10-02,West,Home & Kitchen,Air Fryer,46.11,2,0,92.22,55.52,36.7,36,4.7,Wallet
+ORD11139,2024-10-03,West,Sports,Running Shoes,221.0,1,0,221.0,154.47,66.53,64,5.0,Cash
+ORD10506,2024-10-03,West,Electronics,Tablet,505.65,4,5,2022.6,1553.15,469.45,28,3.1,UPI
+ORD11839,2024-10-03,South,Electronics,Smartwatch,545.81,2,15,1091.62,866.5,225.12,20,3.6,Debit Card
+ORD10294,2024-10-03,East,Electronics,Laptop,906.49,2,10,1812.98,1372.68,440.3,31,4.5,Wallet
+ORD10234,2024-10-03,West,Sports,Dumbbell Set,153.11,2,10,306.22,193.94,112.28,36,5.0,Wallet
+ORD11971,2024-10-03,East,Beauty,Shampoo,122.84,7,0,859.88,507.8,352.08,36,3.8,UPI
+ORD11322,2024-10-04,East,Home & Kitchen,Blender,247.34,2,0,494.68,316.02,178.66,18,3.8,UPI
+ORD10917,2024-10-04,North,Clothing,Sneakers,23.07,6,10,138.42,81.5,56.92,31,3.7,Wallet
+ORD10086,2024-10-04,South,Sports,Yoga Mat,336.45,4,15,1345.8,784.69,561.11,48,4.9,Cash
+ORD11745,2024-10-04,South,Home & Kitchen,Lamp,94.88,6,5,569.28,425.21,144.07,22,5.0,Cash
+ORD10868,2024-10-04,East,Sports,Dumbbell Set,78.42,3,0,235.26,145.2,90.06,56,4.5,Wallet
+ORD11976,2024-10-04,West,Electronics,Smartwatch,716.84,1,0,716.84,490.67,226.17,26,4.0,Credit Card
+ORD10880,2024-10-05,West,Sports,Dumbbell Set,389.28,5,20,1946.4,1092.21,854.19,49,3.6,Credit Card
+ORD10269,2024-10-05,South,Beauty,Shampoo,140.2,7,10,981.4,571.14,410.26,35,3.8,Wallet
+ORD11099,2024-10-05,Central,Electronics,Smartwatch,1132.58,7,5,7928.06,5220.76,2707.3,42,3.9,Credit Card
+ORD11877,2024-10-05,West,Clothing,Dress,93.49,5,0,467.45,262.4,205.05,31,3.6,Cash
+ORD10652,2024-10-05,North,Electronics,Laptop,84.01,1,0,84.01,65.16,18.85,39,4.1,UPI
+ORD10220,2024-10-05,North,Electronics,Smartphone,991.06,6,10,5946.36,4527.56,1418.8,26,5.0,Credit Card
+ORD10228,2024-10-06,East,Home & Kitchen,Blender,299.92,5,5,1499.6,1059.56,440.04,45,4.4,Debit Card
+ORD10268,2024-10-06,South,Beauty,Perfume,125.4,7,10,877.8,555.69,322.11,49,4.6,Credit Card
+ORD10900,2024-10-06,West,Electronics,Laptop,701.47,2,15,1402.94,1088.02,314.92,38,4.1,Debit Card
+ORD10927,2024-10-06,West,Home & Kitchen,Lamp,205.17,4,0,820.68,503.38,317.3,18,4.3,Debit Card
+ORD11674,2024-10-06,North,Electronics,Smartphone,586.59,3,0,1759.77,1286.32,473.45,55,4.1,Debit Card
+ORD10023,2024-10-06,North,Beauty,Makeup Kit,54.97,6,20,329.82,261.11,68.71,44,3.9,Debit Card
+ORD10371,2024-10-07,East,Sports,Bicycle,118.25,4,0,473.0,308.36,164.64,30,4.4,Debit Card
+ORD10518,2024-10-07,Central,Electronics,Smartwatch,917.05,4,0,3668.2,2054.14,1614.06,45,4.5,Debit Card
+ORD10921,2024-10-07,North,Electronics,Smartwatch,536.95,3,5,1610.85,1176.19,434.66,18,5.0,Debit Card
+ORD10483,2024-10-07,North,Beauty,Skincare Kit,65.53,2,5,131.06,98.36,32.7,37,4.1,Wallet
+ORD11833,2024-10-07,North,Electronics,Smartwatch,1137.91,6,5,6827.46,4102.83,2724.63,45,3.5,UPI
+ORD10546,2024-10-08,West,Clothing,Dress,75.74,7,10,530.18,406.52,123.66,18,3.8,Credit Card
+ORD11799,2024-10-09,East,Clothing,Jeans,84.52,5,0,422.6,235.66,186.94,26,4.1,Cash
+ORD10346,2024-10-09,North,Electronics,Tablet,123.39,7,15,863.73,574.9,288.83,23,4.7,Cash
+ORD11871,2024-10-09,West,Beauty,Makeup Kit,50.63,3,20,151.89,111.31,40.58,23,4.1,Credit Card
+ORD10941,2024-10-09,South,Home & Kitchen,Air Fryer,251.82,1,0,251.82,164.71,87.11,24,3.6,Debit Card
+ORD10368,2024-10-09,North,Home & Kitchen,Cookware Set,178.5,7,5,1249.5,728.45,521.05,31,3.5,Credit Card
+ORD11262,2024-10-09,North,Sports,Yoga Mat,168.86,4,0,675.44,499.65,175.79,35,3.8,Debit Card
+ORD10212,2024-10-09,East,Electronics,Tablet,219.63,4,5,878.52,586.33,292.19,28,5.0,Debit Card
+ORD10581,2024-10-10,East,Electronics,Smartwatch,816.38,7,15,5714.66,4558.51,1156.15,18,5.0,Credit Card
+ORD10359,2024-10-10,South,Electronics,Smartwatch,650.83,2,0,1301.66,897.18,404.48,35,5.0,Wallet
+ORD11566,2024-10-10,North,Sports,Bicycle,273.82,4,10,1095.28,687.26,408.02,27,4.1,Credit Card
+ORD10381,2024-10-11,Central,Home & Kitchen,Blender,245.67,5,5,1228.35,852.75,375.6,35,3.7,Credit Card
+ORD10111,2024-10-11,Central,Electronics,Laptop,568.39,3,10,1705.17,993.3,711.87,18,4.1,UPI
+ORD11661,2024-10-11,East,Clothing,Dress,11.05,2,15,22.1,17.66,4.44,51,5.0,Cash
+ORD10497,2024-10-11,West,Beauty,Makeup Kit,40.27,3,0,120.81,69.58,51.23,27,4.4,Credit Card
+ORD11404,2024-10-11,North,Home & Kitchen,Lamp,39.58,4,5,158.32,105.86,52.46,33,3.8,Debit Card
+ORD11468,2024-10-11,North,Sports,Yoga Mat,253.38,1,5,253.38,175.39,77.99,33,3.6,Credit Card
+ORD10112,2024-10-11,North,Sports,Dumbbell Set,378.56,3,0,1135.68,752.78,382.9,46,4.6,Credit Card
+ORD11496,2024-10-12,East,Clothing,Sneakers,69.64,1,10,69.64,41.23,28.41,32,4.9,UPI
+ORD10079,2024-10-12,North,Clothing,T-Shirt,102.02,3,10,306.06,173.36,132.7,18,5.0,Debit Card
+ORD11817,2024-10-13,East,Sports,Tennis Racket,36.95,4,15,147.8,94.0,53.8,27,4.2,Debit Card
+ORD10964,2024-10-13,North,Beauty,Skincare Kit,77.24,4,0,308.96,185.47,123.49,53,4.1,Credit Card
+ORD10373,2024-10-14,North,Home & Kitchen,Blender,250.82,2,10,501.64,281.58,220.06,35,3.7,Credit Card
+ORD10569,2024-10-14,South,Home & Kitchen,Vacuum Cleaner,29.7,6,10,178.2,110.03,68.17,20,4.7,Credit Card
+ORD10594,2024-10-15,West,Sports,Yoga Mat,281.96,2,5,563.92,372.6,191.32,48,4.1,Wallet
+ORD10202,2024-10-15,West,Home & Kitchen,Blender,55.35,2,10,110.7,69.88,40.82,41,4.0,Cash
+ORD11432,2024-10-15,East,Clothing,Jacket,64.89,6,15,389.34,233.19,156.15,24,4.7,Credit Card
+ORD11490,2024-10-16,West,Clothing,Sneakers,52.01,7,0,364.07,235.49,128.58,37,3.5,UPI
+ORD10237,2024-10-16,West,Clothing,Jacket,10.67,3,0,32.01,21.79,10.22,25,4.2,UPI
+ORD10142,2024-10-17,West,Home & Kitchen,Lamp,182.66,2,10,365.32,256.67,108.65,18,3.8,Credit Card
+ORD10067,2024-10-17,West,Electronics,Smartphone,247.26,5,5,1236.3,752.81,483.49,42,4.0,Debit Card
+ORD11398,2024-10-17,North,Electronics,Tablet,724.17,7,10,5069.19,3381.8,1687.39,53,4.0,UPI
+ORD10386,2024-10-17,Central,Sports,Tennis Racket,361.03,5,5,1805.15,1031.22,773.93,18,5.0,Debit Card
+ORD10398,2024-10-18,South,Home & Kitchen,Lamp,171.28,3,5,513.84,369.76,144.08,31,4.0,Cash
+ORD10370,2024-10-19,East,Home & Kitchen,Air Fryer,223.71,7,5,1565.97,1015.76,550.21,20,4.4,Cash
+ORD11801,2024-10-19,West,Electronics,Smartwatch,312.2,3,0,936.6,689.0,247.6,47,4.8,Debit Card
+ORD11363,2024-10-19,East,Home & Kitchen,Air Fryer,28.15,3,0,84.45,60.9,23.55,48,3.8,Debit Card
+ORD10966,2024-10-20,South,Clothing,Sneakers,98.89,5,15,494.45,317.07,177.38,38,2.3,Wallet
+ORD11541,2024-10-20,Central,Beauty,Skincare Kit,143.35,2,0,286.7,211.05,75.65,35,5.0,Debit Card
+ORD11266,2024-10-20,Central,Clothing,Jeans,72.71,1,0,72.71,56.51,16.2,38,4.5,Debit Card
+ORD10133,2024-10-20,South,Home & Kitchen,Cookware Set,59.1,6,10,354.6,222.33,132.27,22,4.6,Wallet
+ORD10126,2024-10-21,East,Clothing,Jeans,40.45,3,0,121.35,75.35,46.0,18,3.8,Cash
+ORD10603,2024-10-21,South,Electronics,Smartwatch,246.59,1,0,246.59,172.85,73.74,29,3.4,Wallet
+ORD10219,2024-10-22,East,Beauty,Hair Dryer,124.44,1,0,124.44,81.57,42.87,29,5.0,Credit Card
+ORD10091,2024-10-22,South,Sports,Tennis Racket,295.35,1,5,295.35,214.49,80.86,34,3.7,Credit Card
+ORD10607,2024-10-23,Central,Electronics,Tablet,1087.86,6,0,6527.16,3604.78,2922.38,20,4.7,Cash
+ORD11623,2024-10-23,West,Clothing,T-Shirt,62.96,2,10,125.92,93.84,32.08,18,2.9,Credit Card
+ORD10074,2024-10-23,North,Clothing,Dress,111.81,7,0,782.67,454.5,328.17,29,4.0,Cash
+ORD11958,2024-10-24,Central,Beauty,Hair Dryer,28.6,7,0,200.2,153.7,46.5,23,4.4,UPI
+ORD11155,2024-10-25,North,Clothing,T-Shirt,103.85,1,0,103.85,77.39,26.46,39,4.2,Credit Card
+ORD10799,2024-10-25,North,Clothing,Jeans,46.17,4,0,184.68,117.48,67.2,25,4.7,Cash
+ORD10593,2024-10-25,North,Beauty,Shampoo,11.95,3,10,35.85,27.71,8.14,35,4.4,Credit Card
+ORD10310,2024-10-26,Central,Electronics,Headphones,910.16,1,0,910.16,633.62,276.54,18,3.1,Wallet
+ORD10653,2024-10-26,West,Clothing,Jacket,118.28,1,0,118.28,65.14,53.14,44,3.8,UPI
+ORD11004,2024-10-26,West,Beauty,Shampoo,36.75,7,5,257.25,161.56,95.69,18,3.6,UPI
+ORD10480,2024-10-26,South,Clothing,Dress,59.04,5,0,295.2,184.63,110.57,36,2.7,UPI
+ORD10129,2024-10-27,West,Home & Kitchen,Blender,86.37,7,0,604.59,368.2,236.39,19,4.2,Credit Card
+ORD10460,2024-10-27,West,Electronics,Smartphone,493.75,3,10,1481.25,1172.88,308.37,41,4.1,Debit Card
+ORD11039,2024-10-27,Central,Sports,Tennis Racket,384.27,4,0,1537.08,942.31,594.77,42,4.5,Credit Card
+ORD10882,2024-10-27,Central,Clothing,T-Shirt,110.02,5,0,550.1,417.43,132.67,39,3.8,Credit Card
+ORD11308,2024-10-27,South,Beauty,Perfume,85.91,7,10,601.37,364.35,237.02,34,5.0,Debit Card
+ORD11278,2024-10-28,West,Home & Kitchen,Lamp,79.35,1,20,79.35,49.95,29.4,45,4.6,Credit Card
+ORD11527,2024-10-28,North,Electronics,Laptop,367.16,3,10,1101.48,753.74,347.74,29,5.0,Cash
+ORD10258,2024-10-28,East,Home & Kitchen,Cookware Set,141.19,6,15,847.14,584.71,262.43,34,4.8,UPI
+ORD11613,2024-10-28,South,Sports,Tennis Racket,296.96,3,0,890.88,644.64,246.24,54,4.7,Debit Card
+ORD10183,2024-10-29,West,Electronics,Headphones,1198.12,4,0,4792.48,2994.63,1797.85,62,4.2,Credit Card
+ORD11525,2024-10-29,East,Electronics,Smartwatch,1081.37,5,5,5406.85,3243.09,2163.76,42,4.0,UPI
+ORD11410,2024-10-30,South,Beauty,Skincare Kit,117.02,7,0,819.14,466.73,352.41,27,4.5,Debit Card
+ORD11429,2024-10-30,East,Clothing,Dress,40.81,5,10,204.05,114.29,89.76,44,4.5,Cash
+ORD11407,2024-10-30,North,Sports,Bicycle,284.09,1,10,284.09,206.69,77.4,40,4.7,Wallet
+ORD11783,2024-10-31,West,Electronics,Headphones,963.0,6,10,5778.0,4322.54,1455.46,23,4.7,UPI
+ORD11690,2024-10-31,South,Electronics,Tablet,74.96,2,5,149.92,108.73,41.19,45,4.7,Credit Card
+ORD11722,2024-10-31,North,Clothing,T-Shirt,70.3,6,10,421.8,248.66,173.14,18,4.2,Cash
+ORD10301,2024-10-31,South,Home & Kitchen,Lamp,210.09,2,5,420.18,284.44,135.74,25,4.2,Debit Card
+ORD11685,2024-11-01,East,Electronics,Smartphone,217.08,7,10,2051.41,1588.85,462.56,18,4.2,UPI
+ORD10635,2024-11-01,South,Home & Kitchen,Lamp,44.92,5,15,303.21,191.26,111.95,18,3.4,Credit Card
+ORD10718,2024-11-01,North,Electronics,Laptop,524.42,1,10,707.97,390.33,317.64,24,4.1,Wallet
+ORD10436,2024-11-01,Central,Clothing,Jacket,81.36,1,0,109.84,64.18,45.66,44,4.9,Credit Card
+ORD10482,2024-11-02,West,Electronics,Smartphone,293.47,1,0,396.18,241.23,154.95,28,3.3,Credit Card
+ORD10586,2024-11-03,Central,Sports,Yoga Mat,295.44,5,15,1994.22,1235.18,759.04,54,4.5,UPI
+ORD11100,2024-11-03,North,Sports,Bicycle,267.84,4,0,1446.34,1124.35,321.99,38,4.0,Credit Card
+ORD10747,2024-11-03,South,Clothing,Jeans,91.97,2,0,248.32,187.87,60.45,36,5.0,Debit Card
+ORD10784,2024-11-03,North,Clothing,Jacket,107.65,3,0,435.98,322.7,113.28,40,3.3,Credit Card
+ORD10458,2024-11-03,South,Sports,Dumbbell Set,319.64,6,10,2589.08,1827.38,761.7,39,4.5,Debit Card
+ORD10819,2024-11-04,North,Clothing,Dress,22.49,2,0,60.72,46.99,13.73,26,4.5,Debit Card
+ORD11331,2024-11-04,West,Electronics,Smartphone,237.16,6,5,1921.0,1115.24,805.76,18,4.2,Cash
+ORD11732,2024-11-04,South,Home & Kitchen,Cookware Set,225.23,4,0,1216.24,946.53,269.71,19,4.5,UPI
+ORD11386,2024-11-04,North,Clothing,Sneakers,83.67,4,5,451.82,331.64,120.18,37,4.4,Wallet
+ORD10123,2024-11-04,North,Clothing,Dress,82.46,3,0,333.96,197.18,136.78,49,3.4,Debit Card
+ORD10939,2024-11-05,Central,Beauty,Hair Dryer,20.32,4,0,109.73,87.32,22.41,18,4.0,Credit Card
+ORD11825,2024-11-05,Central,Electronics,Laptop,910.21,1,15,1228.78,823.64,405.14,30,3.3,Credit Card
+ORD10521,2024-11-06,East,Electronics,Tablet,623.14,2,10,1682.48,1207.5,474.98,18,3.9,Cash
+ORD11917,2024-11-06,North,Electronics,Smartphone,520.99,5,0,3516.68,2293.25,1223.43,35,4.2,UPI
+ORD11912,2024-11-06,Central,Clothing,Jacket,73.74,2,0,199.1,148.72,50.38,68,3.7,Credit Card
+ORD11201,2024-11-06,East,Electronics,Smartphone,875.22,4,5,4726.19,3101.96,1624.23,46,4.0,Credit Card
+ORD10800,2024-11-06,West,Electronics,Smartphone,1055.88,1,5,1425.44,1068.2,357.24,29,3.7,UPI
+ORD10502,2024-11-06,North,Sports,Bicycle,33.98,1,0,45.87,29.28,16.59,33,3.0,Credit Card
+ORD11462,2024-11-06,South,Sports,Dumbbell Set,159.82,1,5,215.76,151.05,64.71,40,4.1,Credit Card
+ORD11001,2024-11-07,West,Clothing,Jacket,59.67,3,10,241.66,134.03,107.63,19,4.2,Credit Card
+ORD10878,2024-11-07,North,Home & Kitchen,Lamp,173.74,7,20,1641.84,1057.04,584.8,59,4.8,Credit Card
+ORD10186,2024-11-08,Central,Electronics,Laptop,68.01,1,5,91.81,54.14,37.67,28,4.4,UPI
+ORD11534,2024-11-08,South,Beauty,Makeup Kit,33.41,2,0,90.21,69.61,20.6,53,4.7,Debit Card
+ORD11178,2024-11-08,South,Beauty,Skincare Kit,14.77,5,0,99.7,66.18,33.52,24,4.7,Credit Card
+ORD10538,2024-11-08,West,Beauty,Makeup Kit,38.02,4,10,205.31,134.15,71.16,33,4.1,UPI
+ORD10504,2024-11-09,East,Electronics,Laptop,377.23,2,0,1018.52,774.49,244.03,49,4.1,Credit Card
+ORD10891,2024-11-09,West,Home & Kitchen,Lamp,253.18,1,5,341.79,247.0,94.79,21,3.3,UPI
+ORD11537,2024-11-09,Central,Sports,Running Shoes,303.81,5,10,2050.72,1453.09,597.63,49,4.4,Credit Card
+ORD10295,2024-11-09,South,Clothing,Jeans,113.52,1,15,153.25,96.49,56.76,18,4.4,UPI
+ORD10365,2024-11-09,North,Sports,Dumbbell Set,146.11,7,10,1380.74,765.13,615.61,39,3.5,Credit Card
+ORD10318,2024-11-10,East,Beauty,Makeup Kit,74.64,5,5,503.82,400.68,103.14,45,4.6,Debit Card
+ORD11716,2024-11-10,East,Clothing,Dress,39.72,7,10,375.35,223.65,151.7,42,4.1,Wallet
+ORD10633,2024-11-10,South,Sports,Yoga Mat,84.17,6,0,681.78,383.85,297.93,52,4.1,Credit Card
+ORD10568,2024-11-10,South,Electronics,Laptop,1092.74,2,5,2950.4,1820.05,1130.35,31,3.9,Credit Card
+ORD10601,2024-11-10,North,Beauty,Hair Dryer,142.42,7,10,1345.87,961.61,384.26,35,4.3,UPI
+ORD10763,2024-11-11,South,Beauty,Skincare Kit,27.2,2,0,73.44,46.54,26.9,22,3.3,UPI
+ORD10616,2024-11-11,East,Clothing,Jacket,117.0,2,10,315.9,237.54,78.36,41,5.0,Debit Card
+ORD11279,2024-11-12,West,Beauty,Skincare Kit,86.03,5,0,580.7,414.3,166.4,45,4.9,Credit Card
+ORD11522,2024-11-12,Central,Sports,Dumbbell Set,48.99,6,10,396.82,220.75,176.07,37,4.1,Debit Card
+ORD10439,2024-11-13,Central,Electronics,Smartwatch,325.31,7,0,3074.18,2267.41,806.77,37,3.8,Debit Card
+ORD11239,2024-11-13,West,Clothing,Dress,20.88,3,5,84.56,50.69,33.87,46,4.3,UPI
+ORD10454,2024-11-13,North,Electronics,Smartphone,986.05,4,0,5324.67,4161.31,1163.36,54,4.4,Cash
+ORD11260,2024-11-13,South,Clothing,Sneakers,110.68,4,20,597.67,348.32,249.35,46,4.0,Debit Card
+ORD11593,2024-11-14,South,Clothing,Jacket,103.76,5,5,700.38,424.25,276.13,42,4.3,UPI
+ORD10613,2024-11-14,South,Electronics,Headphones,610.48,3,0,2472.44,1528.16,944.28,33,4.4,Debit Card
+ORD11985,2024-11-15,Central,Home & Kitchen,Lamp,37.29,4,15,201.37,139.27,62.1,25,3.5,UPI
+ORD10396,2024-11-15,South,Clothing,Sneakers,99.51,2,0,268.68,196.84,71.84,29,3.9,Credit Card
+ORD11735,2024-11-16,North,Electronics,Headphones,1024.4,6,10,8297.64,6038.25,2259.39,19,4.0,UPI
+ORD11688,2024-11-16,South,Sports,Running Shoes,182.79,7,0,1727.37,968.16,759.21,26,4.0,Credit Card
+ORD10340,2024-11-16,North,Beauty,Hair Dryer,94.73,2,10,255.77,165.74,90.03,29,4.4,Credit Card
+ORD10239,2024-11-16,East,Electronics,Tablet,685.84,6,5,5555.3,4415.05,1140.25,19,5.0,Credit Card
+ORD10836,2024-11-16,West,Clothing,T-Shirt,53.34,5,5,360.05,236.7,123.35,23,4.9,UPI
+ORD11937,2024-11-17,South,Home & Kitchen,Air Fryer,213.11,2,10,575.4,328.62,246.78,46,3.5,Credit Card
+ORD10898,2024-11-17,West,Beauty,Hair Dryer,23.01,3,0,93.19,72.53,20.66,40,5.0,UPI
+ORD10943,2024-11-17,East,Clothing,Jacket,28.89,2,15,78.0,57.47,20.53,58,3.7,Credit Card
+ORD10281,2024-11-17,Central,Electronics,Tablet,1166.57,5,5,7874.35,6258.06,1616.29,19,4.4,Credit Card
+ORD11091,2024-11-18,Central,Electronics,Laptop,128.32,4,5,692.93,479.76,213.17,25,4.6,Credit Card
+ORD11443,2024-11-18,Central,Beauty,Perfume,16.71,6,0,135.35,92.54,42.81,46,4.6,Debit Card
+ORD11110,2024-11-20,South,Sports,Tennis Racket,320.01,2,15,864.03,627.37,236.66,40,4.1,Credit Card
+ORD10815,2024-11-20,North,Electronics,Smartphone,200.87,7,10,1898.22,1379.95,518.27,27,4.6,Cash
+ORD10864,2024-11-20,South,Sports,Running Shoes,71.22,6,10,576.88,348.96,227.92,43,3.7,Credit Card
+ORD10109,2024-11-21,West,Clothing,Dress,41.17,7,20,389.06,266.63,122.43,18,4.9,Wallet
+ORD10867,2024-11-21,East,Clothing,T-Shirt,98.16,4,0,530.06,304.59,225.47,34,4.9,Debit Card
+ORD10248,2024-11-21,West,Home & Kitchen,Cookware Set,200.55,5,5,1353.71,975.41,378.3,36,3.7,Credit Card
+ORD11371,2024-11-21,South,Clothing,Sneakers,25.49,5,10,172.06,120.86,51.2,30,4.2,Cash
+ORD10388,2024-11-21,South,Clothing,T-Shirt,75.15,3,10,304.36,195.15,109.21,39,3.7,Debit Card
+ORD10608,2024-11-21,East,Clothing,Jacket,98.55,5,5,665.21,421.81,243.4,44,3.5,UPI
+ORD10235,2024-11-22,West,Electronics,Laptop,62.64,3,10,253.69,186.33,67.36,40,3.8,UPI
+ORD10407,2024-11-22,North,Electronics,Tablet,171.73,6,15,1391.01,1051.03,339.98,51,2.6,Credit Card
+ORD11617,2024-11-22,East,Electronics,Smartphone,922.67,3,5,3736.81,2636.77,1100.04,43,3.8,UPI
+ORD11561,2024-11-22,South,Clothing,Jacket,29.66,2,5,80.08,53.94,26.14,18,5.0,Cash
+ORD11692,2024-11-24,Central,Electronics,Smartwatch,490.11,6,10,3969.89,2259.89,1710.0,34,4.3,Debit Card
+ORD11256,2024-11-24,North,Home & Kitchen,Vacuum Cleaner,259.71,5,10,1753.04,1254.11,498.93,29,5.0,Cash
+ORD11590,2024-11-24,Central,Home & Kitchen,Blender,84.77,2,0,228.88,162.01,66.87,24,3.6,UPI
+ORD11961,2024-11-24,Central,Beauty,Shampoo,44.79,3,20,181.4,103.06,78.34,48,4.1,UPI
+ORD10640,2024-11-25,North,Electronics,Smartphone,426.72,3,0,1728.22,1319.69,408.53,49,4.2,UPI
+ORD11089,2024-11-25,East,Home & Kitchen,Vacuum Cleaner,116.76,7,0,1103.38,698.65,404.73,36,3.8,Credit Card
+ORD11625,2024-11-26,West,Electronics,Smartwatch,1155.88,7,0,10923.07,8698.91,2224.16,48,3.8,Debit Card
+ORD10011,2024-11-26,South,Sports,Bicycle,139.87,7,0,1321.77,1023.08,298.69,30,4.0,Debit Card
+ORD10599,2024-11-26,East,Home & Kitchen,Lamp,194.27,1,5,262.26,148.41,113.85,26,3.1,Wallet
+ORD10801,2024-11-26,West,Home & Kitchen,Lamp,168.3,1,5,227.21,145.8,81.41,33,4.2,UPI
+ORD11017,2024-11-26,North,Beauty,Shampoo,69.57,4,15,375.68,225.64,150.04,23,4.2,UPI
+ORD10909,2024-11-27,Central,Sports,Tennis Racket,147.89,4,10,798.61,507.42,291.19,35,4.4,Credit Card
+ORD11160,2024-11-27,South,Electronics,Headphones,750.16,1,0,1012.72,610.71,402.01,45,4.5,Debit Card
+ORD11520,2024-11-27,Central,Electronics,Tablet,647.39,4,5,3495.91,2723.36,772.55,31,3.9,UPI
+ORD11055,2024-11-27,Central,Sports,Dumbbell Set,162.48,4,5,877.39,658.21,219.18,23,4.1,Cash
+ORD10382,2024-11-27,Central,Home & Kitchen,Cookware Set,62.19,6,0,503.74,367.07,136.67,37,5.0,Wallet
+ORD11244,2024-11-28,North,Clothing,Jeans,81.73,6,5,662.01,364.54,297.47,63,4.8,UPI
+ORD10974,2024-11-28,East,Clothing,Jeans,25.93,6,5,210.03,116.58,93.45,43,5.0,Wallet
+ORD10551,2024-11-28,Central,Electronics,Tablet,640.44,5,20,4322.97,2645.97,1677.0,26,5.0,UPI
+ORD10215,2024-11-28,North,Electronics,Headphones,1119.55,5,5,7556.96,4901.78,2655.18,32,4.7,UPI
+ORD10904,2024-11-29,South,Clothing,Dress,56.96,3,5,230.69,178.8,51.89,23,4.1,Credit Card
+ORD11746,2024-11-29,Central,Home & Kitchen,Lamp,42.82,3,10,173.42,104.35,69.07,40,4.5,Debit Card
+ORD11428,2024-11-30,East,Beauty,Skincare Kit,133.97,4,0,723.44,422.56,300.88,48,4.1,Credit Card
+ORD11102,2024-11-30,East,Electronics,Laptop,824.56,7,15,7792.09,4408.44,3383.65,46,3.9,Wallet
+ORD11187,2024-11-30,East,Clothing,Jeans,13.11,7,10,123.89,93.83,30.06,43,4.7,UPI
+ORD11923,2024-12-01,North,Electronics,Smartphone,306.45,1,10,413.71,327.52,86.19,47,4.1,UPI
+ORD10683,2024-12-01,North,Clothing,T-Shirt,69.89,2,10,188.7,107.37,81.33,25,4.5,UPI
+ORD11138,2024-12-01,North,Electronics,Smartwatch,1117.08,4,5,6032.23,4644.67,1387.56,26,4.3,Credit Card
+ORD11248,2024-12-02,South,Clothing,Sneakers,107.11,4,20,578.39,369.38,209.01,41,4.9,UPI
+ORD10869,2024-12-02,West,Home & Kitchen,Vacuum Cleaner,285.31,5,0,1925.84,1408.46,517.38,45,4.4,Debit Card
+ORD11644,2024-12-03,North,Electronics,Smartwatch,287.12,3,20,1162.84,769.83,393.01,22,4.2,Debit Card
+ORD11904,2024-12-03,South,Beauty,Perfume,59.05,5,10,398.59,309.25,89.34,45,5.0,Credit Card
+ORD11044,2024-12-03,North,Beauty,Shampoo,101.88,5,0,687.69,521.76,165.93,33,4.6,Credit Card
+ORD11147,2024-12-03,Central,Electronics,Smartphone,164.21,1,0,221.68,140.91,80.77,18,4.2,UPI
+ORD10689,2024-12-03,East,Home & Kitchen,Vacuum Cleaner,261.91,3,0,1060.74,631.62,429.12,42,3.7,UPI
+ORD11951,2024-12-04,North,Beauty,Makeup Kit,106.28,4,10,573.91,455.16,118.75,32,3.6,UPI
+ORD11084,2024-12-04,South,Electronics,Headphones,721.68,7,10,6819.88,5372.61,1447.27,33,3.8,Credit Card
+ORD11979,2024-12-04,North,Electronics,Headphones,871.36,5,10,5881.68,4133.08,1748.6,43,4.6,Debit Card
+ORD10706,2024-12-04,Central,Sports,Running Shoes,327.02,3,10,1324.43,805.03,519.4,28,3.7,UPI
+ORD10913,2024-12-05,North,Electronics,Smartphone,649.84,2,5,1754.57,981.73,772.84,39,4.6,Wallet
+ORD11589,2024-12-05,Central,Beauty,Skincare Kit,118.81,1,5,160.39,88.91,71.48,41,4.1,Credit Card
+ORD10609,2024-12-05,East,Sports,Yoga Mat,128.42,3,10,520.1,385.0,135.1,33,3.9,UPI
+ORD11151,2024-12-06,West,Sports,Tennis Racket,233.66,1,0,315.44,232.71,82.73,56,4.3,Wallet
+ORD10762,2024-12-06,West,Beauty,Perfume,16.01,7,0,151.29,83.47,67.82,29,3.7,Credit Card
+ORD10187,2024-12-07,North,Beauty,Makeup Kit,45.16,3,10,182.9,113.2,69.7,37,4.2,Debit Card
+ORD11538,2024-12-07,East,Beauty,Skincare Kit,68.23,2,5,184.22,136.26,47.96,61,4.3,Wallet
+ORD11205,2024-12-07,South,Sports,Bicycle,156.18,5,0,1054.22,594.74,459.48,23,3.6,UPI
+ORD10995,2024-12-07,North,Home & Kitchen,Blender,278.9,6,0,2259.09,1461.47,797.62,45,3.9,Wallet
+ORD10825,2024-12-07,North,Beauty,Shampoo,78.52,1,5,106.0,76.58,29.42,30,4.0,Credit Card
+ORD11507,2024-12-08,North,Clothing,Sneakers,24.42,4,20,131.87,89.17,42.7,53,4.7,Debit Card
+ORD11687,2024-12-08,West,Beauty,Shampoo,59.89,4,0,323.41,219.7,103.71,40,4.9,Debit Card
+ORD10605,2024-12-09,West,Electronics,Headphones,952.45,4,0,5143.23,2867.94,2275.29,46,4.4,UPI
+ORD11448,2024-12-09,West,Beauty,Hair Dryer,89.73,3,10,363.41,259.85,103.56,29,3.4,Debit Card
+ORD10638,2024-12-10,North,Home & Kitchen,Cookware Set,288.17,2,0,778.06,473.43,304.63,48,3.6,Credit Card
+ORD10135,2024-12-10,North,Home & Kitchen,Blender,213.07,1,15,287.64,201.39,86.25,46,4.5,Debit Card
+ORD11281,2024-12-10,North,Electronics,Tablet,961.28,6,5,7786.37,5958.27,1828.1,18,4.6,Cash
+ORD10016,2024-12-11,North,Home & Kitchen,Vacuum Cleaner,163.39,3,0,661.73,421.63,240.1,42,4.1,Debit Card
+ORD11203,2024-12-11,West,Beauty,Skincare Kit,78.97,4,5,426.44,274.61,151.83,39,4.3,UPI
+ORD11868,2024-12-11,West,Sports,Tennis Racket,78.62,4,5,424.55,316.96,107.59,58,4.2,Credit Card
+ORD11199,2024-12-11,South,Electronics,Smartphone,1160.69,3,5,4700.79,3096.66,1604.13,58,4.5,Credit Card
+ORD10520,2024-12-11,South,Beauty,Shampoo,109.58,4,0,591.73,333.9,257.83,38,3.8,Credit Card
+ORD11403,2024-12-12,North,Clothing,Dress,43.38,5,0,292.82,210.06,82.76,34,3.8,Credit Card
+ORD11866,2024-12-12,West,Electronics,Smartwatch,545.01,4,15,2943.05,2102.08,840.97,42,3.8,UPI
+ORD11740,2024-12-13,East,Sports,Yoga Mat,285.25,2,10,770.18,488.29,281.89,31,4.5,Credit Card
+ORD10508,2024-12-13,South,Beauty,Shampoo,106.46,2,0,287.44,190.01,97.43,38,4.4,Wallet
+ORD11453,2024-12-13,East,Clothing,Dress,64.82,5,5,437.54,287.5,150.04,34,4.0,Debit Card
+ORD11932,2024-12-13,South,Sports,Yoga Mat,150.56,2,0,406.51,300.01,106.5,48,4.5,Credit Card
+ORD10263,2024-12-14,South,Electronics,Tablet,608.21,5,15,4105.42,2258.44,1846.98,42,4.2,Debit Card
+ORD10761,2024-12-14,North,Beauty,Hair Dryer,35.66,4,0,192.56,137.24,55.32,20,4.6,Wallet
+ORD11698,2024-12-14,South,Beauty,Skincare Kit,58.89,7,15,556.51,414.2,142.31,43,4.5,Credit Card
+ORD11436,2024-12-14,South,Clothing,T-Shirt,114.43,4,5,617.92,395.3,222.62,35,3.4,Debit Card
+ORD10971,2024-12-15,East,Electronics,Headphones,294.01,6,0,2381.48,1810.19,571.29,37,4.0,Credit Card
+ORD10552,2024-12-16,West,Electronics,Headphones,327.13,3,0,1324.88,849.95,474.93,47,3.6,Credit Card
+ORD10315,2024-12-16,East,Beauty,Shampoo,13.73,5,20,92.68,58.34,34.34,34,4.1,Credit Card
+ORD11715,2024-12-16,North,Home & Kitchen,Air Fryer,274.65,5,0,1853.89,1193.03,660.86,45,4.7,Credit Card
+ORD10659,2024-12-16,East,Beauty,Makeup Kit,58.65,7,10,554.24,349.19,205.05,45,3.4,Wallet
+ORD11586,2024-12-17,North,Home & Kitchen,Air Fryer,141.71,5,15,956.54,638.35,318.19,37,4.0,Credit Card
+ORD11609,2024-12-17,Central,Home & Kitchen,Lamp,248.28,6,5,2011.07,1484.77,526.3,35,3.8,Credit Card
+ORD10655,2024-12-17,West,Beauty,Perfume,10.89,1,5,14.7,8.58,6.12,45,3.9,Debit Card
+ORD10541,2024-12-17,West,Electronics,Smartwatch,626.29,6,0,5072.95,3402.85,1670.1,35,4.3,Debit Card
+ORD10149,2024-12-18,North,Electronics,Smartwatch,739.16,1,0,997.87,629.5,368.37,32,3.8,Debit Card
+ORD11530,2024-12-19,Central,Sports,Running Shoes,262.8,2,10,709.56,433.86,275.7,24,4.5,Credit Card
+ORD11378,2024-12-19,Central,Home & Kitchen,Lamp,165.35,7,5,1562.56,964.44,598.12,57,4.3,Wallet
+ORD11713,2024-12-19,West,Electronics,Smartwatch,70.9,6,0,574.29,409.77,164.52,45,5.0,Credit Card
+ORD11449,2024-12-19,East,Electronics,Smartwatch,512.08,1,5,691.31,382.42,308.89,27,4.1,Credit Card
+ORD10227,2024-12-19,South,Electronics,Headphones,355.64,3,5,1440.34,855.98,584.36,43,3.5,Cash
+ORD11773,2024-12-20,South,Electronics,Laptop,475.15,2,0,1282.9,924.51,358.39,45,4.2,Debit Card
+ORD11982,2024-12-20,East,Beauty,Hair Dryer,108.31,2,0,292.44,177.81,114.63,49,3.8,Credit Card
+ORD10246,2024-12-20,Central,Electronics,Smartwatch,581.78,2,10,1570.81,1113.09,457.72,19,4.3,Debit Card
+ORD10624,2024-12-21,East,Sports,Bicycle,102.52,5,0,692.01,397.65,294.36,41,4.7,Cash
+ORD10073,2024-12-21,East,Home & Kitchen,Air Fryer,277.25,5,10,1871.44,1460.89,410.55,21,4.4,UPI
+ORD10316,2024-12-21,West,Clothing,Jeans,14.28,7,0,134.95,91.48,43.47,42,4.1,Debit Card
+ORD11897,2024-12-21,Central,Sports,Dumbbell Set,53.55,2,0,144.58,102.03,42.55,44,4.3,Wallet
+ORD10401,2024-12-22,South,Clothing,Dress,11.15,2,10,30.11,20.18,9.93,45,3.8,Credit Card
+ORD11954,2024-12-22,North,Sports,Bicycle,42.12,3,0,170.59,134.22,36.37,55,3.5,Cash
+ORD11526,2024-12-22,South,Sports,Running Shoes,265.42,7,10,2508.22,1762.86,745.36,20,5.0,Credit Card
+ORD10032,2024-12-22,East,Clothing,T-Shirt,53.84,2,15,145.37,114.45,30.92,44,4.2,Debit Card
+ORD11483,2024-12-22,West,Electronics,Tablet,935.77,1,0,1263.29,848.79,414.5,39,4.6,Credit Card
+ORD11926,2024-12-23,Central,Clothing,T-Shirt,118.57,4,0,640.28,462.96,177.32,20,4.8,Wallet
+ORD11876,2024-12-23,Central,Electronics,Laptop,1138.14,3,0,4609.47,3276.8,1332.67,49,5.0,Debit Card
+ORD10846,2024-12-23,North,Home & Kitchen,Blender,151.56,2,5,409.21,301.56,107.65,51,4.7,Cash
+ORD10099,2024-12-24,North,Beauty,Skincare Kit,82.2,1,0,110.97,67.66,43.31,23,3.4,Credit Card
+ORD10637,2024-12-24,North,Clothing,Sneakers,109.93,5,0,742.03,519.87,222.16,35,5.0,Wallet
+ORD11602,2024-12-24,North,Sports,Tennis Racket,380.57,7,0,3596.39,2450.53,1145.86,51,5.0,UPI
+ORD10170,2024-12-25,Central,Electronics,Smartwatch,772.12,2,0,2084.72,1494.41,590.31,24,3.7,Credit Card
+ORD11612,2024-12-25,South,Sports,Yoga Mat,150.63,2,0,406.7,243.04,163.66,43,3.6,Credit Card
+ORD11660,2024-12-25,South,Beauty,Skincare Kit,113.55,4,5,613.17,338.77,274.4,30,3.3,Credit Card
+ORD10078,2024-12-25,East,Electronics,Smartwatch,632.5,1,0,853.88,535.8,318.08,31,5.0,Credit Card
+ORD11123,2024-12-25,West,Clothing,Sneakers,12.64,6,5,102.38,71.18,31.2,30,4.1,UPI
+ORD11188,2024-12-25,North,Home & Kitchen,Lamp,121.74,4,5,657.4,463.56,193.84,42,5.0,Debit Card
+ORD10935,2024-12-26,North,Home & Kitchen,Cookware Set,98.14,4,10,529.96,378.11,151.85,50,3.4,Cash
+ORD10043,2024-12-26,West,Electronics,Smartwatch,908.4,3,20,3679.02,2560.02,1119.0,24,3.3,Cash
+ORD11413,2024-12-26,North,Electronics,Headphones,966.94,5,5,6526.85,3879.81,2647.04,30,4.6,Credit Card
+ORD11111,2024-12-26,South,Electronics,Smartwatch,440.85,5,0,2975.74,1880.16,1095.58,24,4.5,Credit Card
+ORD10478,2024-12-27,South,Home & Kitchen,Lamp,153.37,7,10,1449.35,1072.66,376.69,28,3.7,UPI
+ORD11669,2024-12-27,Central,Electronics,Smartphone,493.96,2,10,1333.69,776.84,556.85,48,4.6,Debit Card
+ORD11229,2024-12-28,East,Home & Kitchen,Vacuum Cleaner,61.52,5,0,415.26,237.27,177.99,47,4.4,Credit Card
+ORD10299,2024-12-28,East,Clothing,Sneakers,71.26,7,15,673.41,497.29,176.12,55,3.7,UPI
+ORD11070,2024-12-28,South,Electronics,Tablet,429.25,7,5,4056.41,2576.75,1479.66,23,3.9,Credit Card
+ORD11851,2024-12-28,South,Home & Kitchen,Blender,272.39,3,0,1103.18,649.52,453.66,38,3.8,Credit Card
+ORD11675,2024-12-28,North,Beauty,Makeup Kit,50.06,3,5,202.74,112.44,90.3,52,4.7,UPI
+ORD10221,2024-12-29,East,Clothing,Jeans,97.82,3,5,396.17,262.47,133.7,37,4.0,Cash
+ORD10466,2024-12-29,Central,Sports,Dumbbell Set,50.7,2,10,136.89,77.1,59.79,26,4.0,Debit Card
+ORD10732,2024-12-29,South,Home & Kitchen,Blender,74.24,2,0,200.45,159.58,40.87,40,5.0,UPI
+ORD11474,2024-12-29,South,Clothing,Jeans,74.69,1,0,100.83,69.67,31.16,45,4.0,Credit Card
+ORD10125,2024-12-29,East,Sports,Bicycle,310.57,4,15,1677.08,939.21,737.87,59,3.3,UPI
+ORD11671,2024-12-30,Central,Clothing,Jeans,68.46,2,5,184.84,131.71,53.13,49,3.6,Wallet
+ORD10232,2024-12-30,East,Beauty,Skincare Kit,75.66,7,15,714.99,412.78,302.21,32,4.9,Cash
+ORD11607,2024-12-30,North,Clothing,Jacket,88.65,1,0,119.68,77.18,42.5,29,5.0,Credit Card
+ORD10663,2024-12-30,Central,Beauty,Skincare Kit,96.93,7,10,915.99,672.39,243.6,60,4.0,Debit Card
+ORD11861,2024-12-31,North,Clothing,Dress,58.77,6,10,476.04,380.5,95.54,41,3.9,Credit Card
+ORD10339,2025-01-01,Central,Electronics,Smartphone,243.17,3,0,729.51,538.69,190.82,18,3.9,UPI
+ORD11301,2025-01-01,North,Sports,Running Shoes,142.89,3,0,428.67,317.42,111.25,32,3.7,Cash
+ORD11672,2025-01-01,Central,Electronics,Headphones,70.37,4,5,281.48,158.31,123.17,34,3.7,Credit Card
+ORD10131,2025-01-01,East,Sports,Bicycle,349.28,4,0,1397.12,956.99,440.13,42,3.5,Credit Card
+ORD10512,2025-01-03,North,Clothing,Sneakers,101.78,5,0,508.9,377.19,131.71,44,3.8,Cash
+ORD11980,2025-01-03,South,Beauty,Perfume,31.51,1,10,31.51,18.82,12.69,20,3.7,Debit Card
+ORD10858,2025-01-03,East,Clothing,Sneakers,18.37,2,15,36.74,26.64,10.1,27,3.4,Debit Card
+ORD10411,2025-01-04,West,Home & Kitchen,Cookware Set,112.96,4,0,451.84,256.73,195.11,27,4.9,Wallet
+ORD10998,2025-01-04,West,Home & Kitchen,Vacuum Cleaner,233.38,2,0,466.76,285.02,181.74,42,4.3,Debit Card
+ORD11611,2025-01-05,East,Home & Kitchen,Blender,215.58,5,0,1077.9,696.63,381.27,36,4.0,Debit Card
+ORD10089,2025-01-05,North,Sports,Running Shoes,109.46,5,5,547.3,415.55,131.75,40,4.3,UPI
+ORD11727,2025-01-05,West,Beauty,Shampoo,24.59,5,10,122.95,83.19,39.76,47,3.9,Debit Card
+ORD11024,2025-01-05,East,Sports,Bicycle,283.98,3,5,851.94,658.28,193.66,44,4.3,Debit Card
+ORD11261,2025-01-05,East,Electronics,Laptop,1073.63,6,10,6441.78,4970.84,1470.94,43,4.0,Credit Card
+ORD10924,2025-01-06,Central,Clothing,Jeans,28.54,4,0,114.16,73.35,40.81,28,4.4,Debit Card
+ORD10046,2025-01-07,North,Electronics,Smartwatch,376.21,4,0,1504.84,1071.01,433.83,24,3.7,Debit Card
+ORD11822,2025-01-07,West,Electronics,Laptop,161.16,6,0,966.96,656.4,310.56,41,4.6,Wallet
+ORD10976,2025-01-08,Central,Electronics,Headphones,117.02,3,10,351.06,277.21,73.85,45,3.7,Debit Card
+ORD11489,2025-01-08,East,Electronics,Headphones,803.88,3,15,2411.64,1479.22,932.42,32,3.3,Cash
+ORD11712,2025-01-09,South,Home & Kitchen,Lamp,225.02,2,5,450.04,351.2,98.84,37,3.9,Credit Card
+ORD10021,2025-01-09,South,Home & Kitchen,Vacuum Cleaner,90.13,6,0,540.78,428.98,111.8,44,4.4,UPI
+ORD10321,2025-01-09,West,Electronics,Smartwatch,255.43,7,10,1788.01,1358.06,429.95,41,4.2,Debit Card
+ORD10345,2025-01-09,South,Electronics,Smartwatch,1163.61,1,0,1163.61,905.65,257.96,43,4.4,Credit Card
+ORD11415,2025-01-09,East,Electronics,Tablet,272.99,7,5,1910.93,1489.27,421.66,23,4.1,Debit Card
+ORD10206,2025-01-09,South,Beauty,Perfume,83.64,3,0,250.92,192.75,58.17,57,4.4,Credit Card
+ORD11438,2025-01-09,West,Clothing,T-Shirt,97.0,5,5,485.0,360.85,124.15,25,4.2,Credit Card
+ORD11190,2025-01-10,Central,Electronics,Laptop,835.27,7,0,5846.89,4133.46,1713.43,32,4.2,UPI
+ORD10837,2025-01-10,West,Clothing,Jacket,80.12,3,0,240.36,168.97,71.39,41,4.7,UPI
+ORD10277,2025-01-10,South,Home & Kitchen,Air Fryer,248.6,1,0,248.6,186.24,62.36,58,4.9,Cash
+ORD11651,2025-01-10,South,Clothing,Dress,59.63,4,5,238.52,179.03,59.49,46,4.6,Credit Card
+ORD10907,2025-01-12,South,Home & Kitchen,Lamp,114.31,1,0,114.31,79.31,35.0,31,3.2,Cash
+ORD11072,2025-01-12,West,Home & Kitchen,Cookware Set,114.27,3,5,342.81,260.39,82.42,23,4.0,Cash
+ORD11798,2025-01-12,South,Sports,Tennis Racket,236.88,1,0,236.88,165.85,71.03,18,4.9,Wallet
+ORD10492,2025-01-12,West,Home & Kitchen,Lamp,90.24,7,15,631.68,487.57,144.11,18,4.9,Wallet
+ORD10116,2025-01-12,North,Home & Kitchen,Air Fryer,192.66,6,0,1155.96,769.32,386.64,53,5.0,Credit Card
+ORD11720,2025-01-12,Central,Clothing,Jacket,92.45,3,10,277.35,154.46,122.89,30,3.8,Credit Card
+ORD11416,2025-01-13,Central,Home & Kitchen,Lamp,275.38,7,0,1927.66,1135.32,792.34,44,3.8,UPI
+ORD11892,2025-01-13,South,Sports,Bicycle,62.13,1,0,62.13,38.69,23.44,33,4.8,UPI
+ORD10947,2025-01-13,South,Sports,Running Shoes,27.96,1,0,27.96,18.3,9.66,33,2.3,Debit Card
+ORD10861,2025-01-14,North,Electronics,Headphones,204.19,4,10,816.76,517.57,299.19,47,4.8,Debit Card
+ORD10658,2025-01-14,East,Clothing,Dress,13.62,5,5,68.1,48.59,19.51,31,3.9,Credit Card
+ORD10486,2025-01-14,East,Beauty,Hair Dryer,59.08,1,15,59.08,44.28,14.8,18,3.3,Debit Card
+ORD10222,2025-01-14,East,Electronics,Headphones,844.78,7,0,5913.46,4008.85,1904.61,36,4.0,UPI
+ORD11003,2025-01-14,West,Beauty,Perfume,97.57,1,15,97.57,56.53,41.04,34,5.0,Credit Card
+ORD10162,2025-01-14,North,Beauty,Perfume,51.49,4,10,205.96,147.04,58.92,43,4.7,Debit Card
+ORD10194,2025-01-15,Central,Electronics,Smartwatch,574.41,2,5,1148.82,847.46,301.36,36,3.7,Credit Card
+ORD11762,2025-01-16,West,Electronics,Smartwatch,630.62,2,0,1261.24,839.36,421.88,66,3.9,Debit Card
+ORD10214,2025-01-16,South,Electronics,Laptop,376.72,5,10,1883.6,1169.98,713.62,36,4.8,Debit Card
+ORD11965,2025-01-17,South,Clothing,Jacket,52.57,7,5,367.99,203.66,164.33,46,5.0,Credit Card
+ORD10317,2025-01-17,Central,Clothing,Sneakers,90.63,2,0,181.26,131.75,49.51,18,4.5,Wallet
+ORD11334,2025-01-17,West,Electronics,Tablet,334.18,7,10,2339.26,1760.0,579.26,34,3.9,Debit Card
+ORD10682,2025-01-17,West,Beauty,Makeup Kit,68.33,3,5,204.99,126.47,78.52,31,5.0,Wallet
+ORD11775,2025-01-19,North,Beauty,Makeup Kit,13.22,3,0,39.66,30.71,8.95,23,3.5,Credit Card
+ORD11837,2025-01-19,South,Home & Kitchen,Vacuum Cleaner,219.14,7,0,1533.98,906.25,627.73,24,4.2,Cash
+ORD11874,2025-01-19,West,Beauty,Shampoo,77.99,4,0,311.96,237.49,74.47,42,3.5,Credit Card
+ORD11365,2025-01-19,West,Electronics,Laptop,1054.67,2,10,2109.34,1182.26,927.08,18,4.5,Wallet
+ORD10840,2025-01-19,North,Clothing,T-Shirt,37.88,3,5,113.64,84.39,29.25,44,3.2,UPI
+ORD10656,2025-01-20,Central,Electronics,Laptop,341.54,1,5,341.54,222.34,119.2,23,5.0,Debit Card
+ORD11313,2025-01-21,South,Clothing,Sneakers,80.56,3,10,241.68,139.6,102.08,39,3.5,Debit Card
+ORD10692,2025-01-21,South,Sports,Yoga Mat,339.31,1,10,339.31,208.34,130.97,22,4.3,Debit Card
+ORD10465,2025-01-21,North,Sports,Tennis Racket,90.65,1,10,90.65,61.6,29.05,45,4.5,Wallet
+ORD10559,2025-01-21,North,Home & Kitchen,Lamp,194.24,4,5,776.96,524.81,252.15,39,3.9,Debit Card
+ORD11605,2025-01-21,West,Clothing,Jeans,33.99,2,10,67.98,51.15,16.83,51,3.8,UPI
+ORD10786,2025-01-21,South,Beauty,Makeup Kit,55.4,7,5,387.8,275.41,112.39,26,3.7,UPI
+ORD10622,2025-01-21,South,Electronics,Laptop,142.92,3,5,428.76,321.9,106.86,23,3.6,Debit Card
+ORD11654,2025-01-22,East,Electronics,Headphones,935.83,7,0,6550.81,5102.45,1448.36,23,4.1,UPI
+ORD10312,2025-01-22,West,Electronics,Tablet,586.14,7,0,4102.98,2449.19,1653.79,52,3.6,Debit Card
+ORD11577,2025-01-22,East,Electronics,Headphones,933.44,7,0,6534.08,4326.47,2207.61,22,4.9,Credit Card
+ORD10557,2025-01-23,West,Electronics,Tablet,1146.78,5,5,5733.9,3812.42,1921.48,29,4.3,Debit Card
+ORD11202,2025-01-23,West,Clothing,Jeans,108.94,2,10,217.88,164.12,53.76,46,4.3,Wallet
+ORD11011,2025-01-23,South,Sports,Tennis Racket,55.22,5,5,276.1,171.22,104.88,39,3.8,Cash
+ORD11080,2025-01-24,North,Electronics,Headphones,1035.28,2,20,2070.56,1245.71,824.85,34,4.1,Wallet
+ORD10615,2025-01-24,North,Home & Kitchen,Lamp,168.52,1,0,168.52,101.1,67.42,35,5.0,Credit Card
+ORD11316,2025-01-24,Central,Electronics,Smartwatch,672.59,3,5,2017.77,1367.15,650.62,36,3.8,Wallet
+ORD10665,2025-01-24,East,Sports,Running Shoes,136.06,5,0,680.3,499.52,180.78,48,4.2,Debit Card
+ORD10280,2025-01-25,West,Beauty,Shampoo,97.78,6,10,586.68,437.22,149.46,32,4.5,Wallet
+ORD10535,2025-01-25,West,Sports,Bicycle,98.83,4,10,395.32,248.1,147.22,33,4.3,UPI
+ORD11302,2025-01-25,West,Home & Kitchen,Blender,99.48,6,5,596.88,426.73,170.15,33,4.0,Debit Card
+ORD11857,2025-01-25,East,Electronics,Tablet,1146.2,1,5,1146.2,669.18,477.02,50,4.4,Debit Card
+ORD11875,2025-01-26,North,Beauty,Shampoo,62.92,3,0,188.76,133.69,55.07,18,4.1,UPI
+ORD11349,2025-01-27,North,Clothing,Jeans,45.06,1,5,45.06,33.41,11.65,18,3.8,UPI
+ORD11791,2025-01-27,North,Beauty,Shampoo,100.28,1,20,100.28,65.26,35.02,31,4.0,Wallet
+ORD11719,2025-01-27,South,Clothing,Jeans,57.67,2,20,115.34,67.85,47.49,18,5.0,Debit Card
+ORD11818,2025-01-28,South,Sports,Running Shoes,371.56,6,0,2229.36,1284.5,944.86,57,3.4,Cash
+ORD10549,2025-01-28,East,Electronics,Tablet,946.9,3,5,2840.7,1598.46,1242.24,34,4.0,Cash
+ORD10036,2025-01-28,Central,Sports,Tennis Racket,178.04,3,5,534.12,426.03,108.09,27,5.0,Credit Card
+ORD11535,2025-01-29,East,Electronics,Smartwatch,459.86,4,5,1839.44,1043.71,795.73,39,3.4,Debit Card
+ORD10934,2025-01-29,North,Beauty,Hair Dryer,67.19,6,20,403.14,265.0,138.14,42,5.0,Wallet
+ORD10905,2025-01-29,West,Electronics,Smartwatch,1099.24,6,0,6595.44,3912.1,2683.34,26,3.0,Debit Card
+ORD11846,2025-01-29,West,Beauty,Makeup Kit,53.26,3,0,159.78,89.83,69.95,18,5.0,UPI
+ORD11749,2025-01-29,East,Clothing,Jeans,38.2,6,0,229.2,138.28,90.92,29,5.0,Cash
+ORD11540,2025-01-29,East,Home & Kitchen,Air Fryer,49.21,2,15,98.42,66.67,31.75,45,4.2,UPI
+ORD10230,2025-01-29,North,Clothing,Sneakers,70.43,5,0,352.15,263.6,88.55,20,4.1,Wallet
+ORD11793,2025-01-29,South,Home & Kitchen,Cookware Set,266.95,3,5,800.85,560.43,240.42,44,4.8,UPI
+ORD11631,2025-01-29,North,Electronics,Laptop,1090.53,5,10,5452.65,4235.09,1217.56,44,3.6,UPI
+ORD11384,2025-01-30,North,Sports,Running Shoes,221.89,2,15,443.78,309.12,134.66,33,3.8,Credit Card
+ORD11936,2025-01-31,West,Beauty,Hair Dryer,25.87,1,5,25.87,20.1,5.77,33,5.0,Debit Card
+ORD10166,2025-01-31,West,Clothing,Jeans,24.65,1,15,24.65,17.62,7.03,32,4.4,Credit Card
+ORD11312,2025-01-31,East,Electronics,Headphones,1171.05,1,5,1171.05,771.41,399.64,29,4.9,Credit Card
+ORD10530,2025-01-31,Central,Clothing,Jacket,118.25,2,15,236.5,188.25,48.25,31,3.2,Cash
+ORD11163,2025-02-01,East,Beauty,Makeup Kit,116.7,4,0,466.8,340.53,126.27,20,4.8,UPI
+ORD11616,2025-02-01,North,Clothing,Jeans,39.55,2,0,79.1,50.27,28.83,27,4.0,Credit Card
+ORD11273,2025-02-01,Central,Electronics,Tablet,1197.53,1,0,1197.53,685.58,511.95,40,4.2,Debit Card
+ORD10169,2025-02-02,South,Clothing,Sneakers,113.65,3,0,340.95,203.31,137.64,26,4.4,UPI
+ORD11152,2025-02-02,North,Clothing,Jeans,63.85,1,10,63.85,35.37,28.48,44,4.4,Debit Card
+ORD11116,2025-02-02,North,Clothing,Sneakers,19.35,1,15,19.35,11.26,8.09,36,5.0,Credit Card
+ORD11557,2025-02-02,East,Electronics,Tablet,964.38,2,15,1928.76,1310.04,618.72,18,4.3,Cash
+ORD11300,2025-02-02,North,Sports,Yoga Mat,373.32,3,0,1119.96,807.82,312.14,43,4.0,UPI
+ORD11598,2025-02-02,North,Electronics,Smartwatch,313.44,3,0,940.32,589.11,351.21,20,3.7,Debit Card
+ORD10802,2025-02-02,East,Sports,Bicycle,45.62,1,0,45.62,26.86,18.76,18,3.7,Debit Card
+ORD11422,2025-02-03,Central,Clothing,Jacket,79.6,1,10,79.6,51.38,28.22,26,4.3,Wallet
+ORD10809,2025-02-04,Central,Sports,Running Shoes,144.71,4,5,578.84,378.65,200.19,18,4.7,Debit Card
+ORD11247,2025-02-04,East,Electronics,Headphones,608.42,7,5,4258.94,3120.17,1138.77,18,4.7,UPI
+ORD11765,2025-02-05,South,Beauty,Makeup Kit,47.89,3,0,143.67,108.56,35.11,21,5.0,UPI
+ORD11101,2025-02-05,West,Electronics,Laptop,1108.26,7,15,7757.82,5701.42,2056.4,39,4.8,Credit Card
+ORD10654,2025-02-05,West,Clothing,Jacket,119.65,5,0,598.25,458.1,140.15,66,4.3,Credit Card
+ORD11409,2025-02-06,South,Clothing,Dress,15.21,4,0,60.84,46.68,14.16,34,5.0,Cash
+ORD11691,2025-02-07,South,Home & Kitchen,Air Fryer,290.65,5,0,1453.25,872.96,580.29,37,4.5,Credit Card
+ORD10265,2025-02-07,North,Sports,Yoga Mat,54.19,2,10,108.38,82.36,26.02,24,4.5,Credit Card
+ORD11500,2025-02-08,South,Electronics,Tablet,1079.28,2,0,2158.56,1193.75,964.81,20,4.3,Wallet
+ORD11146,2025-02-08,South,Electronics,Laptop,219.97,7,10,1539.79,924.25,615.54,37,4.0,Wallet
+ORD10554,2025-02-08,West,Home & Kitchen,Lamp,256.37,3,10,769.11,501.16,267.95,34,4.8,Wallet
+ORD10353,2025-02-08,South,Electronics,Laptop,909.5,6,0,5457.0,3652.58,1804.42,28,4.9,Credit Card
+ORD11006,2025-02-09,West,Clothing,Sneakers,48.63,6,15,291.78,198.83,92.95,47,5.0,Credit Card
+ORD11528,2025-02-09,South,Clothing,Dress,87.45,6,0,524.7,317.44,207.26,25,4.2,Cash
+ORD11653,2025-02-09,South,Electronics,Smartphone,774.75,3,5,2324.25,1373.24,951.01,48,3.9,Debit Card
+ORD10844,2025-02-10,South,Beauty,Perfume,39.26,7,15,274.82,191.07,83.75,44,4.6,UPI
+ORD11000,2025-02-10,North,Home & Kitchen,Blender,190.94,1,5,190.94,145.91,45.03,39,3.9,Debit Card
+ORD11800,2025-02-10,Central,Sports,Yoga Mat,39.71,7,15,277.97,193.31,84.66,23,4.1,Credit Card
+ORD10175,2025-02-10,North,Electronics,Laptop,1018.4,5,10,5092.0,3326.88,1765.12,52,4.6,Credit Card
+ORD11499,2025-02-11,West,Clothing,Jeans,117.13,2,5,234.26,140.89,93.37,23,5.0,Wallet
+ORD10816,2025-02-12,North,Clothing,Jacket,55.94,7,10,391.58,217.29,174.29,35,4.8,Credit Card
+ORD11967,2025-02-12,East,Sports,Running Shoes,285.67,5,0,1428.35,801.2,627.15,31,5.0,UPI
+ORD10644,2025-02-13,South,Clothing,Sneakers,45.26,5,0,226.3,153.41,72.89,27,4.2,Credit Card
+ORD11970,2025-02-13,West,Clothing,T-Shirt,17.02,3,15,51.06,31.33,19.73,59,3.7,Wallet
+ORD10377,2025-02-13,North,Electronics,Smartwatch,388.13,2,10,776.26,557.71,218.55,20,4.9,Debit Card
+ORD11518,2025-02-13,Central,Beauty,Shampoo,114.0,4,5,456.0,262.43,193.57,31,4.6,UPI
+ORD11517,2025-02-13,Central,Clothing,Jacket,110.17,4,20,440.68,274.06,166.62,28,5.0,Debit Card
+ORD10070,2025-02-14,South,Sports,Yoga Mat,301.42,6,10,1808.52,1087.17,721.35,34,5.0,Credit Card
+ORD11856,2025-02-14,East,Sports,Dumbbell Set,236.52,3,0,709.56,449.8,259.76,24,4.0,UPI
+ORD11941,2025-02-15,South,Clothing,T-Shirt,85.75,2,20,171.5,126.93,44.57,48,5.0,Credit Card
+ORD10524,2025-02-15,North,Home & Kitchen,Lamp,50.66,7,0,354.62,267.69,86.93,18,4.9,Credit Card
+ORD10404,2025-02-15,Central,Electronics,Headphones,533.24,3,5,1599.72,1130.06,469.66,41,5.0,Debit Card
+ORD11829,2025-02-16,Central,Clothing,Jacket,68.84,6,0,413.04,253.79,159.25,52,3.7,Cash
+ORD10303,2025-02-16,East,Clothing,T-Shirt,30.18,2,5,60.36,39.3,21.06,32,4.2,UPI
+ORD10545,2025-02-16,East,Clothing,Jacket,56.5,1,15,56.5,33.13,23.37,29,3.5,Debit Card
+ORD11356,2025-02-16,Central,Electronics,Smartwatch,1031.69,4,0,4126.76,2716.62,1410.14,30,4.0,Credit Card
+ORD10737,2025-02-16,East,Clothing,T-Shirt,59.14,5,5,295.7,171.04,124.66,46,5.0,Credit Card
+ORD10757,2025-02-17,South,Home & Kitchen,Blender,55.54,2,0,111.08,84.39,26.69,44,5.0,Debit Card
+ORD11144,2025-02-17,Central,Beauty,Shampoo,56.92,3,20,170.76,113.92,56.84,43,4.0,Debit Card
+ORD10296,2025-02-17,Central,Beauty,Makeup Kit,70.37,6,5,422.22,263.46,158.76,27,5.0,Debit Card
+ORD11596,2025-02-17,Central,Home & Kitchen,Vacuum Cleaner,271.52,2,5,543.04,322.08,220.96,27,4.9,Debit Card
+ORD11251,2025-02-17,South,Electronics,Tablet,936.77,5,10,4683.85,3018.94,1664.91,38,4.3,Credit Card
+ORD11797,2025-02-18,North,Home & Kitchen,Lamp,120.18,7,0,841.26,522.93,318.33,47,4.4,Wallet
+ORD10042,2025-02-18,South,Home & Kitchen,Air Fryer,154.87,4,5,619.48,427.19,192.29,34,4.0,Debit Card
+ORD11771,2025-02-19,North,Sports,Running Shoes,336.78,5,15,1683.9,1339.33,344.57,22,4.8,Wallet
+ORD11787,2025-02-19,Central,Beauty,Makeup Kit,106.67,7,5,746.69,457.26,289.43,18,5.0,Credit Card
+ORD10576,2025-02-19,South,Beauty,Makeup Kit,119.9,3,0,359.7,205.91,153.79,46,4.2,Credit Card
+ORD11619,2025-02-19,North,Beauty,Skincare Kit,84.6,2,0,169.2,121.48,47.72,34,3.6,Debit Card
+ORD10931,2025-02-19,Central,Home & Kitchen,Blender,154.18,7,10,1079.26,602.61,476.65,28,3.0,Debit Card
+ORD11385,2025-02-20,South,Electronics,Laptop,637.47,6,0,3824.82,2630.52,1194.3,38,4.1,Wallet
+ORD11293,2025-02-20,East,Sports,Bicycle,33.57,3,20,100.71,58.48,42.23,28,4.0,Cash
+ORD11555,2025-02-20,North,Beauty,Makeup Kit,106.27,3,0,318.81,200.39,118.42,42,5.0,UPI
+ORD11382,2025-02-20,South,Home & Kitchen,Cookware Set,75.82,5,15,379.1,210.66,168.44,41,3.9,Debit Card
+ORD11795,2025-02-21,South,Sports,Tennis Racket,114.86,1,10,114.86,73.54,41.32,29,5.0,Wallet
+ORD11087,2025-02-21,North,Home & Kitchen,Blender,86.3,1,0,86.3,63.62,22.68,36,4.1,UPI
+ORD11353,2025-02-21,North,Sports,Running Shoes,103.32,5,15,516.6,327.38,189.22,45,3.4,Debit Card
+ORD11459,2025-02-21,East,Sports,Yoga Mat,43.04,2,0,86.08,47.96,38.12,18,3.0,Credit Card
+ORD10007,2025-02-22,West,Electronics,Headphones,939.25,5,10,4696.25,3670.47,1025.78,33,3.7,Debit Card
+ORD10357,2025-02-22,West,Beauty,Makeup Kit,58.36,4,15,233.44,168.16,65.28,31,4.1,Debit Card
+ORD10926,2025-02-23,West,Clothing,T-Shirt,100.55,1,15,100.55,79.98,20.57,41,4.1,UPI
+ORD11081,2025-02-23,South,Electronics,Smartphone,961.95,2,0,1923.9,1113.72,810.18,54,4.1,Credit Card
+ORD10678,2025-02-23,South,Home & Kitchen,Blender,124.59,1,15,124.59,69.79,54.8,45,3.9,UPI
+ORD10822,2025-02-23,North,Home & Kitchen,Air Fryer,107.93,3,5,323.79,197.25,126.54,40,3.8,Debit Card
+ORD10479,2025-02-24,West,Clothing,Jacket,119.51,5,0,597.55,398.65,198.9,30,4.0,UPI
+ORD11830,2025-02-24,North,Clothing,Dress,63.84,6,5,383.04,270.92,112.12,34,4.2,Cash
+ORD10982,2025-02-24,East,Electronics,Laptop,994.25,4,10,3977.0,2796.32,1180.68,37,4.4,Debit Card
+ORD10333,2025-02-25,North,Clothing,Jacket,104.02,5,0,520.1,322.29,197.81,29,4.5,Credit Card
+ORD11170,2025-02-25,Central,Beauty,Shampoo,26.49,1,5,26.49,18.2,8.29,18,4.2,Credit Card
+ORD11949,2025-02-25,Central,Home & Kitchen,Cookware Set,298.26,6,20,1789.56,1113.52,676.04,62,4.4,Wallet
+ORD10965,2025-02-25,West,Home & Kitchen,Cookware Set,197.46,6,0,1184.76,829.16,355.6,50,3.9,Credit Card
+ORD10929,2025-02-25,East,Home & Kitchen,Cookware Set,121.48,5,0,607.4,442.72,164.68,39,3.9,Credit Card
+ORD11681,2025-02-25,West,Sports,Bicycle,95.62,5,0,478.1,344.76,133.34,27,3.8,Credit Card
+ORD10547,2025-02-25,Central,Home & Kitchen,Lamp,101.48,6,5,608.88,456.78,152.1,54,4.6,Debit Card
+ORD10496,2025-02-26,West,Electronics,Smartwatch,1048.58,6,5,6291.48,4306.86,1984.62,30,3.5,Wallet
+ORD10164,2025-02-26,West,Electronics,Tablet,765.6,5,0,3828.0,2117.0,1711.0,41,4.2,Credit Card
+ORD11253,2025-02-27,North,Electronics,Headphones,738.1,3,0,2214.3,1318.91,895.39,49,4.7,Debit Card
+ORD10791,2025-02-27,West,Beauty,Makeup Kit,141.64,6,20,849.84,506.89,342.95,36,4.2,Credit Card
+ORD10617,2025-02-28,Central,Electronics,Smartphone,788.89,1,5,788.89,612.74,176.15,24,4.1,UPI
+ORD10484,2025-02-28,West,Electronics,Laptop,212.01,2,0,424.02,311.91,112.11,31,4.1,Debit Card
+ORD11987,2025-03-01,West,Clothing,Sneakers,42.39,1,5,42.39,26.17,16.22,43,3.9,Wallet
+ORD10440,2025-03-01,West,Sports,Running Shoes,352.82,2,0,705.64,540.88,164.76,53,4.1,Wallet
+ORD11849,2025-03-01,West,Beauty,Shampoo,107.84,1,10,107.84,74.03,33.81,45,5.0,Credit Card
+ORD11486,2025-03-01,West,Clothing,Jeans,21.74,7,10,152.18,105.49,46.69,37,4.4,Credit Card
+ORD10515,2025-03-01,South,Home & Kitchen,Cookware Set,271.84,3,15,815.52,527.04,288.48,39,4.9,UPI
+ORD10684,2025-03-02,East,Electronics,Smartwatch,1028.54,1,0,1028.54,753.84,274.7,48,4.2,Credit Card
+ORD10685,2025-03-02,West,Sports,Dumbbell Set,177.68,5,0,888.4,515.49,372.91,43,2.7,Debit Card
+ORD10489,2025-03-03,North,Beauty,Makeup Kit,18.69,3,0,56.07,44.01,12.06,38,4.2,Credit Card
+ORD10954,2025-03-03,West,Home & Kitchen,Vacuum Cleaner,236.47,2,0,472.94,309.67,163.27,25,3.4,Debit Card
+ORD10331,2025-03-03,East,Clothing,T-Shirt,85.57,4,15,342.28,219.18,123.1,23,3.2,Debit Card
+ORD10591,2025-03-03,West,Clothing,Sneakers,36.43,5,0,182.15,128.84,53.31,49,4.5,Debit Card
+ORD10887,2025-03-03,South,Home & Kitchen,Air Fryer,290.51,3,0,871.53,541.35,330.18,34,4.4,Credit Card
+ORD11943,2025-03-04,South,Sports,Bicycle,111.3,1,5,111.3,67.6,43.7,33,4.4,Credit Card
+ORD11645,2025-03-04,West,Home & Kitchen,Air Fryer,246.96,5,5,1234.8,714.79,520.01,43,5.0,Credit Card
+ORD10540,2025-03-05,Central,Electronics,Laptop,646.6,3,20,1939.8,1147.65,792.15,44,3.9,Credit Card
+ORD11865,2025-03-05,West,Electronics,Smartphone,637.31,7,0,4461.17,3410.65,1050.52,18,4.2,Wallet
+ORD11305,2025-03-05,North,Beauty,Skincare Kit,89.65,5,0,448.25,285.84,162.41,47,3.1,UPI
+ORD10075,2025-03-06,East,Clothing,Jacket,16.02,1,10,16.02,9.63,6.39,37,3.7,Debit Card
+ORD11585,2025-03-06,East,Home & Kitchen,Lamp,221.24,4,0,884.96,640.59,244.37,30,4.1,Credit Card
+ORD10675,2025-03-06,North,Clothing,Dress,108.52,2,5,217.04,171.67,45.37,30,4.2,Cash
+ORD10724,2025-03-06,Central,Clothing,Sneakers,113.92,6,15,683.52,444.22,239.3,35,5.0,Debit Card
+ORD10432,2025-03-07,East,Home & Kitchen,Vacuum Cleaner,252.04,3,0,756.12,549.96,206.16,46,4.5,UPI
+ORD10208,2025-03-07,West,Electronics,Tablet,99.52,3,10,298.56,184.19,114.37,45,5.0,Credit Card
+ORD11752,2025-03-07,South,Clothing,T-Shirt,114.26,7,10,799.82,488.89,310.93,53,4.4,Wallet
+ORD10499,2025-03-08,North,Clothing,Sneakers,92.57,2,0,185.14,113.9,71.24,61,4.3,Debit Card
+ORD10570,2025-03-08,South,Electronics,Headphones,956.86,4,0,3827.44,2801.24,1026.2,46,5.0,Credit Card
+ORD11164,2025-03-10,Central,Beauty,Hair Dryer,65.26,3,0,195.78,156.11,39.67,35,5.0,Debit Card
+ORD10662,2025-03-10,East,Beauty,Shampoo,66.22,6,0,397.32,294.58,102.74,33,3.4,UPI
+ORD11931,2025-03-10,Central,Sports,Tennis Racket,223.99,1,5,223.99,164.78,59.21,20,4.4,Wallet
+ORD11532,2025-03-10,East,Electronics,Headphones,543.79,2,0,1087.58,850.07,237.51,47,3.6,Credit Card
+ORD10473,2025-03-10,East,Clothing,Jeans,73.54,6,0,441.24,314.8,126.44,38,4.7,Credit Card
+ORD10195,2025-03-11,East,Clothing,Jeans,59.69,3,10,179.07,115.52,63.55,37,3.1,UPI
+ORD11396,2025-03-11,North,Beauty,Shampoo,133.13,7,5,931.91,575.78,356.13,33,4.3,Debit Card
+ORD11132,2025-03-12,West,Clothing,Sneakers,55.48,1,15,55.48,41.93,13.55,40,4.9,Credit Card
+ORD11964,2025-03-12,North,Sports,Bicycle,177.82,3,0,533.46,375.79,157.67,48,3.6,Credit Card
+ORD11781,2025-03-12,East,Beauty,Hair Dryer,82.24,6,5,493.44,357.62,135.82,40,4.8,Credit Card
+ORD11137,2025-03-13,North,Electronics,Headphones,137.01,3,10,411.03,325.6,85.43,43,4.0,Wallet
+ORD10051,2025-03-13,East,Electronics,Laptop,940.44,3,10,2821.32,1768.81,1052.51,51,4.4,Debit Card
+ORD11968,2025-03-13,Central,Electronics,Smartphone,542.29,4,10,2169.16,1235.31,933.85,23,4.4,Credit Card
+ORD11421,2025-03-13,West,Beauty,Perfume,107.06,3,0,321.18,244.64,76.54,37,4.0,Wallet
+ORD11744,2025-03-13,Central,Electronics,Smartphone,212.38,7,5,1486.66,1136.34,350.32,38,3.9,Wallet
+ORD10322,2025-03-13,East,Clothing,Dress,74.15,4,0,296.6,189.45,107.15,29,4.2,Credit Card
+ORD10621,2025-03-13,East,Electronics,Tablet,693.04,6,0,4158.24,2968.4,1189.84,44,4.0,UPI
+ORD11725,2025-03-13,Central,Clothing,Jacket,27.64,3,10,82.92,51.68,31.24,34,5.0,Credit Card
+ORD10391,2025-03-14,East,Electronics,Smartwatch,326.46,2,15,652.92,407.37,245.55,37,3.1,Debit Card
+ORD11076,2025-03-14,East,Electronics,Headphones,174.26,5,5,871.3,655.3,216.0,51,3.7,Credit Card
+ORD11867,2025-03-15,Central,Electronics,Smartwatch,446.18,5,5,2230.9,1458.86,772.04,31,3.5,Debit Card
+ORD10224,2025-03-15,West,Home & Kitchen,Cookware Set,296.65,1,0,296.65,170.96,125.69,40,4.2,Credit Card
+ORD11708,2025-03-15,Central,Sports,Running Shoes,343.96,6,10,2063.76,1290.14,773.62,57,3.8,Credit Card
+ORD10702,2025-03-15,East,Sports,Running Shoes,269.86,1,5,269.86,190.97,78.89,18,4.2,Debit Card
+ORD11461,2025-03-16,West,Clothing,Jacket,69.15,3,5,207.45,116.74,90.71,53,3.8,Credit Card
+ORD11582,2025-03-16,South,Sports,Yoga Mat,249.58,4,5,998.32,676.84,321.48,51,3.5,UPI
+ORD11162,2025-03-16,North,Home & Kitchen,Cookware Set,182.9,2,0,365.8,274.75,91.05,30,3.7,Credit Card
+ORD10468,2025-03-16,East,Electronics,Headphones,746.81,1,0,746.81,486.9,259.91,27,4.4,Cash
+ORD11246,2025-03-18,East,Sports,Running Shoes,350.9,4,5,1403.6,836.95,566.65,26,3.5,Cash
+ORD11542,2025-03-18,South,Home & Kitchen,Blender,150.57,3,0,451.71,279.03,172.68,18,3.4,Cash
+ORD11105,2025-03-18,West,Clothing,Sneakers,98.34,7,0,688.38,425.93,262.45,26,4.4,Credit Card
+ORD10272,2025-03-18,West,Electronics,Laptop,366.68,6,20,2200.08,1531.13,668.95,44,3.2,UPI
+ORD11946,2025-03-19,Central,Electronics,Headphones,98.61,1,10,98.61,69.39,29.22,55,4.5,Credit Card
+ORD11121,2025-03-19,East,Sports,Yoga Mat,183.28,2,5,366.56,203.2,163.36,27,3.8,Credit Card
+ORD10223,2025-03-19,North,Beauty,Hair Dryer,61.81,3,0,185.43,117.78,67.65,25,3.2,UPI
+ORD11792,2025-03-19,West,Beauty,Makeup Kit,41.24,3,20,123.72,83.34,40.38,18,3.6,Wallet
+ORD10490,2025-03-19,South,Beauty,Skincare Kit,108.2,5,10,541.0,310.63,230.37,27,3.7,Credit Card
+ORD10871,2025-03-19,North,Electronics,Tablet,1172.66,2,0,2345.32,1697.59,647.73,39,4.6,Debit Card
+ORD10565,2025-03-20,West,Beauty,Hair Dryer,73.42,7,10,513.94,309.71,204.23,43,4.0,Credit Card
+ORD11562,2025-03-20,North,Beauty,Makeup Kit,71.76,2,0,143.52,90.99,52.53,32,4.1,Credit Card
+ORD11915,2025-03-20,East,Electronics,Smartwatch,754.73,4,5,3018.92,2007.38,1011.54,34,4.4,Credit Card
+ORD11670,2025-03-20,North,Beauty,Shampoo,33.81,3,0,101.43,70.38,31.05,18,3.7,Debit Card
+ORD10038,2025-03-20,North,Beauty,Perfume,136.56,4,20,546.24,348.9,197.34,59,4.1,Debit Card
+ORD10588,2025-03-21,Central,Electronics,Smartphone,673.43,7,0,4714.01,3089.46,1624.55,22,4.1,UPI
+ORD11750,2025-03-21,South,Beauty,Perfume,25.89,4,0,103.56,80.92,22.64,41,4.2,Debit Card
+ORD10152,2025-03-21,North,Sports,Yoga Mat,177.74,7,0,1244.18,919.5,324.68,42,4.9,Wallet
+ORD11077,2025-03-21,West,Beauty,Skincare Kit,104.54,6,5,627.24,422.69,204.55,33,4.2,UPI
+ORD11042,2025-03-21,South,Electronics,Laptop,234.94,4,0,939.76,662.91,276.85,28,4.6,Credit Card
+ORD10845,2025-03-22,South,Electronics,Laptop,1070.71,3,0,3212.13,2179.85,1032.28,40,4.8,UPI
+ORD10614,2025-03-23,Central,Home & Kitchen,Blender,245.99,1,0,245.99,164.49,81.5,42,3.8,Credit Card
+ORD11896,2025-03-23,South,Clothing,Jacket,10.75,2,5,21.5,14.15,7.35,38,4.9,Credit Card
+ORD10715,2025-03-24,South,Electronics,Smartwatch,709.25,4,0,2837.0,2185.27,651.73,36,4.6,UPI
+ORD11455,2025-03-24,North,Electronics,Headphones,942.58,7,0,6598.06,3957.58,2640.48,48,3.9,Debit Card
+ORD10285,2025-03-24,North,Sports,Yoga Mat,20.93,4,5,83.72,65.64,18.08,52,4.7,UPI
+ORD10351,2025-03-24,East,Electronics,Headphones,857.66,3,5,2572.98,1838.86,734.12,41,3.2,Wallet
+ORD11036,2025-03-24,West,Beauty,Shampoo,136.11,6,10,816.66,622.97,193.69,20,3.6,UPI
+ORD10646,2025-03-25,Central,Electronics,Headphones,336.96,3,0,1010.88,668.89,341.99,48,3.9,Debit Card
+ORD11569,2025-03-25,North,Electronics,Smartwatch,653.94,4,0,2615.76,1968.58,647.18,22,5.0,Wallet
+ORD10342,2025-03-25,South,Clothing,T-Shirt,83.47,3,5,250.41,177.61,72.8,41,3.5,Credit Card
+ORD10503,2025-03-25,East,Clothing,Sneakers,58.92,6,10,353.52,251.09,102.43,47,4.0,Debit Card
+ORD10693,2025-03-26,Central,Electronics,Headphones,521.36,5,20,2606.8,1642.6,964.2,47,4.4,Credit Card
+ORD11859,2025-03-26,South,Sports,Running Shoes,226.75,7,5,1587.25,939.9,647.35,31,4.1,Credit Card
+ORD11179,2025-03-26,South,Home & Kitchen,Air Fryer,188.92,5,5,944.6,674.21,270.39,29,4.8,UPI
+ORD11753,2025-03-27,West,Electronics,Headphones,498.76,3,10,1496.28,835.44,660.84,35,3.9,Debit Card
+ORD11063,2025-03-27,East,Electronics,Headphones,840.02,5,0,4200.1,2809.12,1390.98,35,4.3,Debit Card
+ORD11854,2025-03-27,East,Sports,Dumbbell Set,145.5,1,0,145.5,94.11,51.39,44,4.1,Debit Card
+ORD11306,2025-03-28,East,Electronics,Headphones,988.87,2,0,1977.74,1182.08,795.66,18,5.0,Cash
+ORD10137,2025-03-29,West,Home & Kitchen,Air Fryer,272.39,5,5,1361.95,1020.72,341.23,36,4.1,Debit Card
+ORD10759,2025-03-29,West,Home & Kitchen,Blender,105.04,3,0,315.12,198.6,116.52,36,5.0,Credit Card
+ORD11094,2025-03-30,West,Beauty,Makeup Kit,140.89,2,0,281.78,178.41,103.37,43,4.2,Credit Card
+ORD10088,2025-03-30,West,Electronics,Tablet,713.56,1,0,713.56,467.16,246.4,35,3.8,Credit Card
+ORD11049,2025-03-30,North,Home & Kitchen,Lamp,51.85,7,5,362.95,278.27,84.68,25,4.5,Cash
+ORD11452,2025-03-30,East,Clothing,Jacket,119.99,3,0,359.97,245.81,114.16,44,4.2,Cash
+ORD11213,2025-03-30,South,Clothing,T-Shirt,84.13,5,5,420.65,278.06,142.59,49,4.0,UPI
+ORD11879,2025-03-30,North,Electronics,Tablet,753.28,7,0,5272.96,3777.1,1495.86,51,4.3,Credit Card
+ORD10531,2025-03-30,Central,Electronics,Laptop,314.32,4,15,1257.28,833.85,423.43,47,3.5,Credit Card
+ORD10794,2025-03-30,West,Clothing,Dress,69.12,1,0,69.12,47.17,21.95,36,4.4,Credit Card
+ORD10919,2025-03-31,North,Beauty,Shampoo,55.71,7,10,389.97,229.59,160.38,35,4.7,Cash
+ORD10240,2025-03-31,East,Beauty,Skincare Kit,86.76,4,0,347.04,250.1,96.94,41,4.7,Cash
+ORD11368,2025-03-31,North,Sports,Running Shoes,133.31,2,5,266.62,212.5,54.12,50,3.9,Wallet
+ORD11161,2025-03-31,South,Clothing,Jacket,19.71,2,0,39.42,25.5,13.92,30,4.2,Credit Card
+ORD10012,2025-03-31,South,Sports,Yoga Mat,220.62,6,0,1323.72,801.55,522.17,33,4.5,Credit Card
+ORD11928,2025-03-31,Central,Electronics,Tablet,907.89,7,5,6355.23,4262.4,2092.83,60,3.5,Debit Card
+ORD11938,2025-04-02,West,Electronics,Headphones,404.97,2,0,809.94,605.26,204.68,29,4.3,Credit Card
+ORD11394,2025-04-02,East,Sports,Running Shoes,34.73,6,0,208.38,135.26,73.12,39,4.0,Wallet
+ORD10859,2025-04-03,West,Sports,Running Shoes,141.83,3,10,425.49,330.9,94.59,64,4.7,Credit Card
+ORD10247,2025-04-03,West,Sports,Yoga Mat,296.24,6,10,1777.44,1073.46,703.98,44,3.3,Credit Card
+ORD11235,2025-04-03,Central,Electronics,Laptop,675.04,4,15,2700.16,1581.9,1118.26,22,3.9,Debit Card
+ORD11710,2025-04-03,North,Clothing,Dress,45.2,2,0,90.4,53.19,37.21,47,5.0,Credit Card
+ORD11153,2025-04-04,West,Beauty,Perfume,26.23,5,10,131.15,91.33,39.82,62,5.0,UPI
+ORD10469,2025-04-04,North,Electronics,Smartwatch,637.62,6,10,3825.72,2821.42,1004.3,45,4.1,Credit Card
+ORD11554,2025-04-04,Central,Home & Kitchen,Cookware Set,183.93,6,0,1103.58,811.52,292.06,34,4.7,Wallet
+ORD10009,2025-04-05,North,Electronics,Laptop,289.96,7,5,2029.72,1357.56,672.16,40,3.7,UPI
+ORD10507,2025-04-05,South,Clothing,Sneakers,104.42,6,5,626.52,346.56,279.96,27,3.9,UPI
+ORD11513,2025-04-06,Central,Electronics,Headphones,783.89,7,10,5487.23,4103.81,1383.42,33,3.4,UPI
+ORD11924,2025-04-06,West,Clothing,Sneakers,75.34,2,5,150.68,106.63,44.05,32,4.1,Debit Card
+ORD11962,2025-04-06,North,Home & Kitchen,Cookware Set,151.48,3,10,454.44,338.0,116.44,40,3.4,UPI
+ORD11552,2025-04-07,East,Home & Kitchen,Vacuum Cleaner,123.42,1,0,123.42,90.02,33.4,41,3.8,UPI
+ORD11103,2025-04-07,West,Clothing,Dress,96.93,6,10,581.58,371.75,209.83,37,4.4,Credit Card
+ORD10104,2025-04-07,North,Beauty,Makeup Kit,101.04,5,0,505.2,370.72,134.48,36,4.1,Debit Card
+ORD10962,2025-04-07,North,Electronics,Smartphone,687.85,2,5,1375.7,1001.53,374.17,28,4.4,Credit Card
+ORD10833,2025-04-07,South,Electronics,Smartphone,1159.4,1,15,1159.4,887.98,271.42,30,4.7,UPI
+ORD10415,2025-04-07,East,Clothing,Dress,27.76,1,0,27.76,16.65,11.11,43,3.9,Debit Card
+ORD11200,2025-04-07,Central,Sports,Dumbbell Set,203.1,2,0,406.2,230.71,175.49,31,4.3,Credit Card
+ORD10661,2025-04-07,South,Electronics,Headphones,240.64,5,10,1203.2,934.91,268.29,30,4.3,Debit Card
+ORD11002,2025-04-08,East,Sports,Dumbbell Set,74.32,6,0,445.92,248.67,197.25,34,3.8,Credit Card
+ORD10511,2025-04-08,South,Beauty,Makeup Kit,73.89,7,5,517.23,323.0,194.23,24,3.9,UPI
+ORD10514,2025-04-08,East,Electronics,Smartwatch,181.65,7,0,1271.55,837.85,433.7,50,4.7,Credit Card
+ORD10687,2025-04-08,West,Electronics,Smartwatch,245.25,3,10,735.75,408.04,327.71,18,4.8,Credit Card
+ORD10431,2025-04-08,Central,Electronics,Headphones,1027.97,4,10,4111.88,2461.51,1650.37,52,4.9,Debit Card
+ORD10834,2025-04-08,East,Beauty,Makeup Kit,64.6,7,5,452.2,249.31,202.89,21,3.4,UPI
+ORD11082,2025-04-08,South,Clothing,Jeans,88.72,3,0,266.16,192.91,73.25,44,4.5,UPI
+ORD11772,2025-04-09,West,Electronics,Smartphone,348.83,7,5,2441.81,1902.24,539.57,34,3.8,Credit Card
+ORD11030,2025-04-09,West,Electronics,Smartphone,370.04,5,0,1850.2,1393.71,456.49,18,4.3,Debit Card
+ORD10642,2025-04-09,South,Electronics,Headphones,372.45,6,5,2234.7,1704.79,529.91,34,4.4,Credit Card
+ORD10324,2025-04-09,North,Beauty,Makeup Kit,96.41,7,15,674.87,475.61,199.26,38,3.9,Credit Card
+ORD11340,2025-04-09,South,Home & Kitchen,Blender,186.18,4,0,744.72,508.19,236.53,29,4.3,Cash
+ORD11782,2025-04-10,North,Home & Kitchen,Lamp,208.89,1,5,208.89,138.67,70.22,31,4.3,UPI
+ORD11263,2025-04-10,East,Home & Kitchen,Cookware Set,84.49,4,0,337.96,265.28,72.68,53,4.7,Credit Card
+ORD11335,2025-04-11,Central,Beauty,Makeup Kit,108.8,4,0,435.2,244.25,190.95,31,3.4,Debit Card
+ORD11779,2025-04-11,East,Electronics,Headphones,333.95,5,15,1669.75,1090.55,579.2,59,5.0,UPI
+ORD11309,2025-04-11,Central,Beauty,Skincare Kit,75.26,5,20,376.3,289.78,86.52,27,4.8,Credit Card
+ORD10426,2025-04-11,West,Clothing,Sneakers,67.57,6,15,405.42,302.38,103.04,26,5.0,Cash
+ORD10611,2025-04-12,East,Clothing,Jeans,59.76,4,20,239.04,169.53,69.51,32,4.6,Debit Card
+ORD11743,2025-04-12,West,Home & Kitchen,Air Fryer,106.62,1,0,106.62,82.63,23.99,29,3.6,UPI
+ORD11299,2025-04-13,Central,Sports,Yoga Mat,144.16,1,0,144.16,91.93,52.23,36,4.6,Credit Card
+ORD11950,2025-04-14,South,Sports,Yoga Mat,143.5,4,20,574.0,328.37,245.63,32,4.7,Wallet
+ORD11778,2025-04-14,East,Sports,Tennis Racket,44.65,6,10,267.9,202.5,65.4,44,4.5,Cash
+ORD10309,2025-04-14,Central,Home & Kitchen,Air Fryer,232.31,4,10,929.24,621.18,308.06,27,3.7,Credit Card
+ORD10620,2025-04-15,West,Sports,Tennis Racket,132.72,4,10,530.88,336.05,194.83,28,4.9,Credit Card
+ORD10244,2025-04-15,North,Beauty,Hair Dryer,78.12,1,10,78.12,61.13,16.99,39,3.7,Credit Card
+ORD10241,2025-04-15,North,Home & Kitchen,Air Fryer,221.78,4,0,887.12,598.07,289.05,23,4.4,Credit Card
+ORD11632,2025-04-15,Central,Home & Kitchen,Air Fryer,214.33,3,0,642.99,506.09,136.9,36,5.0,Debit Card
+ORD10670,2025-04-16,South,Clothing,Jacket,109.28,7,5,764.96,471.83,293.13,22,4.4,Debit Card
+ORD11706,2025-04-16,North,Sports,Tennis Racket,133.24,6,0,799.44,485.79,313.65,19,4.9,Debit Card
+ORD10017,2025-04-17,South,Sports,Running Shoes,95.49,7,0,668.43,514.25,154.18,41,4.8,Debit Card
+ORD10337,2025-04-17,East,Home & Kitchen,Lamp,216.7,7,5,1516.9,1019.08,497.82,51,3.9,Cash
+ORD10775,2025-04-17,North,Electronics,Headphones,853.69,1,0,853.69,563.7,289.99,36,4.1,Wallet
+ORD10177,2025-04-17,West,Electronics,Laptop,692.8,6,0,4156.8,2926.37,1230.43,27,4.9,Debit Card
+ORD10973,2025-04-17,North,Beauty,Skincare Kit,104.15,1,0,104.15,58.54,45.61,43,3.3,Cash
+ORD10748,2025-04-17,West,Home & Kitchen,Cookware Set,242.43,6,0,1454.58,1082.65,371.93,51,4.3,Credit Card
+ORD10701,2025-04-17,South,Sports,Tennis Racket,351.84,3,20,1055.52,736.47,319.05,44,3.8,Cash
+ORD11451,2025-04-17,West,Electronics,Laptop,603.72,4,10,2414.88,1668.43,746.45,19,3.7,Cash
+ORD11997,2025-04-18,Central,Home & Kitchen,Vacuum Cleaner,25.88,1,20,25.88,15.41,10.47,21,4.3,UPI
+ORD10922,2025-04-18,West,Beauty,Hair Dryer,47.61,7,0,333.27,198.63,134.64,37,3.9,Cash
+ORD10238,2025-04-18,North,Sports,Bicycle,170.11,7,15,1190.77,717.77,473.0,25,3.2,Credit Card
+ORD11392,2025-04-18,Central,Sports,Dumbbell Set,224.66,5,0,1123.3,719.18,404.12,18,3.9,Debit Card
+ORD11512,2025-04-18,North,Sports,Tennis Racket,332.75,2,15,665.5,488.25,177.25,41,4.9,Credit Card
+ORD10275,2025-04-18,South,Home & Kitchen,Blender,65.65,4,0,262.6,169.66,92.94,30,3.3,UPI
+ORD10807,2025-04-18,East,Clothing,Sneakers,27.13,5,20,135.65,91.06,44.59,35,4.1,Credit Card
+ORD10076,2025-04-19,East,Beauty,Skincare Kit,112.73,1,0,112.73,78.55,34.18,38,4.1,Debit Card
+ORD11265,2025-04-19,Central,Electronics,Laptop,330.33,4,20,1321.32,998.12,323.2,26,4.4,UPI
+ORD11916,2025-04-19,North,Sports,Yoga Mat,147.9,1,5,147.9,83.95,63.95,42,3.7,UPI
+ORD11198,2025-04-19,East,Beauty,Shampoo,82.04,4,10,328.16,213.3,114.86,36,5.0,Debit Card
+ORD10805,2025-04-19,Central,Sports,Running Shoes,248.51,7,0,1739.57,1112.52,627.05,18,5.0,Debit Card
+ORD10002,2025-04-20,South,Clothing,Jacket,117.11,7,10,819.77,544.34,275.43,18,4.2,Debit Card
+ORD11977,2025-04-20,North,Home & Kitchen,Air Fryer,124.36,2,5,248.72,175.9,72.82,35,3.5,UPI
+ORD11029,2025-04-21,North,Clothing,T-Shirt,69.33,5,20,346.65,260.19,86.46,18,4.9,Wallet
+ORD11420,2025-04-21,East,Beauty,Skincare Kit,138.68,3,0,416.04,284.95,131.09,53,3.8,Debit Card
+ORD11241,2025-04-21,Central,Clothing,Jeans,91.83,5,0,459.15,358.28,100.87,18,3.8,Credit Card
+ORD11869,2025-04-21,North,Sports,Dumbbell Set,208.63,7,15,1460.41,1009.28,451.13,36,3.9,UPI
+ORD11863,2025-04-21,South,Electronics,Smartphone,424.61,6,0,2547.66,1951.41,596.25,22,4.2,Credit Card
+ORD10445,2025-04-21,West,Electronics,Headphones,195.27,1,0,195.27,154.04,41.23,37,4.1,Cash
+ORD10095,2025-04-21,South,Electronics,Laptop,600.6,6,5,3603.6,2031.42,1572.18,39,5.0,UPI
+ORD11790,2025-04-21,East,Beauty,Makeup Kit,95.0,1,0,95.0,69.33,25.67,26,4.5,Debit Card
+ORD10274,2025-04-21,South,Beauty,Perfume,28.19,6,20,169.14,107.22,61.92,44,4.5,UPI
+ORD10741,2025-04-22,Central,Home & Kitchen,Cookware Set,88.34,6,0,530.04,407.98,122.06,22,4.1,Debit Card
+ORD11786,2025-04-22,South,Beauty,Hair Dryer,73.58,3,0,220.74,122.63,98.11,30,5.0,Wallet
+ORD10987,2025-04-22,West,Electronics,Headphones,945.52,3,5,2836.56,1981.12,855.44,34,4.0,Credit Card
+ORD10261,2025-04-22,Central,Sports,Tennis Racket,291.56,7,5,2040.92,1240.9,800.02,40,4.5,UPI
+ORD10127,2025-04-22,West,Electronics,Laptop,264.84,4,5,1059.36,681.39,377.97,33,3.8,Debit Card
+ORD10513,2025-04-23,South,Electronics,Tablet,398.05,7,10,2786.35,1625.43,1160.92,40,3.9,Credit Card
+ORD10421,2025-04-23,South,Clothing,Sneakers,11.52,7,0,80.64,61.76,18.88,24,3.6,Credit Card
+ORD11037,2025-04-23,East,Home & Kitchen,Air Fryer,204.98,2,0,409.96,306.05,103.91,31,4.1,Credit Card
+ORD10831,2025-04-24,East,Electronics,Smartphone,748.42,5,5,3742.1,2592.2,1149.9,29,4.3,Cash
+ORD11430,2025-04-24,West,Electronics,Smartphone,75.28,1,10,75.28,59.13,16.15,25,3.7,Debit Card
+ORD11736,2025-04-24,East,Electronics,Tablet,1020.93,2,5,2041.86,1327.94,713.92,22,4.3,UPI
+ORD10716,2025-04-25,Central,Clothing,Jeans,40.5,1,0,40.5,23.29,17.21,41,5.0,UPI
+ORD10823,2025-04-25,South,Clothing,Dress,74.18,3,10,222.54,145.25,77.29,35,4.6,Credit Card
+ORD10022,2025-04-25,West,Home & Kitchen,Air Fryer,74.67,5,5,373.35,251.94,121.41,37,4.2,Credit Card
+ORD10348,2025-04-25,West,Sports,Tennis Racket,60.02,5,0,300.1,202.03,98.07,58,3.4,Credit Card
+ORD11620,2025-04-27,South,Electronics,Tablet,322.26,1,0,322.26,188.61,133.65,34,4.4,Debit Card
+ORD11841,2025-04-27,Central,Home & Kitchen,Lamp,46.03,6,0,276.18,170.91,105.27,52,5.0,Debit Card
+ORD11304,2025-04-27,East,Electronics,Tablet,1178.25,5,0,5891.25,4583.01,1308.24,45,3.8,Credit Card
+ORD11224,2025-04-27,Central,Home & Kitchen,Blender,32.66,5,0,163.3,107.53,55.77,23,4.2,Debit Card
+ORD11354,2025-04-28,South,Sports,Dumbbell Set,245.86,6,5,1475.16,875.47,599.69,59,3.2,Debit Card
+ORD10110,2025-04-28,North,Electronics,Smartwatch,137.33,3,10,411.99,243.73,168.26,57,4.1,Credit Card
+ORD11332,2025-04-29,Central,Sports,Dumbbell Set,232.05,2,10,464.1,306.08,158.02,39,3.8,Credit Card
+ORD11369,2025-04-29,South,Clothing,Jeans,40.18,4,5,160.72,111.69,49.03,23,4.5,Debit Card
+ORD10522,2025-04-30,East,Beauty,Perfume,22.47,3,0,67.41,47.71,19.7,56,4.3,UPI
+ORD11296,2025-04-30,East,Electronics,Laptop,270.84,7,10,1895.88,1059.79,836.09,48,3.1,Cash
+ORD11676,2025-05-02,East,Sports,Dumbbell Set,169.93,5,15,849.65,585.25,264.4,34,4.3,Debit Card
+ORD10544,2025-05-02,North,Electronics,Smartphone,1044.72,5,0,5223.6,3321.4,1902.2,36,4.4,UPI
+ORD10978,2025-05-02,East,Electronics,Laptop,745.58,6,0,4473.48,2502.08,1971.4,48,3.7,UPI
+ORD11899,2025-05-02,North,Sports,Dumbbell Set,91.02,4,5,364.08,283.86,80.22,55,3.8,Credit Card
+ORD11890,2025-05-02,West,Beauty,Hair Dryer,148.64,4,10,594.56,406.92,187.64,25,3.5,Credit Card
+ORD10434,2025-05-02,South,Electronics,Tablet,508.16,6,0,3048.96,2371.72,677.24,36,3.4,Credit Card
+ORD10714,2025-05-02,North,Home & Kitchen,Lamp,282.51,7,5,1977.57,1374.23,603.34,55,4.2,Credit Card
+ORD10172,2025-05-02,North,Clothing,Jeans,57.53,4,0,230.12,148.93,81.19,33,4.4,UPI
+ORD10171,2025-05-02,South,Beauty,Skincare Kit,24.18,5,10,120.9,84.1,36.8,47,4.5,Credit Card
+ORD11969,2025-05-03,South,Clothing,Jeans,30.93,2,0,61.86,35.94,25.92,32,4.3,Debit Card
+ORD11990,2025-05-03,West,Electronics,Headphones,1026.68,4,20,4106.72,3155.08,951.64,36,4.4,Debit Card
+ORD11237,2025-05-03,North,Home & Kitchen,Cookware Set,81.58,1,10,81.58,52.61,28.97,18,4.6,UPI
+ORD11816,2025-05-03,South,Electronics,Tablet,841.29,4,0,3365.16,2433.07,932.09,28,4.3,Debit Card
+ORD11544,2025-05-04,South,Electronics,Headphones,688.91,1,0,688.91,415.28,273.63,34,4.8,Debit Card
+ORD10329,2025-05-04,East,Electronics,Smartphone,997.51,2,0,1995.02,1237.87,757.15,21,3.9,Debit Card
+ORD10191,2025-05-04,West,Electronics,Laptop,161.28,6,5,967.68,668.0,299.68,36,4.0,UPI
+ORD10832,2025-05-05,North,Electronics,Smartphone,508.84,4,0,2035.36,1489.43,545.93,30,3.9,UPI
+ORD11724,2025-05-05,West,Clothing,Sneakers,82.35,5,5,411.75,246.12,165.63,36,4.0,Credit Card
+ORD11570,2025-05-05,West,Beauty,Hair Dryer,115.44,5,10,577.2,358.38,218.82,27,4.9,Cash
+ORD10001,2025-05-06,Central,Home & Kitchen,Lamp,282.79,2,0,565.58,336.78,228.8,18,4.3,Debit Card
+ORD10211,2025-05-06,East,Electronics,Smartwatch,1143.61,2,20,2287.22,1528.38,758.84,18,3.8,Cash
+ORD10983,2025-05-07,South,Beauty,Perfume,62.24,6,5,373.44,242.91,130.53,41,5.0,Debit Card
+ORD10509,2025-05-07,North,Beauty,Shampoo,94.57,2,10,189.14,111.42,77.72,41,3.2,Debit Card
+ORD11583,2025-05-07,South,Beauty,Hair Dryer,74.58,4,0,298.32,188.88,109.44,40,5.0,UPI
+ORD11647,2025-05-08,North,Clothing,T-Shirt,49.58,4,20,198.32,137.23,61.09,39,4.3,Debit Card
+ORD10452,2025-05-08,West,Sports,Running Shoes,196.45,2,0,392.9,233.79,159.11,44,4.0,UPI
+ORD10352,2025-05-09,West,Sports,Dumbbell Set,70.56,7,10,493.92,278.17,215.75,32,3.3,UPI
+ORD11824,2025-05-10,West,Electronics,Tablet,345.83,1,0,345.83,267.7,78.13,54,4.7,Credit Card
+ORD10354,2025-05-10,West,Electronics,Smartphone,609.63,6,0,3657.78,2529.07,1128.71,22,4.3,UPI
+ORD10694,2025-05-11,South,Beauty,Perfume,126.49,3,0,379.47,266.97,112.5,48,4.2,Debit Card
+ORD10013,2025-05-11,South,Home & Kitchen,Blender,91.1,4,5,364.4,223.36,141.04,23,3.6,Credit Card
+ORD11434,2025-05-11,West,Electronics,Laptop,306.09,5,5,1530.45,876.88,653.57,38,4.6,Debit Card
+ORD10901,2025-05-11,North,Beauty,Hair Dryer,113.73,5,5,568.65,371.33,197.32,18,5.0,Debit Card
+ORD10772,2025-05-13,South,Beauty,Hair Dryer,128.32,4,10,513.28,398.22,115.06,46,4.1,Debit Card
+ORD10749,2025-05-13,North,Clothing,Jeans,59.61,6,0,357.66,268.76,88.9,32,5.0,Debit Card
+ORD10783,2025-05-14,East,Sports,Tennis Racket,342.55,5,5,1712.75,1045.42,667.33,18,3.7,Wallet
+ORD11633,2025-05-14,East,Beauty,Shampoo,120.55,5,0,602.75,362.7,240.05,21,5.0,Debit Card
+ORD11026,2025-05-14,Central,Clothing,Dress,31.28,2,15,62.56,34.89,27.67,30,4.3,Credit Card
+ORD11739,2025-05-14,West,Clothing,Jacket,38.19,6,0,229.14,152.63,76.51,45,4.0,Credit Card
+ORD11933,2025-05-14,East,Electronics,Laptop,1181.73,5,0,5908.65,4716.53,1192.12,30,5.0,Wallet
+ORD10884,2025-05-14,North,Sports,Yoga Mat,53.39,4,0,213.56,144.23,69.33,28,3.6,UPI
+ORD11913,2025-05-14,South,Home & Kitchen,Lamp,133.09,4,20,532.36,339.8,192.56,51,3.7,Credit Card
+ORD10117,2025-05-15,North,Home & Kitchen,Blender,95.32,3,0,285.96,227.65,58.31,30,5.0,Debit Card
+ORD10598,2025-05-15,South,Electronics,Headphones,943.1,3,0,2829.3,2027.09,802.21,47,4.8,Credit Card
+ORD10448,2025-05-15,North,Clothing,T-Shirt,54.16,3,5,162.48,104.69,57.79,33,4.0,Credit Card
+ORD11658,2025-05-16,West,Sports,Yoga Mat,353.51,1,0,353.51,200.12,153.39,38,3.6,Debit Card
+ORD10734,2025-05-16,North,Home & Kitchen,Vacuum Cleaner,224.92,7,0,1574.44,1021.06,553.38,31,3.5,Debit Card
+ORD10251,2025-05-16,Central,Sports,Bicycle,21.52,3,0,64.56,41.68,22.88,19,4.0,Credit Card
+ORD10835,2025-05-16,South,Beauty,Skincare Kit,45.57,7,10,318.99,226.35,92.64,51,4.3,Credit Card
+ORD10366,2025-05-17,Central,Electronics,Tablet,361.55,6,15,2169.3,1664.08,505.22,33,3.8,Credit Card
+ORD10596,2025-05-17,North,Sports,Bicycle,167.48,1,15,167.48,105.14,62.34,45,4.6,UPI
+ORD10487,2025-05-17,North,Beauty,Perfume,68.61,4,5,274.44,188.66,85.78,38,4.1,Cash
+ORD11454,2025-05-17,South,Electronics,Laptop,584.98,4,0,2339.92,1811.88,528.04,40,4.5,Credit Card
+ORD10915,2025-05-18,East,Home & Kitchen,Cookware Set,251.92,3,15,755.76,471.1,284.66,35,3.1,UPI
+ORD10128,2025-05-18,East,Electronics,Tablet,720.53,4,0,2882.12,2012.4,869.72,33,4.4,Credit Card
+ORD10969,2025-05-18,Central,Clothing,T-Shirt,53.93,1,0,53.93,42.78,11.15,18,4.6,UPI
+ORD11907,2025-05-18,West,Beauty,Makeup Kit,92.56,3,0,277.68,207.1,70.58,58,3.8,Wallet
+ORD10380,2025-05-19,North,Electronics,Laptop,354.79,4,10,1419.16,951.8,467.36,46,4.9,Debit Card
+ORD11458,2025-05-19,East,Beauty,Perfume,119.38,2,0,238.76,162.98,75.78,18,4.3,Cash
+ORD10628,2025-05-20,South,Clothing,Jacket,71.37,1,0,71.37,49.73,21.64,34,3.8,Debit Card
+ORD11007,2025-05-20,East,Electronics,Headphones,466.28,3,10,1398.84,1060.74,338.1,37,4.8,UPI
+ORD10059,2025-05-20,North,Sports,Bicycle,151.35,3,0,454.05,277.25,176.8,34,4.1,Credit Card
+ORD10114,2025-05-21,East,Clothing,T-Shirt,55.03,4,10,220.12,160.93,59.19,31,4.4,UPI
+ORD11889,2025-05-21,North,Clothing,T-Shirt,69.33,4,0,277.32,171.3,106.02,35,4.4,Cash
+ORD10205,2025-05-21,South,Beauty,Hair Dryer,68.0,1,0,68.0,44.56,23.44,45,4.5,Cash
+ORD11150,2025-05-22,South,Clothing,Jacket,45.91,1,0,45.91,32.24,13.67,47,3.9,Credit Card
+ORD11911,2025-05-22,West,Home & Kitchen,Cookware Set,138.63,6,5,831.78,537.94,293.84,45,5.0,Cash
+ORD11143,2025-05-23,South,Electronics,Headphones,1186.76,2,20,2373.52,1429.94,943.58,57,4.2,Debit Card
+ORD11226,2025-05-23,West,Sports,Running Shoes,339.05,6,0,2034.3,1265.75,768.55,60,4.7,Wallet
+ORD10610,2025-05-23,East,Beauty,Shampoo,34.1,7,0,238.7,171.65,67.05,35,4.1,UPI
+ORD10463,2025-05-23,South,Beauty,Hair Dryer,81.23,5,0,406.15,314.5,91.65,28,4.8,Debit Card
+ORD10505,2025-05-23,North,Electronics,Laptop,286.97,1,5,286.97,202.33,84.64,26,4.0,Credit Card
+ORD11078,2025-05-23,South,Home & Kitchen,Air Fryer,239.64,5,0,1198.2,947.02,251.18,33,5.0,UPI
+ORD11330,2025-05-24,West,Home & Kitchen,Cookware Set,119.42,5,0,597.1,444.51,152.59,44,4.6,Cash
+ORD11344,2025-05-24,North,Beauty,Makeup Kit,73.15,6,15,438.9,285.3,153.6,32,5.0,Wallet
+ORD11367,2025-05-25,East,Beauty,Skincare Kit,84.81,6,10,508.86,324.72,184.14,27,3.3,Debit Card
+ORD11940,2025-05-26,North,Beauty,Perfume,39.85,7,5,278.95,199.9,79.05,43,3.6,Wallet
+ORD10026,2025-05-26,West,Home & Kitchen,Air Fryer,131.1,6,0,786.6,607.65,178.95,32,3.7,Debit Card
+ORD10262,2025-05-26,South,Sports,Bicycle,227.52,7,0,1592.64,1128.53,464.11,29,4.7,UPI
+ORD11581,2025-05-26,West,Electronics,Headphones,456.19,7,15,3193.33,2469.95,723.38,22,3.0,Wallet
+ORD10558,2025-05-27,North,Sports,Yoga Mat,81.37,5,5,406.85,245.44,161.41,26,4.3,UPI
+ORD11450,2025-05-27,South,Home & Kitchen,Vacuum Cleaner,179.5,3,0,538.5,323.31,215.19,40,4.3,Cash
+ORD11903,2025-05-27,North,Home & Kitchen,Air Fryer,45.52,6,10,273.12,210.61,62.51,52,4.1,Credit Card
+ORD10397,2025-05-27,South,Home & Kitchen,Cookware Set,65.51,4,10,262.04,154.78,107.26,49,5.0,Cash
+ORD10130,2025-05-27,East,Sports,Yoga Mat,112.22,6,0,673.32,398.54,274.78,49,4.7,Debit Card
+ORD10744,2025-05-28,South,Electronics,Tablet,698.24,2,0,1396.48,863.43,533.05,33,4.7,Credit Card
+ORD10725,2025-05-29,South,Electronics,Smartphone,1124.7,1,15,1124.7,618.79,505.91,27,3.9,Credit Card
+ORD11733,2025-05-29,Central,Clothing,T-Shirt,102.11,7,10,714.77,567.45,147.32,41,4.1,UPI
+ORD11122,2025-05-29,South,Electronics,Smartphone,1174.06,6,20,7044.36,4996.14,2048.22,26,4.1,Credit Card
+ORD11578,2025-05-29,Central,Home & Kitchen,Vacuum Cleaner,244.54,2,0,489.08,383.6,105.48,43,3.4,Wallet
+ORD10270,2025-05-29,South,Electronics,Tablet,1066.32,6,20,6397.92,4685.43,1712.49,21,4.6,UPI
+ORD11008,2025-05-30,West,Electronics,Smartwatch,122.95,4,10,491.8,283.62,208.18,60,4.3,Credit Card
+ORD11437,2025-05-30,North,Beauty,Perfume,107.8,1,15,107.8,69.45,38.35,44,4.6,Wallet
+ORD10134,2025-05-31,East,Electronics,Tablet,1158.22,7,10,8107.54,5863.02,2244.52,39,4.3,Debit Card
+ORD10192,2025-05-31,East,Home & Kitchen,Cookware Set,284.8,1,5,284.8,204.27,80.53,22,5.0,Debit Card
+ORD10153,2025-05-31,Central,Electronics,Smartwatch,900.39,4,10,3601.56,2200.24,1401.32,30,4.1,UPI
+ORD11655,2025-06-01,West,Electronics,Smartphone,74.97,2,5,172.43,109.46,62.97,51,3.5,Wallet
+ORD11230,2025-06-01,South,Clothing,Jacket,102.36,1,0,117.71,85.23,32.48,18,4.5,Credit Card
+ORD10323,2025-06-02,South,Home & Kitchen,Air Fryer,160.44,3,0,553.52,427.05,126.47,46,3.7,Cash
+ORD11643,2025-06-02,South,Beauty,Hair Dryer,122.32,7,5,984.68,600.34,384.34,40,4.0,UPI
+ORD11424,2025-06-02,East,Clothing,Jacket,83.59,2,15,192.26,108.18,84.08,18,4.4,UPI
+ORD11272,2025-06-02,Central,Clothing,Jacket,37.46,5,0,215.4,119.31,96.09,51,5.0,Credit Card
+ORD10427,2025-06-02,West,Sports,Yoga Mat,24.84,1,5,28.57,16.16,12.41,29,4.0,Credit Card
+ORD11048,2025-06-03,North,Sports,Tennis Racket,131.51,4,0,604.95,383.86,221.09,40,3.4,Credit Card
+ORD10950,2025-06-03,North,Home & Kitchen,Blender,44.01,5,10,253.06,197.97,55.09,42,3.8,Credit Card
+ORD11358,2025-06-03,East,Beauty,Hair Dryer,38.27,3,0,132.03,105.27,26.76,32,4.0,Credit Card
+ORD10229,2025-06-03,West,Home & Kitchen,Lamp,31.05,1,15,35.71,25.99,9.72,22,4.4,Debit Card
+ORD11919,2025-06-04,South,Sports,Yoga Mat,128.09,5,5,736.52,452.4,284.12,27,3.7,UPI
+ORD11277,2025-06-04,South,Electronics,Smartwatch,275.84,6,0,1903.3,1197.66,705.64,47,4.0,Credit Card
+ORD11921,2025-06-04,South,Electronics,Smartphone,460.3,5,10,2646.72,2035.33,611.39,24,4.1,UPI
+ORD10574,2025-06-04,North,Clothing,Sneakers,32.52,3,0,112.19,63.27,48.92,28,4.3,Credit Card
+ORD10829,2025-06-04,North,Electronics,Smartwatch,633.24,6,5,4369.36,3432.39,936.97,29,3.7,Credit Card
+ORD10857,2025-06-05,North,Sports,Bicycle,326.77,6,10,2254.71,1356.22,898.49,36,3.5,Debit Card
+ORD11494,2025-06-05,East,Beauty,Makeup Kit,28.45,5,10,163.59,130.49,33.1,49,4.4,Cash
+ORD10259,2025-06-06,West,Electronics,Headphones,506.72,4,0,2330.91,1841.78,489.13,40,3.2,Debit Card
+ORD11491,2025-06-06,West,Electronics,Headphones,706.32,4,10,3249.07,2595.9,653.17,31,4.6,Credit Card
+ORD10147,2025-06-06,North,Home & Kitchen,Air Fryer,84.95,6,0,586.16,415.0,171.16,26,3.9,Debit Card
+ORD10245,2025-06-06,Central,Beauty,Shampoo,143.01,7,0,1151.23,904.86,246.37,30,5.0,Wallet
+ORD10056,2025-06-07,East,Electronics,Smartphone,295.22,2,0,679.01,395.31,283.7,31,3.8,Debit Card
+ORD11501,2025-06-07,Central,Electronics,Laptop,726.34,3,0,2505.87,1624.74,881.13,30,5.0,Debit Card
+ORD10092,2025-06-07,South,Electronics,Headphones,471.51,4,20,2168.95,1630.74,538.21,47,4.6,Debit Card
+ORD10198,2025-06-07,Central,Clothing,Jacket,91.37,7,5,735.53,582.38,153.15,40,3.6,Cash
+ORD11439,2025-06-08,South,Sports,Bicycle,85.51,2,0,196.67,112.56,84.11,18,4.5,Wallet
+ORD11603,2025-06-08,North,Sports,Running Shoes,98.09,7,5,789.62,577.44,212.18,37,3.2,Credit Card
+ORD11472,2025-06-08,West,Clothing,Dress,45.54,5,5,261.85,146.99,114.86,43,4.8,Credit Card
+ORD11503,2025-06-08,North,Home & Kitchen,Blender,299.25,6,15,2064.82,1501.72,563.1,19,4.1,Credit Card
+ORD10037,2025-06-08,North,Beauty,Shampoo,113.07,3,15,390.09,224.61,165.48,35,5.0,Credit Card
+ORD10996,2025-06-09,Central,Electronics,Laptop,984.66,5,20,5661.8,4259.76,1402.04,32,5.0,Debit Card
+ORD11591,2025-06-09,North,Clothing,Jacket,48.84,2,5,112.33,79.49,32.84,43,4.4,Debit Card
+ORD11228,2025-06-10,South,Home & Kitchen,Blender,162.28,3,0,559.87,411.87,148.0,37,3.7,Credit Card
+ORD10561,2025-06-10,Central,Home & Kitchen,Vacuum Cleaner,85.43,7,0,687.71,425.38,262.33,42,4.6,Debit Card
+ORD11245,2025-06-10,East,Home & Kitchen,Blender,245.68,7,5,1977.72,1567.31,410.41,36,4.1,Credit Card
+ORD11186,2025-06-10,East,Beauty,Skincare Kit,91.59,3,0,315.99,180.39,135.6,29,4.2,UPI
+ORD10562,2025-06-11,North,Clothing,Dress,59.64,2,10,137.17,99.46,37.71,23,4.2,Cash
+ORD10437,2025-06-11,Central,Sports,Tennis Racket,159.92,5,5,919.54,552.7,366.84,41,3.8,Credit Card
+ORD10414,2025-06-11,Central,Home & Kitchen,Air Fryer,197.18,3,0,680.27,441.5,238.77,20,5.0,Debit Card
+ORD11945,2025-06-11,Central,Electronics,Headphones,1006.74,5,10,5788.75,3976.39,1812.36,48,4.6,Debit Card
+ORD11955,2025-06-12,East,Electronics,Smartphone,407.26,4,15,1873.4,1088.54,784.86,23,5.0,Debit Card
+ORD10400,2025-06-13,Central,Clothing,Sneakers,43.77,7,0,352.35,276.67,75.68,25,4.5,Credit Card
+ORD11835,2025-06-13,North,Home & Kitchen,Air Fryer,148.09,5,0,851.52,553.87,297.65,38,3.1,Debit Card
+ORD10908,2025-06-13,West,Clothing,Dress,89.92,3,0,310.22,172.04,138.18,45,3.5,UPI
+ORD11873,2025-06-14,Central,Home & Kitchen,Air Fryer,33.96,2,5,78.11,49.47,28.64,45,4.2,Wallet
+ORD11642,2025-06-14,East,Electronics,Laptop,377.75,3,0,1303.24,765.32,537.92,30,3.6,Credit Card
+ORD10305,2025-06-15,Central,Clothing,Dress,119.69,3,5,412.93,231.53,181.4,31,4.3,UPI
+ORD11718,2025-06-15,West,Clothing,Jeans,98.63,4,0,453.7,358.97,94.73,32,4.5,Wallet
+ORD11524,2025-06-16,East,Electronics,Tablet,200.02,4,15,920.09,570.81,349.28,18,3.1,UPI
+ORD10304,2025-06-17,North,Electronics,Laptop,606.36,7,20,4881.2,3345.77,1535.43,28,4.3,Credit Card
+ORD11891,2025-06-17,South,Beauty,Hair Dryer,119.0,7,0,957.95,593.35,364.6,56,3.4,Debit Card
+ORD11208,2025-06-17,East,Home & Kitchen,Blender,263.08,4,10,1210.17,857.08,353.09,22,4.4,Credit Card
+ORD11133,2025-06-17,North,Beauty,Perfume,91.61,4,15,421.41,321.54,99.87,49,4.2,Wallet
+ORD11479,2025-06-18,South,Home & Kitchen,Air Fryer,181.21,5,5,1041.96,734.36,307.6,18,5.0,Credit Card
+ORD11768,2025-06-18,West,Beauty,Makeup Kit,47.92,2,0,110.22,68.56,41.66,18,3.9,Credit Card
+ORD11348,2025-06-18,North,Home & Kitchen,Cookware Set,40.55,3,10,139.9,108.84,31.06,30,4.0,Credit Card
+ORD11900,2025-06-19,West,Sports,Tennis Racket,319.34,6,5,2203.45,1411.3,792.15,18,3.2,Debit Card
+ORD10181,2025-06-19,East,Electronics,Smartwatch,831.17,2,0,1911.69,1339.21,572.48,18,4.9,Credit Card
+ORD11981,2025-06-19,East,Clothing,Dress,92.81,3,0,320.19,188.16,132.03,36,4.0,UPI
+ORD10250,2025-06-19,Central,Sports,Yoga Mat,294.07,1,5,338.18,267.46,70.72,48,3.5,UPI
+ORD11425,2025-06-20,South,Electronics,Smartphone,1128.48,1,5,1297.75,1009.93,287.82,26,4.9,Credit Card
+ORD10060,2025-06-20,East,Electronics,Laptop,1075.2,4,0,4945.92,3306.31,1639.61,61,4.0,Debit Card
+ORD10271,2025-06-20,South,Sports,Dumbbell Set,112.33,3,0,387.54,230.74,156.8,18,5.0,UPI
+ORD10417,2025-06-20,East,Beauty,Makeup Kit,53.3,1,0,61.29,41.31,19.98,36,4.6,Credit Card
+ORD11284,2025-06-20,West,Electronics,Laptop,70.13,7,10,564.55,377.34,187.21,23,4.0,Credit Card
+ORD11492,2025-06-20,South,Sports,Tennis Racket,395.22,2,0,909.01,505.52,403.49,34,4.1,UPI
+ORD11169,2025-06-22,West,Sports,Yoga Mat,240.62,2,5,553.43,357.31,196.12,42,4.9,UPI
+ORD10113,2025-06-22,West,Electronics,Smartwatch,1049.58,6,5,7242.1,4256.65,2985.45,42,4.1,UPI
+ORD11445,2025-06-23,East,Clothing,Dress,83.23,1,5,95.71,68.69,27.02,51,4.2,Credit Card
+ORD10413,2025-06-23,South,Clothing,Jacket,98.46,5,20,566.14,337.03,229.11,44,4.4,Debit Card
+ORD11584,2025-06-23,West,Electronics,Laptop,1026.88,7,0,8266.38,4591.44,3674.94,39,5.0,Cash
+ORD11022,2025-06-23,Central,Clothing,Jeans,31.41,7,5,252.85,163.68,89.17,43,4.0,UPI
+ORD10923,2025-06-23,North,Sports,Bicycle,346.95,5,0,1994.96,1108.75,886.21,21,4.3,Wallet
+ORD10632,2025-06-23,West,Clothing,T-Shirt,115.78,5,5,665.73,382.47,283.26,18,4.1,Debit Card
+ORD11341,2025-06-24,North,Clothing,Sneakers,34.72,5,10,199.64,141.16,58.48,36,4.4,Credit Card
+ORD11689,2025-06-24,North,Sports,Tennis Racket,222.87,4,10,1025.2,725.22,299.98,38,4.5,Debit Card
+ORD11805,2025-06-24,East,Beauty,Makeup Kit,10.56,6,5,72.86,46.78,26.08,27,3.2,Wallet
+ORD10742,2025-06-24,West,Electronics,Tablet,539.18,2,0,1240.11,754.61,485.5,18,3.6,Credit Card
+ORD10553,2025-06-24,South,Beauty,Hair Dryer,30.67,6,0,211.62,155.65,55.97,24,4.4,Cash
+ORD10708,2025-06-24,North,Clothing,Jacket,45.26,1,20,52.05,40.68,11.37,22,4.5,Credit Card
+ORD11346,2025-06-25,North,Beauty,Skincare Kit,13.7,3,15,47.26,35.64,11.62,37,4.6,Credit Card
+ORD11231,2025-06-25,North,Clothing,Sneakers,12.71,2,5,29.23,19.24,9.99,18,3.8,UPI
+ORD10985,2025-06-27,Central,Home & Kitchen,Lamp,196.4,6,0,1355.16,901.13,454.03,24,3.8,Debit Card
+ORD11908,2025-06-27,East,Sports,Yoga Mat,30.63,1,10,35.22,23.12,12.1,41,3.5,Credit Card
+ORD10472,2025-06-27,West,Electronics,Smartphone,1178.55,1,0,1355.33,785.82,569.51,32,4.9,Credit Card
+ORD11288,2025-06-27,Central,Electronics,Headphones,89.1,7,10,717.25,417.98,299.27,18,5.0,Credit Card
+ORD10334,2025-06-27,West,Beauty,Perfume,121.28,3,0,418.42,323.65,94.77,54,4.5,Credit Card
+ORD11400,2025-06-28,West,Electronics,Laptop,764.22,1,0,878.85,563.61,315.24,35,3.7,UPI
+ORD10812,2025-06-28,West,Sports,Tennis Racket,27.17,4,5,124.98,96.34,28.64,25,4.9,Credit Card
+ORD10704,2025-06-28,East,Electronics,Smartwatch,910.8,6,15,6284.52,3808.07,2476.45,32,5.0,UPI
+ORD11843,2025-06-28,Central,Beauty,Shampoo,77.04,3,5,265.79,162.01,103.78,29,4.8,Debit Card
+ORD10766,2025-06-29,Central,Sports,Tennis Racket,52.58,3,0,181.4,115.27,66.13,35,4.4,UPI
+ORD10236,2025-06-30,West,Sports,Yoga Mat,251.24,7,0,2022.48,1358.92,663.56,18,3.2,Credit Card
+ORD10008,2025-06-30,West,Home & Kitchen,Lamp,152.22,5,10,875.26,694.02,181.24,44,3.6,Credit Card
+ORD11406,2025-06-30,West,Home & Kitchen,Blender,77.99,1,0,89.69,57.01,32.68,23,3.6,Cash
+ORD11592,2025-06-30,East,Electronics,Laptop,196.81,5,20,1131.66,685.45,446.21,28,4.5,UPI
+ORD10764,2025-06-30,West,Clothing,Jacket,112.4,5,10,646.3,416.42,229.88,30,3.9,Credit Card
+ORD10735,2025-06-30,West,Sports,Bicycle,341.78,5,0,1965.23,1563.67,401.56,18,3.2,Credit Card
+ORD11543,2025-06-30,East,Home & Kitchen,Blender,34.78,3,10,119.99,95.62,24.37,33,4.0,Credit Card
+ORD11142,2025-07-01,Central,Home & Kitchen,Cookware Set,200.8,4,10,803.2,500.36,302.84,46,3.7,Credit Card
+ORD10988,2025-07-01,North,Electronics,Smartwatch,702.74,2,10,1405.48,846.23,559.25,44,4.1,Credit Card
+ORD10090,2025-07-01,East,Beauty,Shampoo,84.66,3,0,253.98,177.47,76.51,33,5.0,Credit Card
+ORD10862,2025-07-02,North,Beauty,Makeup Kit,36.31,1,5,36.31,27.53,8.78,39,4.6,Credit Card
+ORD11088,2025-07-02,West,Electronics,Smartwatch,710.65,4,15,2842.6,2177.98,664.62,34,4.2,Wallet
+ORD10920,2025-07-02,West,Sports,Yoga Mat,91.03,5,10,455.15,283.12,172.03,23,4.6,Debit Card
+ORD11504,2025-07-02,North,Sports,Bicycle,118.18,2,10,236.36,183.74,52.62,58,4.7,Credit Card
+ORD10796,2025-07-03,East,Home & Kitchen,Vacuum Cleaner,248.44,7,0,1739.08,1118.95,620.13,26,4.4,Debit Card
+ORD11319,2025-07-03,Central,Sports,Bicycle,329.31,4,0,1317.24,795.72,521.52,35,5.0,Credit Card
+ORD10154,2025-07-03,West,Beauty,Shampoo,30.62,5,0,153.1,85.59,67.51,19,3.7,Credit Card
+ORD10072,2025-07-03,North,Home & Kitchen,Air Fryer,83.66,7,15,585.62,389.73,195.89,21,4.4,Debit Card
+ORD11820,2025-07-04,South,Beauty,Skincare Kit,28.85,5,0,144.25,96.63,47.62,21,4.2,UPI
+ORD10560,2025-07-04,South,Home & Kitchen,Cookware Set,289.67,6,15,1738.02,1070.05,667.97,27,4.4,Credit Card
+ORD11726,2025-07-04,North,Home & Kitchen,Lamp,88.59,2,5,177.18,119.88,57.3,23,4.3,UPI
+ORD11693,2025-07-04,West,Home & Kitchen,Lamp,55.68,4,0,222.72,159.84,62.88,18,4.5,Debit Card
+ORD11215,2025-07-04,South,Clothing,Sneakers,37.07,5,10,185.35,114.72,70.63,27,3.7,Wallet
+ORD10494,2025-07-05,South,Electronics,Tablet,236.15,7,0,1653.05,1057.02,596.03,48,4.2,UPI
+ORD11595,2025-07-05,Central,Home & Kitchen,Air Fryer,240.2,5,5,1201.0,910.22,290.78,47,3.5,Debit Card
+ORD10894,2025-07-05,South,Home & Kitchen,Air Fryer,204.74,2,10,409.48,238.3,171.18,27,3.3,Debit Card
+ORD11546,2025-07-05,Central,Electronics,Headphones,741.43,1,10,741.43,498.94,242.49,40,3.2,Credit Card
+ORD11836,2025-07-06,West,Clothing,Dress,28.98,6,10,173.88,115.79,58.09,41,3.7,Credit Card
+ORD11194,2025-07-06,South,Clothing,T-Shirt,119.89,6,0,719.34,533.13,186.21,31,3.7,Debit Card
+ORD11211,2025-07-06,North,Sports,Tennis Racket,260.91,3,0,782.73,618.4,164.33,18,4.4,Cash
+ORD10695,2025-07-06,North,Clothing,Jeans,105.87,3,0,317.61,182.24,135.37,37,4.0,UPI
+ORD10455,2025-07-07,Central,Home & Kitchen,Lamp,66.54,5,0,332.7,232.84,99.86,32,4.2,Debit Card
+ORD11154,2025-07-07,Central,Clothing,Jeans,33.9,3,0,101.7,59.0,42.7,40,3.2,Debit Card
+ORD10061,2025-07-07,East,Sports,Yoga Mat,124.25,6,5,745.5,577.7,167.8,18,4.2,Credit Card
+ORD11021,2025-07-07,Central,Electronics,Smartphone,695.06,4,0,2780.24,1988.57,791.67,38,4.5,Wallet
+ORD11502,2025-07-07,South,Home & Kitchen,Air Fryer,249.97,3,20,749.91,501.73,248.18,25,5.0,Credit Card
+ORD11484,2025-07-07,South,Beauty,Shampoo,129.5,6,0,777.0,490.06,286.94,39,4.8,Debit Card
+ORD11276,2025-07-08,Central,Beauty,Shampoo,90.54,7,15,633.78,390.73,243.05,39,4.2,Wallet
+ORD11120,2025-07-08,East,Clothing,Jacket,53.56,3,0,160.68,120.85,39.83,20,3.6,UPI
+ORD11446,2025-07-08,South,Electronics,Smartphone,1107.35,4,10,4429.4,3254.8,1174.6,23,3.8,Debit Card
+ORD11195,2025-07-09,South,Electronics,Tablet,694.55,4,5,2778.2,2166.2,612.0,25,3.8,Cash
+ORD10470,2025-07-09,East,Sports,Tennis Racket,343.1,6,5,2058.6,1138.41,920.19,55,4.1,Credit Card
+ORD11629,2025-07-09,East,Electronics,Laptop,608.13,1,15,608.13,350.0,258.13,44,3.4,Credit Card
+ORD11989,2025-07-10,North,Clothing,Dress,62.27,3,0,186.81,137.47,49.34,38,4.4,Cash
+ORD11193,2025-07-10,East,Electronics,Headphones,735.43,7,5,5148.01,3341.84,1806.17,36,4.2,Credit Card
+ORD10543,2025-07-11,North,Electronics,Smartwatch,793.84,5,0,3969.2,2417.71,1551.49,48,3.7,Debit Card
+ORD11447,2025-07-11,South,Electronics,Smartphone,198.17,3,0,594.51,374.81,219.7,33,4.8,Debit Card
+ORD11794,2025-07-12,West,Electronics,Headphones,905.73,6,10,5434.38,4079.22,1355.16,34,5.0,Credit Card
+ORD10196,2025-07-12,South,Home & Kitchen,Lamp,74.84,6,0,449.04,306.81,142.23,42,4.8,Credit Card
+ORD10284,2025-07-13,West,Home & Kitchen,Blender,183.4,3,5,550.2,339.9,210.3,38,4.1,Debit Card
+ORD10723,2025-07-13,Central,Home & Kitchen,Lamp,278.65,3,0,835.95,465.15,370.8,35,4.2,Debit Card
+ORD11686,2025-07-13,East,Electronics,Smartphone,1101.51,2,5,2203.02,1264.19,938.83,40,4.3,Cash
+ORD10711,2025-07-14,North,Clothing,Dress,45.15,2,0,90.3,67.25,23.05,46,4.3,Cash
+ORD10156,2025-07-14,East,Beauty,Skincare Kit,24.52,2,10,49.04,34.67,14.37,38,5.0,Credit Card
+ORD11780,2025-07-15,Central,Electronics,Tablet,1133.86,3,5,3401.58,2451.45,950.13,31,4.1,Credit Card
+ORD10709,2025-07-15,East,Sports,Yoga Mat,158.56,1,15,158.56,104.67,53.89,54,4.2,UPI
+ORD11380,2025-07-15,West,Home & Kitchen,Vacuum Cleaner,119.39,6,5,716.34,483.92,232.42,18,4.0,Cash
+ORD10951,2025-07-16,North,Home & Kitchen,Vacuum Cleaner,110.01,5,10,550.05,434.81,115.24,45,5.0,Debit Card
+ORD10273,2025-07-16,East,Sports,Yoga Mat,157.17,1,0,157.17,104.08,53.09,37,4.0,Credit Card
+ORD11184,2025-07-16,Central,Home & Kitchen,Cookware Set,35.79,4,0,143.16,104.22,38.94,36,3.7,Wallet
+ORD11761,2025-07-16,West,Beauty,Skincare Kit,71.55,6,5,429.3,248.42,180.88,34,4.2,Wallet
+ORD10256,2025-07-17,South,Home & Kitchen,Blender,114.46,6,15,686.76,458.41,228.35,36,4.0,Credit Card
+ORD10959,2025-07-18,South,Beauty,Makeup Kit,146.91,4,0,587.64,403.15,184.49,24,4.7,Cash
+ORD10249,2025-07-18,North,Home & Kitchen,Blender,94.93,5,0,474.65,342.7,131.95,35,4.3,Credit Card
+ORD11885,2025-07-19,South,Clothing,T-Shirt,100.66,4,5,402.64,307.36,95.28,30,4.6,Debit Card
+ORD11051,2025-07-19,West,Electronics,Smartphone,304.02,4,0,1216.08,704.23,511.85,50,4.7,Credit Card
+ORD10024,2025-07-19,North,Beauty,Hair Dryer,106.84,6,5,641.04,368.15,272.89,35,4.8,UPI
+ORD10338,2025-07-20,West,Electronics,Tablet,797.12,3,15,2391.36,1683.0,708.36,70,4.5,Credit Card
+ORD10567,2025-07-20,West,Electronics,Smartwatch,702.66,6,5,4215.96,3285.37,930.59,33,5.0,UPI
+ORD11480,2025-07-20,Central,Clothing,T-Shirt,118.79,5,0,593.95,332.48,261.47,33,3.9,Debit Card
+ORD11536,2025-07-20,North,Clothing,T-Shirt,14.1,5,5,70.5,53.51,16.99,45,5.0,Debit Card
+ORD11678,2025-07-20,Central,Electronics,Laptop,1071.1,7,5,7497.7,5688.87,1808.83,52,4.8,UPI
+ORD11135,2025-07-21,Central,Home & Kitchen,Cookware Set,197.81,5,0,989.05,575.56,413.49,58,4.5,Credit Card
+ORD10341,2025-07-21,West,Home & Kitchen,Lamp,128.45,2,10,256.9,161.72,95.18,33,3.7,Credit Card
+ORD10291,2025-07-23,South,Sports,Tennis Racket,110.63,4,5,442.52,335.61,106.91,36,3.5,UPI
+ORD11564,2025-07-23,East,Home & Kitchen,Vacuum Cleaner,273.64,5,5,1368.2,929.81,438.39,18,4.7,Debit Card
+ORD10645,2025-07-23,East,Home & Kitchen,Cookware Set,186.04,6,0,1116.24,801.74,314.5,39,5.0,Credit Card
+ORD11902,2025-07-23,East,Home & Kitchen,Vacuum Cleaner,126.9,5,0,634.5,375.28,259.22,25,3.8,Credit Card
+ORD11560,2025-07-24,South,Sports,Dumbbell Set,359.4,3,20,1078.2,617.63,460.57,24,4.1,Wallet
+ORD11978,2025-07-24,East,Home & Kitchen,Air Fryer,216.77,6,0,1300.62,744.78,555.84,27,4.2,Wallet
+ORD11523,2025-07-24,East,Electronics,Smartwatch,656.62,4,0,2626.48,1579.52,1046.96,50,3.5,Credit Card
+ORD11374,2025-07-24,East,Sports,Dumbbell Set,189.99,4,10,759.96,537.59,222.37,29,4.5,Credit Card
+ORD10200,2025-07-25,North,Clothing,Jeans,44.58,3,10,133.74,103.69,30.05,24,3.5,Cash
+ORD10424,2025-07-25,West,Electronics,Laptop,299.05,7,0,2093.35,1195.16,898.19,31,4.7,Credit Card
+ORD11679,2025-07-25,South,Electronics,Laptop,100.96,6,5,605.76,463.37,142.39,37,3.4,UPI
+ORD11405,2025-07-25,North,Clothing,Jeans,55.96,5,0,279.8,216.45,63.35,58,5.0,Credit Card
+ORD10686,2025-07-26,East,Electronics,Tablet,699.71,2,0,1399.42,986.22,413.2,24,5.0,Credit Card
+ORD11023,2025-07-26,East,Electronics,Smartphone,516.27,7,0,3613.89,2180.84,1433.05,50,4.9,UPI
+ORD11952,2025-07-26,South,Home & Kitchen,Lamp,108.19,1,15,108.19,80.31,27.88,41,5.0,Debit Card
+ORD10057,2025-07-26,Central,Sports,Running Shoes,16.0,4,10,64.0,48.1,15.9,28,3.9,Debit Card
+ORD10674,2025-07-27,South,Sports,Running Shoes,112.8,7,15,789.6,628.33,161.27,47,3.8,Cash
+ORD10443,2025-07-27,South,Electronics,Smartphone,489.63,6,10,2937.78,2333.7,604.08,55,4.4,Cash
+ORD10491,2025-07-27,North,Electronics,Tablet,593.2,5,5,2966.0,2325.22,640.78,18,4.5,Credit Card
+ORD10893,2025-07-27,North,Sports,Dumbbell Set,120.59,6,0,723.54,458.95,264.59,21,4.0,Credit Card
+ORD10536,2025-07-27,Central,Electronics,Smartwatch,1099.92,5,0,5499.6,3248.29,2251.31,27,4.8,UPI
+ORD11707,2025-07-28,South,Home & Kitchen,Blender,103.43,7,0,724.01,435.87,288.14,45,5.0,Debit Card
+ORD10918,2025-07-28,West,Sports,Bicycle,59.43,1,0,59.43,44.8,14.63,37,5.0,Cash
+ORD10136,2025-07-28,Central,Clothing,Jeans,117.49,1,10,117.49,93.8,23.69,28,4.0,Credit Card
+ORD10838,2025-07-29,South,Home & Kitchen,Vacuum Cleaner,115.31,7,0,807.17,570.05,237.12,18,4.8,Credit Card
+ORD10676,2025-07-30,West,Clothing,Sneakers,76.66,6,0,459.96,258.78,201.18,47,4.2,Cash
+ORD11563,2025-07-30,East,Beauty,Skincare Kit,125.59,4,5,502.36,337.7,164.66,46,3.9,Credit Card
+ORD10677,2025-07-30,Central,Beauty,Perfume,56.42,6,5,338.52,195.17,143.35,20,4.2,Debit Card
+ORD10392,2025-07-30,East,Home & Kitchen,Blender,293.57,3,15,880.71,514.27,366.44,48,3.8,Wallet
+ORD10626,2025-07-31,East,Home & Kitchen,Lamp,246.03,4,0,984.12,542.28,441.84,31,3.5,UPI
+ORD10157,2025-07-31,South,Electronics,Smartphone,235.32,3,20,705.96,449.36,256.6,40,4.9,Credit Card
+ORD10052,2025-07-31,East,Clothing,Dress,98.55,7,0,689.85,402.94,286.91,18,4.8,Debit Card
+ORD10752,2025-07-31,South,Electronics,Headphones,841.9,7,5,5893.3,3657.53,2235.77,55,4.3,Wallet
+ORD10069,2025-08-01,South,Home & Kitchen,Vacuum Cleaner,195.76,2,10,391.52,228.97,162.55,62,4.6,Cash
+ORD10808,2025-08-01,East,Electronics,Smartwatch,128.48,7,10,899.36,526.95,372.41,36,3.5,Credit Card
+ORD11677,2025-08-01,Central,Electronics,Headphones,671.86,4,0,2687.44,1648.49,1038.95,42,4.0,Credit Card
+ORD10020,2025-08-02,North,Home & Kitchen,Blender,86.43,5,0,432.15,257.0,175.15,46,4.7,Credit Card
+ORD11519,2025-08-02,West,Clothing,Jacket,44.62,2,0,89.24,60.73,28.51,31,4.2,Credit Card
+ORD10343,2025-08-02,Central,Home & Kitchen,Lamp,118.12,1,20,118.12,73.28,44.84,52,4.7,Wallet
+ORD11731,2025-08-03,South,Home & Kitchen,Air Fryer,147.38,7,15,1031.66,611.55,420.11,35,4.7,Credit Card
+ORD11295,2025-08-03,North,Electronics,Smartwatch,924.59,1,15,924.59,678.76,245.83,32,3.4,Credit Card
+ORD10696,2025-08-03,South,Electronics,Laptop,1151.93,5,0,5759.65,4330.51,1429.14,22,3.2,Debit Card
+ORD10185,2025-08-03,Central,Beauty,Skincare Kit,127.55,5,5,637.75,427.44,210.31,38,4.3,UPI
+ORD10441,2025-08-04,East,Clothing,Jeans,37.35,1,0,37.35,28.82,8.53,42,4.0,Debit Card
+ORD11545,2025-08-04,North,Clothing,Sneakers,48.88,5,10,244.4,169.36,75.04,44,3.5,UPI
+ORD10062,2025-08-04,North,Beauty,Shampoo,42.93,4,0,171.72,130.97,40.75,36,4.7,Credit Card
+ORD10848,2025-08-04,West,Sports,Bicycle,319.92,3,0,959.76,557.8,401.96,32,4.5,UPI
+ORD11701,2025-08-04,North,Home & Kitchen,Lamp,196.15,6,0,1176.9,711.75,465.15,40,5.0,Credit Card
+ORD11298,2025-08-05,West,Clothing,Dress,57.02,7,15,399.14,238.46,160.68,38,3.9,Credit Card
+ORD10703,2025-08-05,West,Sports,Running Shoes,292.44,7,0,2047.08,1326.81,720.27,44,3.9,UPI
+ORD10308,2025-08-05,West,Electronics,Smartwatch,815.23,7,10,5706.61,4408.94,1297.67,38,4.3,Debit Card
+ORD11819,2025-08-05,North,Sports,Dumbbell Set,353.72,5,0,1768.6,1260.78,507.82,26,5.0,Wallet
+ORD10911,2025-08-06,South,Sports,Bicycle,309.92,3,0,929.76,574.44,355.32,58,4.4,Debit Card
+ORD11435,2025-08-06,West,Electronics,Tablet,128.82,3,10,386.46,215.93,170.53,20,4.2,Debit Card
+ORD10115,2025-08-06,East,Home & Kitchen,Air Fryer,64.59,1,10,64.59,49.55,15.04,40,4.5,UPI
+ORD11751,2025-08-07,East,Electronics,Tablet,1004.86,7,5,7034.02,3985.63,3048.39,22,4.9,UPI
+ORD11803,2025-08-07,Central,Clothing,Sneakers,108.07,7,20,756.49,531.49,225.0,40,5.0,UPI
+ORD10100,2025-08-07,South,Electronics,Smartphone,184.79,1,0,184.79,133.03,51.76,25,4.1,Cash
+ORD11575,2025-08-07,South,Electronics,Laptop,341.78,3,5,1025.34,678.62,346.72,34,4.6,Credit Card
+ORD11460,2025-08-07,Central,Home & Kitchen,Vacuum Cleaner,29.74,4,0,118.96,90.85,28.11,50,3.8,UPI
+ORD10446,2025-08-08,West,Electronics,Smartwatch,632.81,1,15,632.81,477.71,155.1,24,3.8,Credit Card
+ORD11887,2025-08-08,Central,Electronics,Tablet,221.87,7,0,1553.09,956.84,596.25,32,4.4,UPI
+ORD10778,2025-08-08,West,Sports,Running Shoes,226.13,4,0,904.52,685.94,218.58,46,4.2,Debit Card
+ORD11514,2025-08-09,West,Beauty,Skincare Kit,10.46,2,10,20.92,12.53,8.39,43,3.9,Credit Card
+ORD11127,2025-08-09,Central,Sports,Running Shoes,189.73,6,0,1138.38,670.01,468.37,36,3.3,Debit Card
+ORD10231,2025-08-09,East,Clothing,Jeans,32.35,7,5,226.45,146.43,80.02,31,5.0,Cash
+ORD10019,2025-08-09,West,Beauty,Perfume,140.86,4,5,563.44,436.46,126.98,20,4.3,UPI
+ORD10040,2025-08-10,South,Clothing,Dress,85.68,2,0,171.36,120.73,50.63,28,4.3,Credit Card
+ORD10963,2025-08-10,Central,Sports,Dumbbell Set,149.93,6,10,899.58,585.28,314.3,40,4.2,Cash
+ORD11311,2025-08-11,North,Electronics,Headphones,381.02,1,0,381.02,226.54,154.48,51,4.3,Credit Card
+ORD11755,2025-08-11,East,Sports,Bicycle,365.16,3,10,1095.48,769.89,325.59,43,3.5,Debit Card
+ORD10108,2025-08-11,West,Sports,Dumbbell Set,210.38,7,0,1472.66,881.07,591.59,18,4.6,Credit Card
+ORD11417,2025-08-11,East,Electronics,Headphones,923.94,5,10,4619.7,3657.48,962.22,32,4.5,Debit Card
+ORD11929,2025-08-11,East,Home & Kitchen,Cookware Set,175.53,4,5,702.12,468.99,233.13,18,4.5,Debit Card
+ORD11485,2025-08-11,West,Electronics,Tablet,706.57,6,0,4239.42,3370.34,869.08,55,4.3,UPI
+ORD10945,2025-08-12,East,Beauty,Shampoo,134.96,2,15,269.92,183.5,86.42,32,4.7,Credit Card
+ORD10461,2025-08-12,East,Beauty,Makeup Kit,43.81,2,5,87.62,62.8,24.82,33,3.8,Credit Card
+ORD10666,2025-08-12,Central,Home & Kitchen,Lamp,93.48,5,15,467.4,313.51,153.89,26,5.0,Credit Card
+ORD11682,2025-08-12,West,Beauty,Makeup Kit,120.75,7,15,845.25,602.18,243.07,52,3.2,Credit Card
+ORD10960,2025-08-12,South,Electronics,Laptop,64.08,3,15,192.24,117.06,75.18,32,4.3,Debit Card
+ORD10313,2025-08-13,Central,Electronics,Tablet,695.36,6,0,4172.16,2990.24,1181.92,31,4.6,Wallet
+ORD11763,2025-08-13,South,Electronics,Laptop,451.3,3,10,1353.9,982.14,371.76,26,3.6,Debit Card
+ORD11056,2025-08-13,South,Home & Kitchen,Lamp,187.34,4,0,749.36,437.14,312.22,37,4.3,Debit Card
+ORD10532,2025-08-14,North,Clothing,Sneakers,56.52,1,5,56.52,32.6,23.92,30,5.0,Cash
+ORD11808,2025-08-14,Central,Electronics,Tablet,1116.68,6,0,6700.08,4768.51,1931.57,27,3.9,Cash
+ORD11095,2025-08-14,South,Sports,Running Shoes,269.94,2,0,539.88,303.98,235.9,29,4.0,Credit Card
+ORD11776,2025-08-14,North,Home & Kitchen,Vacuum Cleaner,134.14,2,5,268.28,158.36,109.92,18,3.9,Credit Card
+ORD10779,2025-08-14,South,Beauty,Perfume,72.38,5,10,361.9,262.73,99.17,34,3.8,Debit Card
+ORD10105,2025-08-15,Central,Beauty,Shampoo,16.74,5,5,83.7,56.09,27.61,47,3.9,UPI
+ORD10956,2025-08-15,North,Home & Kitchen,Vacuum Cleaner,210.83,7,10,1475.81,1001.51,474.3,29,4.1,Cash
+ORD11883,2025-08-15,West,Electronics,Smartwatch,1003.01,7,0,7021.07,4514.6,2506.47,38,4.5,UPI
+ORD11389,2025-08-15,Central,Clothing,Sneakers,66.27,5,0,331.35,219.69,111.66,37,3.5,UPI
+ORD11973,2025-08-16,West,Clothing,Dress,48.73,3,20,146.19,105.35,40.84,25,4.8,Cash
+ORD11806,2025-08-16,Central,Electronics,Smartphone,209.15,4,5,836.6,486.24,350.36,34,4.1,Debit Card
+ORD10217,2025-08-16,East,Electronics,Smartphone,165.2,7,10,1156.4,757.14,399.26,32,4.5,UPI
+ORD11129,2025-08-16,East,Beauty,Shampoo,117.99,5,5,589.95,394.35,195.6,28,4.0,Debit Card
+ORD10863,2025-08-17,South,Sports,Dumbbell Set,395.97,6,10,2375.82,1458.04,917.78,26,3.1,Credit Card
+ORD11059,2025-08-17,South,Clothing,T-Shirt,89.72,1,0,89.72,60.14,29.58,34,4.1,Credit Card
+ORD11372,2025-08-17,South,Electronics,Smartwatch,462.6,5,10,2313.0,1591.5,721.5,33,3.3,Debit Card
+ORD10841,2025-08-18,East,Sports,Bicycle,53.99,3,5,161.97,104.55,57.42,23,3.1,UPI
+ORD11167,2025-08-18,South,Home & Kitchen,Lamp,268.98,3,15,806.94,529.79,277.15,25,3.8,Credit Card
+ORD11418,2025-08-18,West,Electronics,Tablet,1015.61,7,0,7109.27,4474.25,2635.02,31,4.3,UPI
+ORD10335,2025-08-18,South,Beauty,Perfume,43.45,6,5,260.7,192.38,68.32,36,3.9,Debit Card
+ORD10297,2025-08-19,North,Clothing,Dress,89.06,6,0,534.36,399.36,135.0,41,3.0,Debit Card
+ORD10817,2025-08-19,North,Sports,Yoga Mat,168.45,1,10,168.45,130.87,37.58,34,3.9,Debit Card
+ORD11361,2025-08-19,West,Electronics,Smartwatch,747.0,5,5,3735.0,2309.35,1425.65,51,4.8,Debit Card
+ORD11667,2025-08-20,North,Clothing,Dress,12.04,5,0,60.2,36.75,23.45,21,4.8,Debit Card
+ORD11212,2025-08-20,East,Sports,Bicycle,181.54,2,0,363.08,217.93,145.15,22,3.7,Debit Card
+ORD10384,2025-08-21,South,Electronics,Smartwatch,694.5,7,10,4861.5,2827.29,2034.21,44,4.2,Debit Card
+ORD10495,2025-08-21,East,Clothing,Dress,97.36,5,15,486.8,366.4,120.4,41,4.2,Credit Card
+ORD11914,2025-08-21,East,Home & Kitchen,Vacuum Cleaner,143.59,4,0,574.36,364.67,209.69,23,4.9,Credit Card
+ORD10526,2025-08-21,East,Home & Kitchen,Lamp,195.94,4,0,783.76,498.33,285.43,46,3.2,UPI
+ORD11811,2025-08-21,South,Clothing,Dress,116.31,7,0,814.17,475.99,338.18,32,3.9,Credit Card
+ORD11469,2025-08-22,South,Sports,Yoga Mat,58.68,2,10,117.36,74.65,42.71,41,4.4,UPI
+ORD11756,2025-08-22,South,Beauty,Shampoo,33.12,5,15,165.6,121.48,44.12,28,4.0,Debit Card
+ORD11477,2025-08-22,South,Clothing,Dress,57.04,7,0,399.28,308.52,90.76,28,4.1,Credit Card
+ORD10680,2025-08-23,East,Beauty,Makeup Kit,65.18,7,0,456.26,258.7,197.56,24,4.6,Credit Card
+ORD10035,2025-08-24,West,Home & Kitchen,Lamp,115.37,3,0,346.11,214.75,131.36,52,4.8,Cash
+ORD11986,2025-08-24,South,Home & Kitchen,Lamp,77.91,2,0,155.82,107.43,48.39,23,3.4,Debit Card
+ORD10254,2025-08-24,North,Electronics,Smartwatch,1188.84,7,20,8321.88,6210.6,2111.28,35,4.5,Credit Card
+ORD11342,2025-08-24,East,Beauty,Shampoo,62.04,5,0,310.2,171.3,138.9,34,3.4,Debit Card
+ORD11185,2025-08-24,East,Beauty,Perfume,125.65,4,0,502.6,317.55,185.05,18,4.9,UPI
+ORD11294,2025-08-24,West,Home & Kitchen,Lamp,125.56,2,10,251.12,170.53,80.59,33,4.2,Debit Card
+ORD11640,2025-08-25,West,Electronics,Headphones,1143.78,2,5,2287.56,1276.98,1010.58,18,2.5,UPI
+ORD10928,2025-08-26,East,Home & Kitchen,Cookware Set,144.0,3,10,432.0,317.72,114.28,43,3.5,Debit Card
+ORD11626,2025-08-26,North,Clothing,T-Shirt,49.6,5,0,248.0,172.99,75.01,51,4.6,Cash
+ORD11254,2025-08-26,North,Home & Kitchen,Air Fryer,167.59,3,0,502.77,351.43,151.34,18,4.0,Credit Card
+ORD11728,2025-08-27,North,Beauty,Hair Dryer,97.0,6,0,582.0,425.57,156.43,48,4.8,Debit Card
+ORD10210,2025-08-27,South,Clothing,T-Shirt,28.76,5,5,143.8,101.79,42.01,44,3.6,Debit Card
+ORD11748,2025-08-28,East,Sports,Yoga Mat,59.23,2,15,118.46,85.64,32.82,35,5.0,Debit Card
+ORD10264,2025-08-28,South,Clothing,Jacket,111.03,1,0,111.03,73.4,37.63,18,4.9,Debit Card
+ORD10717,2025-08-29,East,Clothing,Sneakers,102.49,5,5,512.45,323.7,188.75,18,4.6,Credit Card
+ORD11683,2025-08-29,South,Home & Kitchen,Cookware Set,210.88,6,5,1265.28,743.29,521.99,43,4.1,UPI
+ORD11757,2025-08-29,South,Clothing,T-Shirt,80.96,3,10,242.88,179.81,63.07,59,4.1,UPI
+ORD11553,2025-08-29,North,Home & Kitchen,Blender,206.76,1,0,206.76,128.72,78.04,18,5.0,Credit Card
+ORD10374,2025-08-29,Central,Beauty,Shampoo,148.36,3,0,445.08,263.61,181.47,54,4.2,UPI
+ORD10387,2025-08-30,South,Electronics,Smartphone,261.66,7,5,1831.62,1454.67,376.95,46,4.1,Credit Card
+ORD11176,2025-08-30,East,Electronics,Headphones,133.18,4,0,532.72,305.73,226.99,31,4.4,Credit Card

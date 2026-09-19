@@ -1,0 +1,9 @@
+KEY INSIGHTS - Retail Sales Dashboard
+========================================
+
+1. 'Electronics' is the top-performing category with $1,582,879 in total sales.
+2. January 2024 recorded the highest total sales; more broadly, average order value in Nov/Dec ($1,365) runs 20% above the rest of the year, reflecting a holiday-season pricing effect.
+3. The 'North' region drives the largest share of sales (24.3%).
+4. Order values are right-skewed: the mean ($1,170) sits above the median ($550), driven by a handful of high-value Electronics orders.
+5. Quantity and Profit show a weak correlation (r = 0.37), suggesting profit is driven more by product price/margin than order size.
+6. The highest average order value combo is East + Electronics ($2,863 avg).

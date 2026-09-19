@@ -1,0 +1,233 @@
+OrderID,CustomerName,Email,Product,Category,Quantity,Price,OrderDate,ShippingCity,PaymentMethod
+1155,Mia Wilson,mia.wilson@example.com,Bluetooth Speaker,Electronics,3,46.1,"Feb 15, 2024",new york,Debit Card
+1091,AMIR CHEN,amir.chen@example.com,Bluetooth Speaker,Electronics,1 units,44.1,"Jul 01, 2024",Chicago,Credit Card
+1215,Wei Silva,wei.silva@example.com,Bluetooth Speaker,Electronics,2,$47.02,04/08/2024, New York ,credit card
+1025,Liam Garcia,liam.garcia@example.com,Notebook Set,Stationery,4,,"Jul 03, 2024",Miami,Credit Card
+1216,  diego rossi  ,diego.rossi@example.com,Ballpoint Pens (12pk),Stationery,2, 6.22 ,2024-10-17,Seattle,credit card
+1067,Amir Silva,amir.silva@example.com,Sunglasses,Accessories,1, 30.59 ,2024-05-13,MIAMI,Cash
+1004,Amir Brown,amir.brown@example.com,Ballpoint Pens (12pk),Stationery,2,$6.54,"Aug 21, 2024",CHICAGO,paypal
+1012,Mia Nguyen,mia.nguyen@example.com,Wireless Mouse,Electronics,2,19.11,29/03/2024,Seattle,cash 
+1078,Priya Khan,priya.khan@example.com,Bluetooth Speaker,Electronics,, 45.52 ,2024-08-27, miami,CREDIT CARD
+1183,Sophia Brown,sophia.brown@example.com,Bluetooth Speaker,Electronics,1,45.04,2024-09-13,MIAMI,cash 
+1122,FATIMA BROWN,fatima.brown@example.com,Desk Lamp,Home,4, 18.94 ,04/05/2024,Los Angeles,debit card
+1075,Fatima Garcia,fatima.garcia@example.com,Desk Lamp,Home,4,,23/05/2024,Los Angeles,Debit Card
+1121,Oliver Garcia,oliver.garcia@example.com,Sunglasses,Accessories,3,30.31,24/01/2024,CHICAGO,cash 
+1023,  noah chen  ,noah.chen@example.com,Coffee Maker,Home,5, 39.32 ,11/09/2024,los angeles,debit card
+1066,Ava Brown,ava.brown@example.com,Backpack,Accessories,4,$56.66,2024-09-11,Seattle,CREDIT CARD
+1003,  mia silva  ,mia.silva@example.com,Coffee Maker,Home,3, 40.21 ,"Sep 14, 2024",LOS ANGELES,Credit Card
+1081,PRIYA SILVA,priya.silva@example.com,Running Shoes,Fitness,4,65.66,01/06/2024,NEW YORK,credit card
+1188,ETHAN BROWN,ethan.brown@example.com,Coffee Maker,Home,3,$40.7,2024-01-01,Seattle,Debit Card
+1100,  emma johnson  ,emma.johnson@example.com,Yoga Mat,Fitness,5,$20.91,22/07/2024,seattle,CREDIT CARD
+1172,  mia davis  ,mia.davis@example.com,Backpack,Accessories,5,57.64,11/02/2024,Houston,cash 
+1142,Liam Davis,liam.davis@example.com,Sunglasses,Accessories,2,30.16,"Sep 10, 2024",,Cash
+1051,Lucas Patel,lucas.patel@example.com,Backpack,Accessories,3,$55.73,"Feb 23, 2024",Houston,CREDIT CARD
+1079,ETHAN SILVA,ethan.silva@example.com,Coffee Maker,Home,1,$38.28,2024-09-03, New York ,Cash
+1141,SOPHIA KUMAR,sophia.kumar@example.com,Backpack,Accessories,4,57.67,"Apr 16, 2024",seattle,cash 
+1116,Mia Khan,mia.khan@example.com,Coffee Maker,Home,5, 39.03 ,"Mar 13, 2024",Los Angeles,PayPal
+1146,NOAH PATEL,noah.patel@example.com,Wireless Mouse,Electronics,3,19.48,12/09/2024,seattle,credit card
+1157,  ethan miller  ,ethan.miller@example.com,Bluetooth Speaker,Electronics,1, 47.07 ,23/10/2024, miami,Credit Card
+1083,DIEGO CHEN,diego.chen@example.com,Wireless Mouse,Electronics,4, 20.04 ,2024-08-01,los angeles,credit card
+1140,Lucas Johnson,lucas.johnson@example.com,Yoga Mat,Fitness,4, 21.99 ,2024-03-16,Seattle,CREDIT CARD
+1187,OLIVER DAVIS,oliver.davis@example.com,Ballpoint Pens (12pk),Stationery,1,$6.29,2024-08-14,Miami,Debit Card
+1110,LUCAS ROSSI,lucas.rossi@example.com,Sunglasses,Accessories,5,30.52,2024-09-27,LOS ANGELES,paypal
+1085,FATIMA DAVIS,fatima.davis@example.com,Wireless Mouse,Electronics,5, 19.86 ,2024-10-02, miami,debit card
+1210,Priya Chen,priya.chen@example.com,Notebook Set,Stationery,4, 8.4 ,13/01/2024, miami,credit card
+1047,  amir chen  ,,Ballpoint Pens (12pk),Stationery,4,6.27,"Oct 17, 2024",new york,debit card
+1162,Emma Brown,emma.brown@example.com,Sunglasses,Accessories,5, 29.24 ,"Feb 08, 2024",seattle,credit card
+1058,WEI CHEN,wei.chen@example.com,Ballpoint Pens (12pk),Stationery,2,6.13,2024-02-14,Los Angeles,cash 
+1061,Diego Chen,diego.chen@example.com,Bluetooth Speaker,Electronics,3,46.35,29/01/2024,houston,Credit Card
+1005,SOPHIA WILSON,sophia.wilson@example.com,Wireless Mouse,Electronics,3, 20.36 ,"Apr 19, 2024", New York ,paypal
+1106,AVA MILLER,ava.miller@example.com,Sunglasses,Accessories,4,29.53,"Oct 14, 2024",chicago ,Cash
+1098,Diego Wilson,diego.wilson@example.com,Yoga Mat,Fitness,1,21.72,"Feb 02, 2024",Seattle,Debit Card
+1097,Sophia Nguyen,sophia.nguyen@example.com,Coffee Maker,Home,1, 38.33 ,"Jun 11, 2024",Miami,debit card
+1185,ISLA GARCIA,isla.garcia@example.com,Notebook Set,Stationery,5, 8.7 ,11/08/2024,Los Angeles,PayPal
+1089,  sophia wilson  ,sophia.wilson@example.com,Ballpoint Pens (12pk),Stationery,4,$6.25,01/04/2024,Seattle,cash 
+1014,Ava Johnson,ava.johnson@example.com,Ballpoint Pens (12pk),Stationery,4 units,$6.23,"May 30, 2024",Miami,cash 
+1115,OLIVER JOHNSON,oliver.johnson@example.com,Backpack,Accessories,1, 55.04 ,2024-01-09,,debit card
+1010,Noah Garcia,noah.garcia@example.com,Coffee Maker,Home,4,39.87,17/08/2024,seattle,Credit Card
+1019,  lucas kumar  ,lucas.kumar@example.com,Coffee Maker,Home,2,40.33,2024-07-07,Houston,PayPal
+1126,  anaya chen  ,anaya.chen@example.com,Running Shoes,Fitness,1,67.58,2024-06-09, New York ,Debit Card
+1180,Noah Smith,noah.smith@example.com,Wireless Mouse,Electronics,5,$20.64,2024-09-02,houston,debit card
+1174,  mia khan  ,mia.khan@example.com,Yoga Mat,Fitness,3,22.41,2024-10-24, miami,Credit Card
+1103,  amir johnson  ,amir.johnson@example.com,Running Shoes,Fitness,3,,2024-07-10, miami,cash 
+1109,NOAH BROWN,noah.brown@example.com,Backpack,Accessories,1,55.34,"Jun 24, 2024",Los Angeles,
+1218,Fatima Johnson,fatima.johnson@example.com,Notebook Set,Stationery,5,8.88,2024-08-26,Houston,cash 
+1220,MIA GARCIA,mia.garcia@example.com,Bluetooth Speaker,Electronics,2, 43.63 ,"Aug 21, 2024",Miami,PayPal
+1198,SOPHIA PATEL,sophia.patel@example.com,Coffee Maker,Home,3, 40.52 ,"Oct 06, 2024",CHICAGO,Cash
+1015,LUCAS PATEL,lucas.patel@example.com,Coffee Maker,Home,1,39.2,01/07/2024,CHICAGO,PayPal
+1028,AVA MILLER,ava.miller@example.com,Sunglasses,Accessories,5,,2024-09-24,NEW YORK,Cash
+1114,  ava rossi  ,ava.rossi@example.com,Coffee Maker,Home,2,$39.2,2024-05-04,chicago ,CREDIT CARD
+1041,Sophia Brown,sophia.brown@example.com,Backpack,Accessories,2,$53.04,2024-06-28,,
+1046,Diego Patel,diego.patel@example.com,Backpack,Accessories,5,57.21,28/08/2024,LOS ANGELES,CREDIT CARD
+1161,FATIMA JOHNSON,fatima.johnson@example.com,Notebook Set,Stationery,1 units,8.64,2024-09-23,Houston,Credit Card
+1032,  anaya wilson  ,anaya.wilson@example.com,Coffee Maker,Home,1,38.05,2024-02-09,Los Angeles,CREDIT CARD
+1181,  mia davis  ,mia.davis@example.com,Ballpoint Pens (12pk),Stationery,3,6.41,"Jun 10, 2024",Los Angeles,debit card
+1139,Lucas Brown,lucas.brown@example.com,Bluetooth Speaker,Electronics,3,$45.36,2024-02-08,Houston,CREDIT CARD
+1033,ANAYA JOHNSON,anaya.johnson@example.com,Desk Lamp,Home,5,$18.9,"Sep 16, 2024", miami,credit card
+1217,  wei brown  ,wei.brown@example.com,Yoga Mat,Fitness,-1,21.11,"Feb 08, 2024",seattle,Cash
+1063,ETHAN JOHNSON,ethan.johnson@example.com,Sunglasses,Accessories,1,29.35,2024-01-13,seattle,Cash
+1149,SOPHIA JOHNSON,sophia.johnson@example.com,Bluetooth Speaker,Electronics,1, 45.42 ,2024-02-14,seattle,cash 
+1029,LIAM KHAN,liam.khan@example.com,Running Shoes,Fitness,1,66.05,2024-09-22, miami,Debit Card
+1064,  anaya smith  ,anaya.smith@example.com,Bluetooth Speaker,Electronics,4,$43.64,2024-01-09,MIAMI,Cash
+1102,FATIMA ROSSI,fatima.rossi@example.com,Ballpoint Pens (12pk),Stationery,3,$6.19,"Sep 22, 2024",new york,debit card
+1132,Emma Rossi,emma.rossi@example.com,Sunglasses,Accessories,5,29.14,08/08/2024,,Cash
+1016,Liam Miller,liam.miller@example.com,Running Shoes,Fitness,5,67.66,"Mar 20, 2024",CHICAGO,debit card
+1117,FATIMA PATEL,fatima.patel@example.com,Yoga Mat,Fitness,,22.95,28/05/2024,los angeles,
+1059,  ethan wilson  ,ethan.wilson@example.com,Running Shoes,Fitness,1,65.34,"Apr 18, 2024",MIAMI,cash 
+1178,Noah Khan,noah.khan@example.com,Sunglasses,Accessories,1,$28.96,21/01/2024,los angeles,
+1037,  noah nguyen  ,noah.nguyen@example.com,Backpack,Accessories,3, 56.57 ,2024-07-18,CHICAGO,Credit Card
+1086,Noah Garcia,noah.garcia@example.com,Sunglasses,Accessories,1,29.2,"May 27, 2024",Los Angeles,credit card
+1105,Lucas Rossi,lucas.rossi@example.com,Coffee Maker,Home,2,39.45,2024-04-15,New York,Credit Card
+1208,ISLA ROSSI,isla.rossi@example.com,Sunglasses,Accessories,2,29.75,2024-08-26,New York,Cash
+1052,  emma chen  ,,Desk Lamp,Home,5 units,18.06,29/01/2024,seattle,PayPal
+1195,Emma Davis,emma.davis@example.com,Running Shoes,Fitness,3,65.5,2024-10-04,seattle,Cash
+1159,  priya davis  ,priya.davis@example.com,Ballpoint Pens (12pk),Stationery,2,6.29,25/06/2024,Chicago,paypal
+1103,  amir johnson  ,amir.johnson@example.com,Running Shoes,Fitness,3,,2024-07-10, miami,cash 
+1209,  liam garcia  ,liam.garcia@example.com,Running Shoes,Fitness,4, 61.91 ,31/05/2024,seattle,debit card
+1095,ANAYA PATEL,anaya.patel@example.com,Sunglasses,Accessories,1,29.36,"Oct 18, 2024",seattle,paypal
+1135,Lucas Smith,lucas.smith@example.com,Sunglasses,Accessories,5,30.66,07/07/2024,CHICAGO,Cash
+1123,Fatima Johnson,fatima.johnson@example.com,Wireless Mouse,Electronics,4,19.03,"Jul 16, 2024",CHICAGO,credit card
+1205,Anaya Davis,,Desk Lamp,Home,1,$18.11,14/02/2024,los angeles,paypal
+1158,  diego kumar  ,diego.kumar@example.com,Yoga Mat,Fitness,5,22.07,31/03/2024, miami,credit card
+1038,Fatima Garcia,fatima.garcia@example.com,Coffee Maker,Home,2,40.11,"Sep 17, 2024",,cash 
+1170,Fatima Khan,fatima.khan@example.com,Running Shoes,Fitness,1,$63.93,2024-09-08,CHICAGO,credit card
+1096,Sophia Smith,sophia.smith@example.com,Yoga Mat,Fitness,1, 22.61 ,"Oct 22, 2024",Seattle,Cash
+1171,  priya kumar  ,priya.kumar@example.com,Bluetooth Speaker,Electronics,1,$47.77,2024-10-10,Chicago,credit card
+1144,PRIYA KUMAR,priya.kumar@example.com,Backpack,Accessories,,$54.48,2024-08-19, New York ,Credit Card
+1127,  noah garcia  ,noah.garcia@example.com,Wireless Mouse,Electronics,3,$19.58,"Oct 20, 2024",Houston,PayPal
+1050,Oliver Silva,oliver.silva@example.com,Notebook Set,Stationery,5,,"Jun 09, 2024",Miami,debit card
+1130,  mia rossi  ,mia.rossi@example.com,Sunglasses,Accessories,1 units,$30.89,"May 02, 2024",chicago ,Debit Card
+1006,SOPHIA ROSSI,sophia.rossi@example.com,Wireless Mouse,Electronics,3,$19.37,2024-05-22,Chicago,paypal
+1018,Lucas Patel,lucas.patel@example.com,Ballpoint Pens (12pk),Stationery,2,6.3,2024-09-13,Houston,debit card
+1154,DIEGO KHAN,diego.khan@example.com,Yoga Mat,Fitness,4,$20.91,"Mar 25, 2024",houston,CREDIT CARD
+1199,WEI MILLER,wei.miller@example.com,Coffee Maker,Home,5, 39.84 ,15/04/2024,Houston,PayPal
+1194,Liam Brown,liam.brown@example.com,Sunglasses,Accessories,4,$30.96,26/10/2024, miami,credit card
+1207,Isla Davis,isla.davis@example.com,Bluetooth Speaker,Electronics,2,45.42,"Jul 10, 2024",Miami,PayPal
+1148,Diego Smith,diego.smith@example.com,Running Shoes,Fitness,3, 64.94 ,"Jun 09, 2024",,Debit Card
+1099,  wei patel  ,wei.patel@example.com,Ballpoint Pens (12pk),Stationery,1,6.4,2024-04-24,Seattle,Cash
+1087,Priya Wilson,priya.wilson@example.com,Wireless Mouse,Electronics,2, 20.68 ,15/06/2024,LOS ANGELES,PayPal
+1063,ETHAN JOHNSON,ethan.johnson@example.com,Sunglasses,Accessories,1,29.35,2024-01-13,seattle,Cash
+1065,Lucas Brown,lucas.brown@example.com,Ballpoint Pens (12pk),Stationery,5,$6.51,2024-09-29,Los Angeles,PayPal
+1027,  emma nguyen  ,emma.nguyen@example.com,Yoga Mat,Fitness,4,21.46,2024-02-24,houston,cash 
+1129,Ethan Davis,ethan.davis@example.com,Notebook Set,Stationery,3,$8.56,"Aug 03, 2024",Miami,
+1042,,oliver.chen@example.com,Coffee Maker,Home,1,$38.08,"Feb 22, 2024",Miami,credit card
+1106,AVA MILLER,ava.miller@example.com,Sunglasses,Accessories,4,29.53,"Oct 14, 2024",chicago ,Cash
+1053,  isla johnson  ,isla.johnson@example.com,Sunglasses,Accessories,4, 31.38 ,02/05/2024,New York,Cash
+1169,AMIR MILLER,amir.miller@example.com,Yoga Mat,Fitness,3, 21.8 ,"Jul 16, 2024",Houston,credit card
+1202,,isla.johnson@example.com,Sunglasses,Accessories,1,31.34,"Oct 04, 2024",Seattle,Credit Card
+1112,Mia Johnson,mia.johnson@example.com,Sunglasses,Accessories,5,$28.81,14/03/2024,Los Angeles,Credit Card
+1107,Ethan Khan,ethan.khan@example.com,Yoga Mat,Fitness,-2, 21.42 ,"Sep 24, 2024",seattle,CREDIT CARD
+1082,Anaya Johnson,,Coffee Maker,Home,4, 39.23 ,"Jul 30, 2024",MIAMI,credit card
+1008,,wei.silva@example.com,Backpack,Accessories,2,$56.0,"Feb 29, 2024",Houston,Cash
+1092,LUCAS DAVIS,lucas.davis@example.com,Bluetooth Speaker,Electronics,3,43.26,29/07/2024,Chicago,credit card
+1204,FATIMA GARCIA,fatima.garcia@example.com,Yoga Mat,Fitness,3,20.91,"Apr 09, 2024",houston,cash 
+1200,SOPHIA NGUYEN,sophia.nguyen@example.com,Wireless Mouse,Electronics,2, 19.18 ,"Aug 04, 2024",Los Angeles,debit card
+1071,WEI BROWN,wei.brown@example.com,Sunglasses,Accessories,3, 30.85 ,18/09/2024,Chicago,PayPal
+1118,Priya Brown,priya.brown@example.com,Notebook Set,Stationery,1,$8.19,"Jan 03, 2024", New York ,Credit Card
+1203,  anaya smith  ,,Wireless Mouse,Electronics,5,,"Apr 10, 2024",Miami,Credit Card
+1133,AMIR DAVIS,amir.davis@example.com,Desk Lamp,Home,1, 19.18 ,11/10/2024, miami,Cash
+1009,Wei Silva,,Notebook Set,Stationery,3,$8.74,31/05/2024, miami,debit card
+1030,PRIYA DAVIS,priya.davis@example.com,Wireless Mouse,Electronics,5,$19.47,"Sep 06, 2024",New York,Credit Card
+1080,OLIVER KHAN,oliver.khan@example.com,Coffee Maker,Home,1,39.25,05/01/2024,NEW YORK,cash 
+1040,Emma Garcia,emma.garcia@example.com,Sunglasses,Accessories,4,30.95,20/01/2024,Seattle,Cash
+1134,,liam.kumar@example.com,Notebook Set,Stationery,5,8.75,02/03/2024,Houston,Credit Card
+1055,Noah Brown,noah.brown@example.com,Desk Lamp,Home,1,18.69,"Aug 06, 2024",houston,debit card
+1044,Fatima Khan,fatima.khan@example.com,Coffee Maker,Home,1, 38.94 ,"Jun 20, 2024",Los Angeles,PayPal
+1163,WEI JOHNSON,wei.johnson@example.com,Yoga Mat,Fitness,2,22.9,15/10/2024,MIAMI,credit card
+1049,ISLA GARCIA,isla.garcia@example.com,Running Shoes,Fitness,3,$63.88,"Feb 24, 2024",chicago ,Debit Card
+1175,Ava Khan,ava.khan@example.com,Wireless Mouse,Electronics,,$20.94,30/03/2024,Miami,CREDIT CARD
+1060,LUCAS JOHNSON,lucas.johnson@example.com,Notebook Set,Stationery,-5,8.69,2024-02-05,seattle,Debit Card
+1054,Wei Nguyen,wei.nguyen@example.com,Sunglasses,Accessories,5,29.26,29/01/2024, miami,Credit Card
+1021,WEI BROWN,wei.brown@example.com,Sunglasses,Accessories,-5,$29.54,2024-03-29,houston,PayPal
+1125,Amir Patel,amir.patel@example.com,Bluetooth Speaker,Electronics,4,47.74,2024-10-04,Houston,Credit Card
+1219,Mia Khan,mia.khan@example.com,Backpack,Accessories,2,56.13,16/05/2024,seattle,debit card
+1151,Diego Chen,diego.chen@example.com,Coffee Maker,Home,5,$40.12,"Sep 08, 2024",chicago ,credit card
+1077,EMMA SILVA,emma.silva@example.com,Desk Lamp,Home,1,18.99,15/10/2024,chicago ,Debit Card
+1196,ANAYA MILLER,anaya.miller@example.com,Desk Lamp,Home,,19.63,"Apr 29, 2024",Seattle,Cash
+1108,  ethan nguyen  ,ethan.nguyen@example.com,Yoga Mat,Fitness,3, 22.34 ,2024-03-13,new york,Cash
+1181,  mia davis  ,mia.davis@example.com,Ballpoint Pens (12pk),Stationery,3,6.41,"Jun 10, 2024",Los Angeles,debit card
+1013,  noah khan  ,noah.khan@example.com,Ballpoint Pens (12pk),Stationery,5, 6.19 ,2024-04-06,Houston,Cash
+1017,OLIVER KUMAR,oliver.kumar@example.com,Ballpoint Pens (12pk),Stationery,4,$6.11,"May 14, 2024",Chicago,Credit Card
+1048,LUCAS KUMAR,lucas.kumar@example.com,Notebook Set,Stationery,4, 8.3 ,2024-05-23,New York,Debit Card
+1167,Fatima Miller,fatima.miller@example.com,Yoga Mat,Fitness,3,$22.93,"Oct 07, 2024",Seattle,Cash
+1120,Fatima Wilson,fatima.wilson@example.com,Yoga Mat,Fitness,5,22.26,"Aug 19, 2024",Chicago,cash 
+1022,ANAYA DAVIS,anaya.davis@example.com,Coffee Maker,Home,4,38.32,27/05/2024,los angeles,paypal
+1147,  priya miller  ,priya.miller@example.com,Desk Lamp,Home,4,$18.27,"Jan 11, 2024",Los Angeles,credit card
+1187,OLIVER DAVIS,oliver.davis@example.com,Ballpoint Pens (12pk),Stationery,1,$6.29,2024-08-14,Miami,Debit Card
+1131,  wei rossi  ,wei.rossi@example.com,Running Shoes,Fitness,1,62.72,2024-03-20, miami,cash 
+1213,DIEGO CHEN,diego.chen@example.com,Coffee Maker,Home,1, 38.13 ,"Apr 20, 2024",Chicago,debit card
+1074,OLIVER JOHNSON,oliver.johnson@example.com,Notebook Set,Stationery,3, 8.59 ,2024-05-03,chicago ,cash 
+1031,PRIYA BROWN,priya.brown@example.com,Desk Lamp,Home,4, 18.18 ,"Oct 26, 2024",Seattle,CREDIT CARD
+1166,Lucas Brown,lucas.brown@example.com,Backpack,Accessories,5,54.02,26/05/2024,seattle,paypal
+1034,  priya johnson  ,priya.johnson@example.com,Backpack,Accessories,1, 52.93 ,"Apr 29, 2024",houston,Credit Card
+1165,ETHAN DAVIS,ethan.davis@example.com,Notebook Set,Stationery,3, 8.42 ,15/10/2024,NEW YORK,Cash
+1191,DIEGO JOHNSON,diego.johnson@example.com,Yoga Mat,Fitness,1,$21.29,"Jul 14, 2024",Chicago,credit card
+1156,  sophia davis  ,sophia.davis@example.com,Ballpoint Pens (12pk),Stationery,3,6.35,21/05/2024,houston,Credit Card
+1206,Ethan Garcia,ethan.garcia@example.com,Wireless Mouse,Electronics,5,20.7,"Jun 27, 2024",Seattle,cash 
+1124,  priya miller  ,priya.miller@example.com,Backpack,Accessories,2,$57.15,"Feb 07, 2024",NEW YORK,CREDIT CARD
+1090,FATIMA DAVIS,fatima.davis@example.com,Desk Lamp,Home,3,,"Apr 29, 2024",,Credit Card
+1164,Priya Kumar,priya.kumar@example.com,Desk Lamp,Home,4,18.29,"Apr 06, 2024",los angeles,Credit Card
+1101,  wei davis  ,wei.davis@example.com,Backpack,Accessories,4,53.56,06/06/2024, miami,Cash
+1150,Ethan Nguyen,ethan.nguyen@example.com,Bluetooth Speaker,Electronics,2, 43.36 ,2024-10-02,Chicago,credit card
+1179,Emma Smith,emma.smith@example.com,Coffee Maker,Home,5, 38.13 ,"Aug 12, 2024", miami,PayPal
+1059,  ethan wilson  ,ethan.wilson@example.com,Running Shoes,Fitness,1,65.34,"Apr 18, 2024",MIAMI,cash 
+1040,Emma Garcia,emma.garcia@example.com,Sunglasses,Accessories,4,30.95,20/01/2024,Seattle,Cash
+1062,FATIMA WILSON,fatima.wilson@example.com,Sunglasses,Accessories,3,29.83,"Oct 02, 2024",new york,debit card
+1036,  ethan brown  ,ethan.brown@example.com,Backpack,Accessories,1,53.02,2024-10-16,,Credit Card
+1011,Isla Khan,isla.khan@example.com,Desk Lamp,Home,4, 17.87 ,2024-10-21,los angeles,Debit Card
+1035,  noah wilson  ,noah.wilson@example.com,Notebook Set,Stationery,2,8.32,2024-05-29,seattle,cash 
+1072,Noah Garcia,noah.garcia@example.com,Desk Lamp,Home,2,18.9,13/07/2024,houston,CREDIT CARD
+1089,  sophia wilson  ,sophia.wilson@example.com,Ballpoint Pens (12pk),Stationery,4,$6.25,01/04/2024,Seattle,cash 
+1211,Anaya Khan,anaya.khan@example.com,Yoga Mat,Fitness,3 units,21.31,2024-02-25,new york,Debit Card
+1094,Anaya Chen,anaya.chen@example.com,Coffee Maker,Home,5,38.45,12/05/2024,houston,Cash
+1160,DIEGO MILLER,diego.miller@example.com,Bluetooth Speaker,Electronics,4,$44.78,2024-05-12, miami,debit card
+1119,Fatima Smith,fatima.smith@example.com,Bluetooth Speaker,Electronics,4,44.32,10/03/2024,Houston,PayPal
+1145,ISLA NGUYEN,isla.nguyen@example.com,Bluetooth Speaker,Electronics,2,43.68,"Feb 23, 2024",Seattle,CREDIT CARD
+1002,Wei Kumar,wei.kumar@example.com,Desk Lamp,Home,1,18.66,"Oct 05, 2024",Houston,credit card
+1214,Anaya Patel,,Yoga Mat,Fitness,4,21.56,2024-01-14,houston,Debit Card
+1084,Fatima Rossi,fatima.rossi@example.com,Sunglasses,Accessories,3, 31.02 ,12/02/2024,MIAMI,PayPal
+1092,LUCAS DAVIS,lucas.davis@example.com,Bluetooth Speaker,Electronics,3,43.26,29/07/2024,Chicago,credit card
+1088,Amir Silva,amir.silva@example.com,Notebook Set,Stationery,1,8.39,"Apr 11, 2024", miami,Cash
+1138,Sophia Smith,sophia.smith@example.com,Ballpoint Pens (12pk),Stationery,2, 6.0 ,21/09/2024,CHICAGO,PayPal
+1005,SOPHIA WILSON,sophia.wilson@example.com,Wireless Mouse,Electronics,3, 20.36 ,"Apr 19, 2024", New York ,paypal
+1039,Oliver Davis,oliver.davis@example.com,Running Shoes,Fitness,5,65.99,23/03/2024,,Cash
+1201,Fatima Garcia,fatima.garcia@example.com,Desk Lamp,Home,4,$18.3,"Oct 18, 2024", miami,Cash
+1035,  noah wilson  ,noah.wilson@example.com,Notebook Set,Stationery,2,8.32,2024-05-29,seattle,cash 
+1193,Wei Rossi,wei.rossi@example.com,Sunglasses,Accessories,4, 28.82 ,17/05/2024,New York,credit card
+1190,Diego Wilson,,Running Shoes,Fitness,2,$65.56,2024-07-22,Chicago,CREDIT CARD
+1113,ANAYA WILSON,anaya.wilson@example.com,Desk Lamp,Home,4,17.91,09/07/2024,LOS ANGELES,credit card
+1182,,lucas.miller@example.com,Coffee Maker,Home,2,$38.82,"Feb 05, 2024",houston,cash 
+1184,AMIR BROWN,amir.brown@example.com,Sunglasses,Accessories,2,$31.13,18/09/2024,seattle,cash 
+1153,Diego Miller,diego.miller@example.com,Ballpoint Pens (12pk),Stationery,4,$6.41,2024-09-05,houston,Cash
+1057,  lucas patel  ,lucas.patel@example.com,Coffee Maker,Home,,40.67,"Aug 09, 2024",MIAMI,Debit Card
+1070,  ava smith  ,ava.smith@example.com,Wireless Mouse,Electronics,1,$20.76,21/02/2024,CHICAGO,Debit Card
+1192,SOPHIA MILLER,sophia.miller@example.com,Yoga Mat,Fitness,1,$21.69,02/07/2024,Chicago,cash 
+1045,Oliver Smith,oliver.smith@example.com,Running Shoes,Fitness,, 62.41 ,2024-02-02,Houston,Cash
+1189,Isla Rossi,isla.rossi@example.com,Notebook Set,Stationery,4,8.83,06/09/2024,Los Angeles,debit card
+1020,,mia.silva@example.com,Bluetooth Speaker,Electronics,3,,2024-02-01,Houston,paypal
+1007,Isla Patel,isla.patel@example.com,Coffee Maker,Home,1, 40.79 ,"Aug 18, 2024",Miami,CREDIT CARD
+1056,WEI KHAN,wei.khan@example.com,Yoga Mat,Fitness,3,$22.95,"Feb 05, 2024",Seattle,Cash
+1076,  emma johnson  ,emma.johnson@example.com,Running Shoes,Fitness,3, 66.31 ,14/07/2024,houston,PayPal
+1001,  liam kumar  ,liam.kumar@example.com,Coffee Maker,Home,3,40.78,"Jun 06, 2024",Seattle,Credit Card
+1173,EMMA GARCIA,,Backpack,Accessories,2,$52.87,2024-06-21,houston,Cash
+1136,  sophia miller  ,sophia.miller@example.com,Desk Lamp,Home,3, 18.58 ,07/10/2024,NEW YORK,PayPal
+1128,  ava smith  ,ava.smith@example.com,Bluetooth Speaker,Electronics,2,47.2,2024-07-02,Seattle,PayPal
+1177,DIEGO DAVIS,diego.davis@example.com,Running Shoes,Fitness,2, 66.96 ,"Mar 07, 2024",Miami,debit card
+1069,Fatima Kumar,fatima.kumar@example.com,Bluetooth Speaker,Electronics,1,46.46,12/08/2024,,cash 
+1168,Priya Nguyen,priya.nguyen@example.com,Yoga Mat,Fitness,4,21.96,13/03/2024,Houston,paypal
+1137,LIAM BROWN,liam.brown@example.com,Running Shoes,Fitness,,$62.6,"Apr 02, 2024",Chicago,credit card
+1043,  mia chen  ,mia.chen@example.com,Notebook Set,Stationery,5,8.35,"Aug 08, 2024",CHICAGO,debit card
+1111,Lucas Brown,,Desk Lamp,Home,2,19.04,21/08/2024,new york,cash 
+1090,FATIMA DAVIS,fatima.davis@example.com,Desk Lamp,Home,3,,"Apr 29, 2024",,Credit Card
+1073,NOAH BROWN,noah.brown@example.com,Desk Lamp,Home,4,18.7,2024-10-19,Chicago,credit card
+1024,Ava Davis,ava.davis@example.com,Wireless Mouse,Electronics,5,19.27,02/02/2024,los angeles,
+1143,  mia khan  ,,Bluetooth Speaker,Electronics,1,43.95,22/04/2024,Los Angeles,Cash
+1186,  fatima davis  ,fatima.davis@example.com,Coffee Maker,Home,1, 38.19 ,25/05/2024,seattle,Debit Card
+1093,Priya Nguyen,priya.nguyen@example.com,Notebook Set,Stationery,5, 8.72 ,"Jun 03, 2024",chicago ,cash 
+1104,Mia Khan,mia.khan@example.com,Bluetooth Speaker,Electronics,3, 47.76 ,2024-06-27,seattle,paypal
+1152,  fatima silva  ,fatima.silva@example.com,Running Shoes,Fitness,3,$62.74,12/04/2024,MIAMI,paypal
+1212,ANAYA BROWN,anaya.brown@example.com,Yoga Mat,Fitness,5,23.04,"Jul 14, 2024",Los Angeles,PayPal
+1068,Emma Johnson,emma.johnson@example.com,Notebook Set,Stationery,3,$8.71,12/09/2024,houston,Credit Card
+1026,Emma Garcia,emma.garcia@example.com,Bluetooth Speaker,Electronics,3, 44.91 ,"Aug 30, 2024",,debit card
+1197,  lucas johnson  ,lucas.johnson@example.com,Running Shoes,Fitness,2,62.42,10/01/2024,LOS ANGELES,Cash
+1176,Mia Brown,mia.brown@example.com,Running Shoes,Fitness,4,64.05,"Sep 06, 2024",LOS ANGELES,paypal
